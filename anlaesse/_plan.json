@@ -1,0 +1,992 @@
+[
+ {
+  "id": "WEI01",
+  "anlass": "Weihnachten",
+  "spruch": "Plätzchen zählen nicht. Ist ja Weihnachten.",
+  "layout": "gross",
+  "main": "Plätzchen zählen nicht",
+  "sub": "Ist ja Weihnachten.",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI02",
+  "anlass": "Weihnachten",
+  "spruch": "Ich bin nur wegen des Essens hier.",
+  "layout": "streifen",
+  "main": "Ich bin nur wegen des Essens hier",
+  "sub": "",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI03",
+  "anlass": "Weihnachten",
+  "spruch": "Weihnachtsmodus: Couch, Kekse, kein Plan.",
+  "layout": "woerterbuch",
+  "main": "Weihnachtsmodus, der",
+  "sub": "Couch, Kekse, kein Plan.",
+  "label": "Substantiv, halbernst"
+ },
+ {
+  "id": "WEI04",
+  "anlass": "Weihnachten",
+  "spruch": "Oh du fröhliche Verdauung.",
+  "layout": "schild",
+  "main": "Oh du fröhliche Verdauung",
+  "sub": "",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI05",
+  "anlass": "Weihnachten",
+  "spruch": "Lichterkette entwirrt. Nerven auch.",
+  "layout": "stempel",
+  "main": "Lichterkette entwirrt",
+  "sub": "Nerven auch.",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI06",
+  "anlass": "Weihnachten",
+  "spruch": "Most likely to eat all the cookies",
+  "layout": "gross",
+  "main": "Most likely to eat all the cookies",
+  "sub": "",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI07",
+  "anlass": "Weihnachten",
+  "spruch": "Geschenke eingepackt? Nein. Klebeband gefunden? Auch nicht.",
+  "layout": "sperr",
+  "main": "Geschenke eingepackt?",
+  "sub": "Nein. Klebeband gefunden? Auch nicht.",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI08",
+  "anlass": "Weihnachten",
+  "spruch": "Ich bin der Grund, warum es eine Liste gibt.",
+  "layout": "schild",
+  "main": "Ich bin der Grund, warum es eine Liste gibt",
+  "sub": "",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI09",
+  "anlass": "Weihnachten",
+  "spruch": "Merry & müde",
+  "layout": "streifen",
+  "main": "Merry & müde",
+  "sub": "",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "WEI10",
+  "anlass": "Weihnachten",
+  "spruch": "Familienfest überlebt. Nächstes Jahr wieder.",
+  "layout": "stempel",
+  "main": "Familienfest überlebt",
+  "sub": "Nächstes Jahr wieder.",
+  "label": "Weihnachtshinweis"
+ },
+ {
+  "id": "SIL01",
+  "anlass": "Silvester",
+  "spruch": "Neues Jahr, gleicher Quatsch.",
+  "layout": "gross",
+  "main": "Neues Jahr, gleicher Quatsch",
+  "sub": "",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL02",
+  "anlass": "Silvester",
+  "spruch": "Meine Vorsätze: dieselben wie letztes Jahr.",
+  "layout": "streifen",
+  "main": "Meine Vorsätze: dieselben wie letztes Jahr",
+  "sub": "",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL03",
+  "anlass": "Silvester",
+  "spruch": "Um 0:01 Uhr schon gescheitert.",
+  "layout": "sperr",
+  "main": "Um 0:01 Uhr schon gescheitert",
+  "sub": "",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL04",
+  "anlass": "Silvester",
+  "spruch": "New year, same chaos",
+  "layout": "schild",
+  "main": "New year, same chaos",
+  "sub": "",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL05",
+  "anlass": "Silvester",
+  "spruch": "Ich rutsche. Aber gut.",
+  "layout": "stempel",
+  "main": "Ich rutsche",
+  "sub": "Aber gut.",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL06",
+  "anlass": "Silvester",
+  "spruch": "Dieses Jahr wird alles anders. Sagte ich letztes Jahr auch.",
+  "layout": "gross",
+  "main": "Dieses Jahr wird alles anders",
+  "sub": "Sagte ich letztes Jahr auch.",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL07",
+  "anlass": "Silvester",
+  "spruch": "Raclette ist eine Lebenseinstellung.",
+  "layout": "woerterbuch",
+  "main": "Raclette, das",
+  "sub": "Keine Mahlzeit. Eine Lebenseinstellung.",
+  "label": "Substantiv, halbernst"
+ },
+ {
+  "id": "SIL08",
+  "anlass": "Silvester",
+  "spruch": "Countdown läuft. Motivation nicht.",
+  "layout": "schild",
+  "main": "Countdown läuft",
+  "sub": "Motivation nicht.",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL09",
+  "anlass": "Silvester",
+  "spruch": "Neujahr feiere ich um 22 Uhr. Im Schlafanzug.",
+  "layout": "streifen",
+  "main": "Neujahr feiere ich um 22 Uhr. Im Schlafanzug",
+  "sub": "",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "SIL10",
+  "anlass": "Silvester",
+  "spruch": "Wachsgießen sagt: wird schon.",
+  "layout": "stempel",
+  "main": "Wachsgießen sagt",
+  "sub": "wird schon.",
+  "label": "Neujahrsvorsatz"
+ },
+ {
+  "id": "NIK01",
+  "anlass": "Nikolaus",
+  "spruch": "War brav. Ungefähr.",
+  "layout": "gross",
+  "main": "War brav",
+  "sub": "Ungefähr.",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK02",
+  "anlass": "Nikolaus",
+  "spruch": "Stiefel geputzt. Erwartungen hoch.",
+  "layout": "streifen",
+  "main": "Stiefel geputzt. Erwartungen hoch",
+  "sub": "",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK03",
+  "anlass": "Nikolaus",
+  "spruch": "Nüsse? Ernsthaft, Nikolaus?",
+  "layout": "sperr",
+  "main": "Nüsse?",
+  "sub": "Ernsthaft, Nikolaus?",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK04",
+  "anlass": "Nikolaus",
+  "spruch": "Rute? Ich nehm lieber Schokolade.",
+  "layout": "schild",
+  "main": "Rute?",
+  "sub": "Ich nehm lieber Schokolade.",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK05",
+  "anlass": "Nikolaus",
+  "spruch": "Nikolaus-Check: bestanden (knapp)",
+  "layout": "stempel",
+  "main": "Nikolaus-Check",
+  "sub": "bestanden (knapp)",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK06",
+  "anlass": "Nikolaus",
+  "spruch": "Mein Stiefel ist Größe 46. Nur so als Info.",
+  "layout": "gross",
+  "main": "Mein Stiefel ist Größe 46",
+  "sub": "Nur so als Info.",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK07",
+  "anlass": "Nikolaus",
+  "spruch": "Brav ist relativ.",
+  "layout": "sperr",
+  "main": "Brav ist relativ",
+  "sub": "",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK08",
+  "anlass": "Nikolaus",
+  "spruch": "Lieber Nikolaus, ich kann alles erklären.",
+  "layout": "schild",
+  "main": "Lieber Nikolaus, ich kann alles erklären",
+  "sub": "",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK09",
+  "anlass": "Nikolaus",
+  "spruch": "Brav gewesen? Kommt drauf an, wen du fragst.",
+  "layout": "streifen",
+  "main": "Brav gewesen? Kommt drauf an, wen du fragst",
+  "sub": "",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "NIK10",
+  "anlass": "Nikolaus",
+  "spruch": "Für Schokolade putze ich sogar Stiefel.",
+  "layout": "gross",
+  "main": "Für Schokolade putze ich sogar Stiefel",
+  "sub": "",
+  "label": "Nikolaus-Protokoll"
+ },
+ {
+  "id": "VAL01",
+  "anlass": "Valentinstag",
+  "spruch": "Du bist mein Mensch. Knapp vor Pizza.",
+  "layout": "gross",
+  "main": "Du bist mein Mensch",
+  "sub": "Knapp vor Pizza.",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL02",
+  "anlass": "Valentinstag",
+  "spruch": "Ich liebe dich mehr als Schlaf. Fast.",
+  "layout": "streifen",
+  "main": "Ich liebe dich mehr als Schlaf. Fast",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL03",
+  "anlass": "Valentinstag",
+  "spruch": "Mein Herz gehört dir. Die Fernbedienung nicht.",
+  "layout": "sperr",
+  "main": "Mein Herz gehört dir",
+  "sub": "Die Fernbedienung nicht.",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL04",
+  "anlass": "Valentinstag",
+  "spruch": "Love is sharing your fries. Sometimes.",
+  "layout": "schild",
+  "main": "Love is sharing your fries",
+  "sub": "Sometimes.",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL05",
+  "anlass": "Valentinstag",
+  "spruch": "Ich hab dich ausgesucht. Umtausch ausgeschlossen.",
+  "layout": "stempel",
+  "main": "Ich hab dich ausgesucht",
+  "sub": "Umtausch ausgeschlossen.",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL06",
+  "anlass": "Valentinstag",
+  "spruch": "Zusammen nerven wir besser.",
+  "layout": "gross",
+  "main": "Zusammen nerven wir besser",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL07",
+  "anlass": "Valentinstag",
+  "spruch": "Du hattest mich bei „Hast du Hunger?“",
+  "layout": "sperr",
+  "main": "Du hattest mich bei „Hast du Hunger?“",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL08",
+  "anlass": "Valentinstag",
+  "spruch": "Romantik ist, wenn du mir das letzte Stück lässt.",
+  "layout": "schild",
+  "main": "Romantik ist, wenn du mir das letzte Stück lässt",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL09",
+  "anlass": "Valentinstag",
+  "spruch": "Certified cuddle expert",
+  "layout": "streifen",
+  "main": "Certified cuddle expert",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "VAL10",
+  "anlass": "Valentinstag",
+  "spruch": "Liebe ist, die Sprachnachricht trotzdem anzuhören.",
+  "layout": "gross",
+  "main": "Liebe ist, die Sprachnachricht trotzdem anzuhören",
+  "sub": "",
+  "label": "Liebeserklärung"
+ },
+ {
+  "id": "MUT01",
+  "anlass": "Muttertag",
+  "spruch": "Mama hat immer recht. Auch wenn nicht.",
+  "layout": "gross",
+  "main": "Mama hat immer recht",
+  "sub": "Auch wenn nicht.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT02",
+  "anlass": "Muttertag",
+  "spruch": "Beste Mama der Welt – laut unabhängiger Familienumfrage.",
+  "layout": "streifen",
+  "main": "Beste Mama der Welt – laut unabhängiger Familienumfrage",
+  "sub": "",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT03",
+  "anlass": "Muttertag",
+  "spruch": "Mama. Chefin. Taxi. Küche. Alles.",
+  "layout": "sperr",
+  "main": "Mama",
+  "sub": "Chefin. Taxi. Küche. Alles.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT04",
+  "anlass": "Muttertag",
+  "spruch": "Ich bin Mama. Ich hab Augen im Hinterkopf.",
+  "layout": "schild",
+  "main": "Ich bin Mama",
+  "sub": "Ich hab Augen im Hinterkopf.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT05",
+  "anlass": "Muttertag",
+  "spruch": "„Weil ich es gesagt habe.“ – Mama, seit Jahren",
+  "layout": "zitat",
+  "main": "„Weil ich es gesagt habe.“ – Mama, seit Jahren",
+  "sub": "",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT06",
+  "anlass": "Muttertag",
+  "spruch": "Mom mode: always on",
+  "layout": "gross",
+  "main": "Mom mode",
+  "sub": "always on",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT07",
+  "anlass": "Muttertag",
+  "spruch": "Kaffee rein. Mama-Modus an.",
+  "layout": "sperr",
+  "main": "Kaffee rein",
+  "sub": "Mama-Modus an.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT08",
+  "anlass": "Muttertag",
+  "spruch": "Mama: zuständig für alles, was keiner findet.",
+  "layout": "schild",
+  "main": "Mama",
+  "sub": "zuständig für alles, was keiner findet.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT09",
+  "anlass": "Muttertag",
+  "spruch": "Offiziell Mama. Inoffiziell Superheldin.",
+  "layout": "streifen",
+  "main": "Offiziell Mama. Inoffiziell Superheldin",
+  "sub": "",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "MUT10",
+  "anlass": "Muttertag",
+  "spruch": "Ich hab Kinder großgezogen. Ich hab vor nichts mehr Angst.",
+  "layout": "stempel",
+  "main": "Ich hab Kinder großgezogen",
+  "sub": "Ich hab vor nichts mehr Angst.",
+  "label": "Mama-Regel"
+ },
+ {
+  "id": "VAT01",
+  "anlass": "Vatertag",
+  "spruch": "Papa. Der Mann. Der Grill. Die Legende.",
+  "layout": "gross",
+  "main": "Papa",
+  "sub": "Der Mann. Der Grill. Die Legende.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT02",
+  "anlass": "Vatertag",
+  "spruch": "Ich hab keine Witze. Ich hab Papa-Witze.",
+  "layout": "streifen",
+  "main": "Ich hab keine Witze. Ich hab Papa-Witze",
+  "sub": "",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT03",
+  "anlass": "Vatertag",
+  "spruch": "„Wo ist Papa?“ – „Am Grill.“",
+  "layout": "gross",
+  "main": "„Wo ist Papa?“",
+  "sub": "„Am Grill.“",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT04",
+  "anlass": "Vatertag",
+  "spruch": "Papa repariert das. Irgendwann.",
+  "layout": "schild",
+  "main": "Papa repariert das",
+  "sub": "Irgendwann.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT05",
+  "anlass": "Vatertag",
+  "spruch": "Dad mode: loading …",
+  "layout": "stempel",
+  "main": "Dad mode",
+  "sub": "loading …",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT06",
+  "anlass": "Vatertag",
+  "spruch": "Ich bin Papa. Ich weiß, wo der Akkuschrauber ist.",
+  "layout": "gross",
+  "main": "Ich bin Papa",
+  "sub": "Ich weiß, wo der Akkuschrauber ist.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT07",
+  "anlass": "Vatertag",
+  "spruch": "Papa des Jahres. Laut Papa.",
+  "layout": "sperr",
+  "main": "Papa des Jahres",
+  "sub": "Laut Papa.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT08",
+  "anlass": "Vatertag",
+  "spruch": "Papa – Profi im Einschlafen auf dem Sofa.",
+  "layout": "schild",
+  "main": "Papa",
+  "sub": "Profi im Einschlafen auf dem Sofa.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT09",
+  "anlass": "Vatertag",
+  "spruch": "Finger weg vom Thermostat.",
+  "layout": "streifen",
+  "main": "Finger weg vom Thermostat",
+  "sub": "",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "VAT10",
+  "anlass": "Vatertag",
+  "spruch": "Nicht alt. Papa-Level erreicht.",
+  "layout": "stempel",
+  "main": "Nicht alt",
+  "sub": "Papa-Level erreicht.",
+  "label": "Papa-Fakt"
+ },
+ {
+  "id": "JAH01",
+  "anlass": "Jahrestag",
+  "spruch": "Immer noch nicht umgetauscht.",
+  "layout": "gross",
+  "main": "Immer noch nicht umgetauscht",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH02",
+  "anlass": "Jahrestag",
+  "spruch": "Wir reifen wie guter Wein.",
+  "layout": "streifen",
+  "main": "Wir reifen wie guter Wein",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH03",
+  "anlass": "Jahrestag",
+  "spruch": "Du bist mein Lieblingsnerv.",
+  "layout": "sperr",
+  "main": "Du bist mein Lieblingsnerv",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH04",
+  "anlass": "Jahrestag",
+  "spruch": "Gemeinsam Unsinn machen seit dem ersten Date.",
+  "layout": "schild",
+  "main": "Gemeinsam Unsinn machen seit dem ersten Date",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH05",
+  "anlass": "Jahrestag",
+  "spruch": "Ich hab dich lieb. Sogar vor dem ersten Kaffee.",
+  "layout": "stempel",
+  "main": "Ich hab dich lieb",
+  "sub": "Sogar vor dem ersten Kaffee.",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH06",
+  "anlass": "Jahrestag",
+  "spruch": "Unsere Beziehung: 50 % Liebe, 50 % „Was essen wir?“",
+  "layout": "gross",
+  "main": "Unsere Beziehung",
+  "sub": "50 % Liebe, 50 % „Was essen wir?“",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH07",
+  "anlass": "Jahrestag",
+  "spruch": "Wir streiten nur über Snacks.",
+  "layout": "sperr",
+  "main": "Wir streiten nur über Snacks",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH08",
+  "anlass": "Jahrestag",
+  "spruch": "Team Wir.",
+  "layout": "schild",
+  "main": "Team Wir",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH09",
+  "anlass": "Jahrestag",
+  "spruch": "Jahrestag nicht vergessen. (Das Handy hat erinnert.)",
+  "layout": "streifen",
+  "main": "Jahrestag nicht vergessen. (Das Handy hat erinnert.)",
+  "sub": "",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "JAH10",
+  "anlass": "Jahrestag",
+  "spruch": "Zusammen seit damals. Immer noch mein Mensch.",
+  "layout": "stempel",
+  "main": "Zusammen seit damals",
+  "sub": "Immer noch mein Mensch.",
+  "label": "Beziehungsstatus"
+ },
+ {
+  "id": "HOC01",
+  "anlass": "Hochzeitstag",
+  "spruch": "Verheiratet. Ausgesucht. Behalten.",
+  "layout": "gross",
+  "main": "Verheiratet",
+  "sub": "Ausgesucht. Behalten.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC02",
+  "anlass": "Hochzeitstag",
+  "spruch": "Ja gesagt. Bereut? Nur beim Möbelaufbauen.",
+  "layout": "streifen",
+  "main": "Ja gesagt. Bereut? Nur beim Möbelaufbauen",
+  "sub": "",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC03",
+  "anlass": "Hochzeitstag",
+  "spruch": "Bis dass der Abwasch uns scheidet.",
+  "layout": "sperr",
+  "main": "Bis dass der Abwasch uns scheidet",
+  "sub": "",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC04",
+  "anlass": "Hochzeitstag",
+  "spruch": "Married and still laughing",
+  "layout": "schild",
+  "main": "Married and still laughing",
+  "sub": "",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC05",
+  "anlass": "Hochzeitstag",
+  "spruch": "Wir haben Ja gesagt. Zum Glück. Und zum Chaos.",
+  "layout": "stempel",
+  "main": "Wir haben Ja gesagt",
+  "sub": "Zum Glück. Und zum Chaos.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC06",
+  "anlass": "Hochzeitstag",
+  "spruch": "Verheiratet – freiwillig und unbefristet.",
+  "layout": "gross",
+  "main": "Verheiratet",
+  "sub": "freiwillig und unbefristet.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC07",
+  "anlass": "Hochzeitstag",
+  "spruch": "Ehefrau. Hat das letzte Wort. Und das vorletzte.",
+  "layout": "sperr",
+  "main": "Ehefrau",
+  "sub": "Hat das letzte Wort. Und das vorletzte.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC08",
+  "anlass": "Hochzeitstag",
+  "spruch": "Ehemann. Hört zu. Meistens.",
+  "layout": "schild",
+  "main": "Ehemann",
+  "sub": "Hört zu. Meistens.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC09",
+  "anlass": "Hochzeitstag",
+  "spruch": "Immer noch verheiratet. Immer noch lustig.",
+  "layout": "streifen",
+  "main": "Immer noch verheiratet. Immer noch lustig",
+  "sub": "",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "HOC10",
+  "anlass": "Hochzeitstag",
+  "spruch": "Ehe heißt: Pizza teilen. Halbe-halbe. Ungefähr.",
+  "layout": "stempel",
+  "main": "Ehe heißt",
+  "sub": "Pizza teilen. Halbe-halbe. Ungefähr.",
+  "label": "Ehe-Status"
+ },
+ {
+  "id": "REN01",
+  "anlass": "Rente",
+  "spruch": "Rentner. Ich hab keine Zeit.",
+  "layout": "gross",
+  "main": "Rentner",
+  "sub": "Ich hab keine Zeit.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN02",
+  "anlass": "Rente",
+  "spruch": "Ruhestand? Ich hatte noch nie so viel vor.",
+  "layout": "woerterbuch",
+  "main": "Ruhestand, der",
+  "sub": "Ich hatte noch nie so viel vor.",
+  "label": "Substantiv, halbernst"
+ },
+ {
+  "id": "REN03",
+  "anlass": "Rente",
+  "spruch": "Wecker gekündigt. Für immer.",
+  "layout": "sperr",
+  "main": "Wecker gekündigt",
+  "sub": "Für immer.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN04",
+  "anlass": "Rente",
+  "spruch": "Ab jetzt ist jeder Tag Samstag.",
+  "layout": "schild",
+  "main": "Ab jetzt ist jeder Tag Samstag",
+  "sub": "",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN05",
+  "anlass": "Rente",
+  "spruch": "Nicht arbeitslos. Fertig.",
+  "layout": "stempel",
+  "main": "Nicht arbeitslos",
+  "sub": "Fertig.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN06",
+  "anlass": "Rente",
+  "spruch": "Retired. Not tired.",
+  "layout": "gross",
+  "main": "Retired",
+  "sub": "Not tired.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN07",
+  "anlass": "Rente",
+  "spruch": "Hauptberuflich Hobby.",
+  "layout": "woerterbuch",
+  "main": "Rentner, der",
+  "sub": "Hauptberuflich Hobby.",
+  "label": "Substantiv, halbernst"
+ },
+ {
+  "id": "REN08",
+  "anlass": "Rente",
+  "spruch": "Montag? Kenn ich nicht mehr.",
+  "layout": "schild",
+  "main": "Montag?",
+  "sub": "Kenn ich nicht mehr.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN09",
+  "anlass": "Rente",
+  "spruch": "Jahrzehnte gearbeitet. Jetzt wird gegärtnert.",
+  "layout": "streifen",
+  "main": "Jahrzehnte gearbeitet. Jetzt wird gegärtnert",
+  "sub": "",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "REN10",
+  "anlass": "Rente",
+  "spruch": "Feierabend. Für immer.",
+  "layout": "stempel",
+  "main": "Feierabend",
+  "sub": "Für immer.",
+  "label": "Ruhestand"
+ },
+ {
+  "id": "ABS01",
+  "anlass": "Abschluss",
+  "spruch": "Geschafft. Fragt nicht, wie.",
+  "layout": "gross",
+  "main": "Geschafft",
+  "sub": "Fragt nicht, wie.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS02",
+  "anlass": "Abschluss",
+  "spruch": "Offiziell schlau.",
+  "layout": "streifen",
+  "main": "Offiziell schlau",
+  "sub": "",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS03",
+  "anlass": "Abschluss",
+  "spruch": "Abschluss in der Tasche. Plan noch nicht.",
+  "layout": "sperr",
+  "main": "Abschluss in der Tasche",
+  "sub": "Plan noch nicht.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS04",
+  "anlass": "Abschluss",
+  "spruch": "Überlebt. Prüfung: bestanden.",
+  "layout": "schild",
+  "main": "Überlebt",
+  "sub": "Prüfung: bestanden.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS05",
+  "anlass": "Abschluss",
+  "spruch": "Class dismissed",
+  "layout": "stempel",
+  "main": "Class dismissed",
+  "sub": "",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS06",
+  "anlass": "Abschluss",
+  "spruch": "Lernen war gestern. Feiern ist heute.",
+  "layout": "gross",
+  "main": "Lernen war gestern",
+  "sub": "Feiern ist heute.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS07",
+  "anlass": "Abschluss",
+  "spruch": "Jetzt mit Zeugnis.",
+  "layout": "sperr",
+  "main": "Jetzt mit Zeugnis",
+  "sub": "",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS08",
+  "anlass": "Abschluss",
+  "spruch": "Bestanden. Mit Kaffee und Panik.",
+  "layout": "schild",
+  "main": "Bestanden",
+  "sub": "Mit Kaffee und Panik.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS09",
+  "anlass": "Abschluss",
+  "spruch": "Ab heute Profi. Fast.",
+  "layout": "streifen",
+  "main": "Ab heute Profi. Fast",
+  "sub": "",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "ABS10",
+  "anlass": "Abschluss",
+  "spruch": "Meine Noten sind privat. Mein Abschluss nicht.",
+  "layout": "stempel",
+  "main": "Meine Noten sind privat",
+  "sub": "Mein Abschluss nicht.",
+  "label": "Zeugnis"
+ },
+ {
+  "id": "EIN01",
+  "anlass": "Einzug",
+  "spruch": "Neue Bude, neues Chaos.",
+  "layout": "gross",
+  "main": "Neue Bude, neues Chaos",
+  "sub": "",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN02",
+  "anlass": "Einzug",
+  "spruch": "Kisten ausgepackt: 3 von 47.",
+  "layout": "streifen",
+  "main": "Kisten ausgepackt: 3 von 47",
+  "sub": "",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN03",
+  "anlass": "Einzug",
+  "spruch": "Endlich daheim. Fast fertig.",
+  "layout": "sperr",
+  "main": "Endlich daheim",
+  "sub": "Fast fertig.",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN04",
+  "anlass": "Einzug",
+  "spruch": "Hier wohnen Kisten. Und wir.",
+  "layout": "schild",
+  "main": "Hier wohnen Kisten",
+  "sub": "Und wir.",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN05",
+  "anlass": "Einzug",
+  "spruch": "Erst einziehen, dann einrichten. Irgendwann.",
+  "layout": "gross",
+  "main": "Erst einziehen, dann einrichten",
+  "sub": "Irgendwann.",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN06",
+  "anlass": "Einzug",
+  "spruch": "Der Bohrer gehört jetzt zur Familie.",
+  "layout": "gross",
+  "main": "Der Bohrer gehört jetzt zur Familie",
+  "sub": "",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN07",
+  "anlass": "Einzug",
+  "spruch": "Freunde gesucht. Mit Transporter.",
+  "layout": "sperr",
+  "main": "Freunde gesucht",
+  "sub": "Mit Transporter.",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN08",
+  "anlass": "Einzug",
+  "spruch": "Neue Adresse, alte Gewohnheiten.",
+  "layout": "schild",
+  "main": "Neue Adresse, alte Gewohnheiten",
+  "sub": "",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN09",
+  "anlass": "Einzug",
+  "spruch": "Möbel aufgebaut. Beziehung überlebt.",
+  "layout": "streifen",
+  "main": "Möbel aufgebaut. Beziehung überlebt",
+  "sub": "",
+  "label": "Neue Adresse"
+ },
+ {
+  "id": "EIN10",
+  "anlass": "Einzug",
+  "spruch": "Housewarming? Erst mal WLAN.",
+  "layout": "stempel",
+  "main": "Housewarming?",
+  "sub": "Erst mal WLAN.",
+  "label": "Neue Adresse"
+ }
+]
