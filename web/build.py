@@ -181,8 +181,9 @@ if(location.search.indexOf('customer_posted=true')>=0){document.getElementById('
 """
 
 # ---------- 5 Anlass-Seiten ----------
+EMOJI = {"weihnachten":"🎄","nikolaus":"🎅","silvester":"🎆","runde-geburtstage":"🎂","grillen":"🔥","hunde":"🐶","buero-und-berufe":"💼","ki-humor":"🤖"}
 def anlass_page(key, title, intro, kw, ziel_suffix=None, extra=""):
-    html = f"""<div class="hb" id="hb-anl-{key}"><p class="big" style="font-size:34px">{title}</p><p>{intro}</p>
+    html = f"""<div class="hb" id="hb-anl-{key}"><div style="font-size:64px;line-height:1;margin:4px 0 10px">{EMOJI[key]}</div><p>{intro}</p>
 <div id="a-frist"></div><div id="a-out"><p>Lade Designs …</p></div>
 <div class="box center"><p><b>Noch unsicher?</b> Der Geschenk-Finder hilft in 20 Sekunden.</p><a class="btn gelb" href="/pages/geschenk-finder?anlass={key}">🎁 Geschenk-Finder</a> <a class="btn weiss" href="/pages/glueckwunsch?anlass={key}">💬 Glückwunsch schreiben</a></div>{extra}</div>"""
     js = "var KW=" + json.dumps(kw, ensure_ascii=False) + ";var SUF=" + json.dumps(ziel_suffix) + r""";
@@ -238,7 +239,7 @@ APP_HTML = """<div class="hb" id="hb-app">
 
 # Übersichtsseite Anlässe
 UEB_HTML = """<div class="hb"><p class="big center" style="font-size:40px">Anlässe</p><p class="center">Für jeden Anlass der passende Spruch.</p><div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(220px,1fr))">""" + "".join(
-f"""<a class="card" href="/pages/{k}" style="padding:16px"><b style="padding:0 0 6px;font-size:18px">{t}</b><span style="padding:0">{i[:90]}…</span></a>""" for k,t,i,_,_ in ANLAESSE) + "</div></div>"
+f"""<a class="card" href="/pages/{k}" style="padding:16px"><span style="font-size:44px;padding:0 0 6px;line-height:1">{EMOJI[k]}</span><b style="padding:0 0 6px;font-size:18px">{t}</b><span style="padding:0">{i[:90]}…</span></a>""" for k,t,i,_,_ in ANLAESSE) + "</div></div>"
 
 pages = {}
 pages["geschenk-finder"] = ("Geschenk-Finder", page("geschenk-finder", FINDER_HTML, FINDER_JS))
