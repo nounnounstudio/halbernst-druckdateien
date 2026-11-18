@@ -278,3 +278,33 @@ def svg(spec, anlass, var):
         top = 0 if lay in ('stempel', 'schild') else 230
     return ('<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">'
             + f'<g transform="translate(0,{top})">' + ''.join(parts) + '</g></svg>'), h + top
+
+PALETTE['Merch'] = ('#D64026', '#FFBE28')
+
+def L_logo(s, c):
+    tc, ac, bg = c; out = []
+    size = min(fit('anton', 'HALB', W * 0.5, 2000), fit('anton', 'HALBERNST', W, 2000))
+    wh = bounds('anton', 'HALB', size)[0]; we = bounds('anton', 'ERNST', size)[0]; x = X0 + (W - wh - we) / 2
+    o, y = put('anton', 'HALB', size, 60, tc, 'left', x); out.append(o)
+    o, _ = put('anton', 'ERNST', size, 60, ac, 'left', x + wh); out.append(o)
+    y += 150; out.append(rect(X0, y, W, 50, tc)); y += 200
+    o, y = put('archivo', s.get('sub', 'HUMOR ZUM ANZIEHEN'), fit('archivo', s.get('sub', 'HUMOR ZUM ANZIEHEN'), W, 300, 0.3), y, ac, 'center', track=0.3); out.append(o)
+    return out, y
+
+def L_qr(s, c):
+    import qrcode
+    tc, ac, bg = c; out = []
+    o, y, _ = block('anton', s['main'], 40, tc, maxsize=1000, maxlines=1, upper=True, align='center'); out += o
+    q = qrcode.QRCode(border=0, error_correction=qrcode.constants.ERROR_CORRECT_M); q.add_data(s['url']); q.make()
+    m = q.get_matrix(); n = len(m); size = 2100; cell = size / n; x0 = CX - size / 2; y0 = y + 200
+    pad = cell * 4
+    out.append(rect(x0 - pad, y0 - pad, size + 2 * pad, size + 2 * pad, '#FFFFFF', 60))
+    for r_, row in enumerate(m):
+        for k, v in enumerate(row):
+            if v: out.append(rect(x0 + k * cell, y0 + r_ * cell, cell + 1, cell + 1, '#141414'))
+    y = y0 + size + pad + 220
+    o, y, _ = block('marker', s['sub'], y, ac, maxsize=800, maxlines=1, align='center'); out += o
+    y += 120; o, y = put('archivo', 'HALBERNST.DE', 240, y, tc, 'center', track=0.3); out.append(o)
+    return out, y
+
+NEU.update({'logo': L_logo, 'qr': L_qr})
