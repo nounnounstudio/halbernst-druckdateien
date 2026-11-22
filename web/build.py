@@ -31,15 +31,15 @@ CSS = """<style>
 # ---------- gemeinsame Bausteine ----------
 JS_BASE = r"""
 var HB=window.HB||{};window.HB=HB;
-HB.load=HB.load||function(){if(HB._p)return HB._p;HB._p=(async function(){var all=[];for(var p=1;p<5;p++){var r=await fetch('/products.json?limit=250&page='+p);if(!r.ok)break;var j=await r.json();if(!j.products.length)break;all=all.concat(j.products);if(j.products.length<250)break;}return all;})();return HB._p;};
+HB.TT={};HB.load=HB.load||function(){if(HB._p)return HB._p;HB._p=(async function(){async function get(base){var all=[];for(var p=1;p<9;p++){var r=await fetch(base+'products.json?limit=250&page='+p);if(!r.ok)break;var j=await r.json();if(!j.products.length)break;all=all.concat(j.products);if(j.products.length<250)break;}return all;}var all=await get('/');if(HB.EN&&HB.R!='/'){try{(await get(HB.R)).forEach(function(p){HB.TT[p.id]=p.title;});}catch(e){}}return all;})();return HB._p;};
 HB.norm=function(s){return (s||'').toLowerCase().replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss');};
 HB.text=function(p){return HB.norm(p.title+' '+(p.tags||[]).join(' ')+' '+(p.product_type||''));};
 HB.price=function(p){var v=(p.variants||[])[0];return v?(Number(v.price).toFixed(2).replace('.',',')+' €'):'';};
-HB.card=function(p,why){var img=(p.images&&p.images[0])?p.images[0].src.replace(/(\.[a-z]+)(\?|$)/i,'_400x$1$2'):'';var t=p.title.lastIndexOf(' – ')>0?p.title.slice(0,p.title.lastIndexOf(' – ')):p.title;return '<a class="card" href="/products/'+p.handle+'"><img loading="lazy" src="'+img+'" alt="'+t.replace(/"/g,'')+'"><b>'+t+'</b>'+(why?'<span>'+why+'</span>':'')+'<em>ab '+HB.price(p)+'</em></a>';};
+HB.card=function(p,why){var img=(p.images&&p.images[0])?p.images[0].src.replace(/(\.[a-z]+)(\?|$)/i,'_400x$1$2'):'';var tt=HB.TT[p.id]||p.title;var t=tt.lastIndexOf(' – ')>0?tt.slice(0,tt.lastIndexOf(' – ')):tt;return '<a class="card" href="'+(HB.R||'/')+'products/'+p.handle+'"><img loading="lazy" src="'+img+'" alt="'+t.replace(/"/g,'')+'"><b>'+t+'</b>'+(why?'<span>'+why+'</span>':'')+'<em>ab '+HB.price(p)+'</em></a>';};
 HB.esc=function(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
 HB.LIEFERTAGE=8;
 HB.frist=function(ziel){var d=new Date(ziel+'T00:00:00');var heute=new Date();heute.setHours(0,0,0,0);var bis=new Date(d);bis.setDate(bis.getDate()-HB.LIEFERTAGE);var tage=Math.round((bis-heute)/864e5);return {tage:tage,bis:bis};};
-HB.datum=function(d){return d.toLocaleDateString('de-DE',{day:'numeric',month:'long'});};
+HB.datum=function(d){return d.toLocaleDateString(HB.EN?'en-GB':'de-DE',{day:'numeric',month:'long'});};
 """
 
 def page(name, html, js):
@@ -107,6 +107,7 @@ weihnachten:{lustig:['Frohe Weihnachten, {n}! Möge dein Bauch voller sein als d
 silvester:{lustig:['Guten Rutsch, {n}! Und gleiche Vorsätze wie letztes Jahr.','Frohes neues Jahr, {n}! Neues Jahr, gleicher Quatsch.'],lieb:['Frohes neues Jahr, {n}! Auf ein Jahr mit vielen guten Momenten.','Guten Rutsch, {n}! Ich freu mich auf alles, was wir nächstes Jahr erleben.'],frech:['Guten Rutsch, {n}! Um 0:01 Uhr schon gescheitert ist auch eine Leistung.','Frohes Neues, {n}! Dieses Jahr wird alles anders. Sagst du ja jedes Jahr.']},
 rente:{lustig:['Alles Gute zur Rente, {n}! Ab jetzt ist jeder Tag Samstag.','Glückwunsch zur Rente, {n}! Der Wecker hat endgültig verloren.'],lieb:['Alles Liebe zum Ruhestand, {n}! Genieß jede freie Minute, du hast sie dir verdient.'],frech:['Glückwunsch zur Rente, {n}! Jetzt hast du keine Ausrede mehr für den Keller.']},
 nachtraeglich:{lustig:['Alles Gute nachträglich, {n}! Ich wollte nur sichergehen, dass du auch nach dem Geburtstag noch gefeiert wirst.','Nachträglich alles Gute, {n}! Ich bin nicht zu spät, ich verlängere deinen Geburtstag.'],lieb:['Alles Liebe nachträglich, {n}! Spät, aber von Herzen.'],frech:['Alles Gute nachträglich, {n}! Ich hab dran gedacht. Nur nicht pünktlich.']}};
+if(HB.EN)X=XEN;
 var S={anlass:'geburtstag',ton:'lustig',look:'0',i:0};
 function chips(){document.querySelectorAll('#hb-gw .chips').forEach(function(el){var k=el.dataset.k,Li=k=='anlass'?A:k=='ton'?T:L;el.innerHTML=Li.map(function(x){return '<button type="button" class="chip'+(S[k]==x[0]?' on':'')+'" data-v="'+x[0]+'">'+x[1]+'</button>';}).join('');el.onclick=function(e){var v=e.target.dataset&&e.target.dataset.v;if(!v)return;S[k]=v;if(k!='look'){S.i=0;setText();}chips();draw();};});}
 function setText(){var n=document.getElementById('g-name').value.trim();var arr=X[S.anlass][S.ton];var t=arr[S.i%arr.length];t=n?t.replace('{n}',n):t.replace(', {n}','').replace(' {n}','');document.getElementById('g-text').value=t;upd();}
@@ -141,8 +142,8 @@ VOTE_HTML = """<div class="hb" id="hb-vote">
 <div class="box"><h2>Deine Lieblinge</h2><div id="v-fav" class="muted">Noch keine. Stimm oben ab!</div></div>
 </div>"""
 VOTE_JS = "var SP=" + json.dumps(SPRUECHE, ensure_ascii=False) + r""";
-var heute=new Date();var tag=Math.floor((heute-new Date(heute.getFullYear(),0,0))/864e5);var s=SP[tag%SP.length];
-document.getElementById('v-datum').textContent=heute.toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long'});
+if(HB.EN)SP=SPEN;var heute=new Date();var tag=Math.floor((heute-new Date(heute.getFullYear(),0,0))/864e5);var s=SP[tag%SP.length];
+document.getElementById('v-datum').textContent=heute.toLocaleDateString(HB.EN?'en-GB':'de-DE',{weekday:'long',day:'numeric',month:'long'});
 document.getElementById('v-spruch').textContent=s;
 function lade(){try{return JSON.parse(localStorage.getItem('hb_votes')||'{}');}catch(e){return {};}}
 function speichere(v){try{localStorage.setItem('hb_votes',JSON.stringify(v));}catch(e){}}
@@ -150,7 +151,7 @@ function fav(){var v=lade(),f=Object.keys(v).filter(function(k){return v[k]==1;}
 function zeige(v){var d=document.getElementById('v-dank');d.style.display='block';d.textContent=v==1?'Danke! Deine Stimme zählt. Morgen gibt es den nächsten Spruch.':'Notiert. Morgen kommt ein besserer, versprochen.';}
 document.querySelectorAll('#hb-vote [data-v]').forEach(function(b){b.onclick=function(){var v=lade();v[s]=+b.dataset.v;speichere(v);zeige(+b.dataset.v);fav();};});
 var v=lade();if(s in v)zeige(v[s]);fav();
-if(location.hash=='#vorschlag'&&location.search.indexOf('contact_posted')>=0){alert('Danke für deinen Spruch!');}
+if(location.hash=='#vorschlag'&&location.search.indexOf('contact_posted')>=0){alert(HB.t('Danke für deinen Spruch!'));}
 """
 
 # ---------- 4 Geburtstags-Erinnerung ----------
@@ -175,7 +176,7 @@ ER_HTML = """<div class="hb" id="hb-er">
 ER_JS = r"""
 var t=document.getElementById('er-tag'),m=document.getElementById('er-monat');
 for(var i=1;i<=31;i++)t.innerHTML+='<option>'+i+'</option>';
-['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'].forEach(function(n,i){m.innerHTML+='<option value="'+(i+1)+'">'+n+'</option>';});
+(HB.EN?MONEN:['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']).forEach(function(n,i){m.innerHTML+='<option value="'+(i+1)+'">'+n+'</option>';});
 document.getElementById('er-form').onsubmit=function(){var w=document.getElementById('er-wer').value.trim().toLowerCase().replace(/[^a-z0-9äöüß]+/g,'-').slice(0,20);var tg=('0'+t.value).slice(-2),mo=('0'+m.value).slice(-2);document.getElementById('er-tags').value='erinnerung, geb-'+mo+'-'+tg+', geb-'+mo+'-'+tg+'-'+w;};
 if(location.search.indexOf('customer_posted=true')>=0){document.getElementById('er-ok').style.display='block';}
 """
@@ -215,9 +216,7 @@ AM_HTML = """<div class="hb" id="hb-am" style="max-width:1100px">
 <p class="center">Große Kunst, ehrliche Gefühle. Wir haben berühmte Gemälde aus fünf Jahrhunderten gefragt, wie es ihnen heute so geht.</p>
 <div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:26px;margin-top:24px">""" + "".join(
 f"""<figure style="margin:0;background:#F5F0E4;border:3px solid #141414;padding:14px;box-shadow:6px 6px 0 #141414"><img loading="lazy" src="{C}{k}_hell_brust.png?width=700" alt="{s}" style="width:100%;display:block"><figcaption style="border-top:2px solid #B08D4A;margin-top:10px;padding-top:8px;font-size:13px"><b>{s}</b><br><span class="muted">{w}</span></figcaption></figure>""" for k,s,w in KUNST) + """</div>
-<div class="box"><h2>Die Shirts kommen in Kürze</h2><p>Die Kollektion ist gerade in Produktion. Trag dich für die <a href="/pages/geburtstags-erinnerung">Erinnerungs-E-Mails</a> ein, dann erfährst du es als Erstes.</p>
-<p class="muted">Alle Gemälde sind gemeinfrei und stammen aus der Open-Access-Sammlung des Metropolitan Museum of Art (CC0). Die Sprüche und die Gestaltung sind von Halbernst.</p></div>
-<div id="am-out"></div></div>"""
+<div id="am-out"></div><div class="box"><p class="muted">Alle Gemälde sind gemeinfrei und stammen aus der Open-Access-Sammlung des Metropolitan Museum of Art (CC0). Die Sprüche und die Gestaltung sind von Halbernst.</p></div></div>"""
 AM_JS = r"""HB.load().then(function(P){var r=P.filter(function(p){return HB.text(p).indexOf('kunst-t-shirt')>=0;});if(r.length)document.getElementById('am-out').innerHTML='<h2>Jetzt erhältlich</h2><div class="grid">'+r.map(function(p){return HB.card(p);}).join('')+'</div>';});"""
 
 # ---------- 7 App-Seite ----------
@@ -257,6 +256,10 @@ json.dump({k: {"title": t, "body": b} for k, (t, b) in pages.items()}, open(f"{O
 print({k: len(b) for k, (t, b) in pages.items()})
 
 # ---------- Bündel: eine JS-Datei für alle Seiten ----------
+import i18n
+DIC=dict(i18n.D)
+for k,t,i,_,_ in ANLAESSE:
+    et,ei=i18n.ANL_EN[k]; DIC[t]=et; DIC[i]=ei; DIC[i[:90]+'…']=ei[:90]+'…'
 parts = {}
 parts["geschenk-finder"] = (FINDER_HTML, FINDER_JS)
 parts["glueckwunsch"] = (GW_HTML, GW_JS)
@@ -268,9 +271,9 @@ parts["anlaesse"] = (UEB_HTML, "")
 for k, t, i, kw, suf in ANLAESSE:
     parts[k] = anlass_page(k, t, i, kw, suf)
 css_inner = CSS.replace("<style>", "").replace("</style>", "")
-bundle = "(function(){var st=document.createElement('style');st.textContent=" + json.dumps(css_inner) + ";document.head.appendChild(st);" + JS_BASE + "var P={};"
+bundle = "(function(){var st=document.createElement('style');st.textContent=" + json.dumps(css_inner) + ";document.head.appendChild(st);" + JS_BASE + i18n.runtime(DIC) + "var XEN=" + json.dumps(i18n.X_EN, ensure_ascii=False) + ";var SPEN=" + json.dumps(i18n.SP_EN, ensure_ascii=False) + ";var MONEN=" + json.dumps(i18n.MONTHS_EN) + ";var P={};"
 for k, (h, j) in parts.items():
     bundle += "P[" + json.dumps(k) + "]={h:" + json.dumps(h, ensure_ascii=False) + ",j:function(){" + j + "}};"
-bundle += "function run(){document.querySelectorAll('[data-hb-page]').forEach(function(r){var p=P[r.getAttribute('data-hb-page')];if(!p)return;r.innerHTML=p.h;try{p.j();}catch(e){console.error('Halbernst',e);}});}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',run);else run();})();"
+bundle += "function run(){document.querySelectorAll('[data-hb-page]').forEach(function(r){var p=P[r.getAttribute('data-hb-page')];if(!p)return;r.innerHTML=p.h;HB.watch(r);try{p.j();}catch(e){console.error('Halbernst',e);}});}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',run);else run();})();"
 open(f"{OUT}/halbernst-tools.js", "w").write(bundle)
 print("bundle", len(bundle))
