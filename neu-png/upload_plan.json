@@ -1,1910 +1,1964 @@
 [
-{
-"id": 61,
-"spruch": "Ananas gehört auf Pizza.",
-"thema": "Ragebait",
-"title": "Ananas gehört auf Pizza – T-Shirt mit Ragebait-Spruch"
-},
-{
-"id": 62,
-"spruch": "Erst die Milch, dann das Müsli.",
-"thema": "Ragebait",
-"title": "Erst die Milch, dann das Müsli – T-Shirt mit Ragebait-Spruch"
-},
-{
-"id": 63,
-"spruch": "Rolltreppe: Ich stehe links.",
-"thema": "Ragebait",
-"title": "Rolltreppe: Ich stehe links – T-Shirt mit Ragebait-Spruch"
-},
-{
-"id": 64,
-"spruch": "Es heißt der Butter.",
-"thema": "Ragebait",
-"title": "Es heißt der Butter – T-Shirt mit Ragebait-Spruch"
-},
-{
-"id": 65,
-"spruch": "Dein Lieblingsfilm ist mittelmäßig.",
-"thema": "Ragebait",
-"title": "Dein Lieblingsfilm ist mittelmäßig – T-Shirt mit Ragebait-Spruch"
-},
-{
-"id": 66,
-"spruch": "Montag ist jetzt euer Problem.",
-"thema": "Rente",
-"title": "Montag ist jetzt euer Problem – T-Shirt zur Rente"
-},
-{
-"id": 67,
-"spruch": "Offiziell nicht mehr zuständig.",
-"thema": "Rente",
-"title": "Offiziell nicht mehr zuständig – T-Shirt zur Rente"
-},
-{
-"id": 68,
-"spruch": "Rentner. Termine nur nach Vereinbarung. Also nie.",
-"thema": "Rente",
-"title": "Rentner. Termine nur nach Vereinbarung. Also nie – T-Shirt zur Rente"
-},
-{
-"id": 69,
-"spruch": "45 Jahre gearbeitet. Reicht dann auch.",
-"thema": "Rente",
-"title": "45 Jahre gearbeitet. Reicht dann auch – T-Shirt zur Rente"
-},
-{
-"id": 70,
-"spruch": "Im Ruhestand. Betonung auf Ruhe.",
-"thema": "Rente",
-"title": "Im Ruhestand. Betonung auf Ruhe – T-Shirt zur Rente"
-},
-{
-"id": 71,
-"spruch": "Ich bin dann mal weg. Diesmal wirklich.",
-"thema": "Rente",
-"title": "Ich bin dann mal weg. Diesmal wirklich – T-Shirt zur Rente"
-},
-{
-"id": 72,
-"spruch": "Ich gehe. Die Kaffeemaschine bleibt. Viel Glück.",
-"thema": "Rente",
-"title": "Ich gehe. Die Kaffeemaschine bleibt. Viel Glück – T-Shirt zur Rente"
-},
-{
-"id": 73,
-"spruch": "Letzter Arbeitstag. Bitte keine Fragen mehr.",
-"thema": "Rente",
-"title": "Letzter Arbeitstag. Bitte keine Fragen mehr – T-Shirt zur Rente"
-},
-{
-"id": 74,
-"spruch": "Neuer Job. Gleiche Müdigkeit.",
-"thema": "Rente",
-"title": "Neuer Job. Gleiche Müdigkeit – T-Shirt zur Rente"
-},
-{
-"id": 75,
-"spruch": "Rente: Endlich Zeit, alles weiter aufzuschieben.",
-"thema": "Rente",
-"title": "Rente: Endlich Zeit, alles weiter aufzuschieben – T-Shirt zur Rente"
-},
-{
-"id": 76,
-"spruch": "Mama. Zuständig für alles. Seit immer.",
-"thema": "Familie:Mama",
-"title": "Mama. Zuständig für alles. Seit immer – T-Shirt für Mama"
-},
-{
-"id": 77,
-"spruch": "Frag Mama. Die weiß, wo es liegt.",
-"thema": "Familie:Mama",
-"title": "Frag Mama. Die weiß, wo es liegt – T-Shirt für Mama"
-},
-{
-"id": 78,
-"spruch": "Mama hat nicht immer recht. Nur fast immer.",
-"thema": "Familie:Mama",
-"title": "Mama hat nicht immer recht. Nur fast immer – T-Shirt für Mama"
-},
-{
-"id": 79,
-"spruch": "Ich bin nicht müde. Ich bin Mama. Das ist dasselbe.",
-"thema": "Familie:Mama",
-"title": "Ich bin nicht müde. Ich bin Mama. Das ist dasselbe – T-Shirt für Mama"
-},
-{
-"id": 80,
-"spruch": "Mama: Geschäftsführung ohne Feierabend.",
-"thema": "Familie:Mama",
-"title": "Mama: Geschäftsführung ohne Feierabend – T-Shirt für Mama"
-},
-{
-"id": 81,
-"spruch": "Papa sagt: Frag Mama.",
-"thema": "Familie:Papa",
-"title": "Papa sagt: Frag Mama – T-Shirt für Papa"
-},
-{
-"id": 82,
-"spruch": "Papa repariert das. Irgendwann.",
-"thema": "Familie:Papa",
-"title": "Papa repariert das. Irgendwann – T-Shirt für Papa"
-},
-{
-"id": 83,
-"spruch": "Ich schlafe nicht. Ich ruhe die Augen aus.",
-"thema": "Familie:Papa",
-"title": "Ich schlafe nicht. Ich ruhe die Augen aus – T-Shirt für Papa"
-},
-{
-"id": 84,
-"spruch": "Papa hat einen Plan. Er verrät ihn nur nicht.",
-"thema": "Familie:Papa",
-"title": "Papa hat einen Plan. Er verrät ihn nur nicht – T-Shirt für Papa"
-},
-{
-"id": 85,
-"spruch": "Tür zu. Wir heizen nicht für draußen.",
-"thema": "Familie:Papa",
-"title": "Tür zu. Wir heizen nicht für draußen – T-Shirt für Papa"
-},
-{
-"id": 86,
-"spruch": "Mama sagt nein. Oma sagt ja.",
-"thema": "Familie:Oma",
-"title": "Mama sagt nein. Oma sagt ja – T-Shirt für Oma"
-},
-{
-"id": 87,
-"spruch": "Bei Oma gibt es keine kleinen Portionen.",
-"thema": "Familie:Oma",
-"title": "Bei Oma gibt es keine kleinen Portionen – T-Shirt für Oma"
-},
-{
-"id": 88,
-"spruch": "Oma. Wie Mama, nur ohne Regeln.",
-"thema": "Familie:Oma",
-"title": "Oma. Wie Mama, nur ohne Regeln – T-Shirt für Oma"
-},
-{
-"id": 89,
-"spruch": "Hast du schon gegessen? – Oma",
-"thema": "Familie:Oma",
-"title": "Hast du schon gegessen? – Oma – T-Shirt für Oma"
-},
-{
-"id": 90,
-"spruch": "Oma weiß es. Sie sagt nur nichts.",
-"thema": "Familie:Oma",
-"title": "Oma weiß es. Sie sagt nur nichts – T-Shirt für Oma"
-},
-{
-"id": 91,
-"spruch": "Opa weiß das. Auch ohne Internet.",
-"thema": "Familie:Opa",
-"title": "Opa weiß das. Auch ohne Internet – T-Shirt für Opa"
-},
-{
-"id": 92,
-"spruch": "Früher war das anders. – Opa",
-"thema": "Familie:Opa",
-"title": "Früher war das anders – Opa – T-Shirt für Opa"
-},
-{
-"id": 93,
-"spruch": "Opa erzählt es gern noch einmal.",
-"thema": "Familie:Opa",
-"title": "Opa erzählt es gern noch einmal – T-Shirt für Opa"
-},
-{
-"id": 94,
-"spruch": "Opa repariert das. Mit Draht.",
-"thema": "Familie:Opa",
-"title": "Opa repariert das. Mit Draht – T-Shirt für Opa"
-},
-{
-"id": 95,
-"spruch": "Was Opa erlaubt, bleibt bei Opa.",
-"thema": "Familie:Opa",
-"title": "Was Opa erlaubt, bleibt bei Opa – T-Shirt für Opa"
-},
-{
-"id": 96,
-"spruch": "Ältester. Offiziell verantwortlich. Inoffiziell schuld.",
-"thema": "Familie:Bruder",
-"title": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – T-Shirt für Bruder"
-},
-{
-"id": 97,
-"spruch": "Jüngster. Ich war das nicht.",
-"thema": "Familie:Bruder",
-"title": "Jüngster. Ich war das nicht – T-Shirt für Bruder"
-},
-{
-"id": 98,
-"spruch": "Bruder. Meldet sich, wenn er was braucht.",
-"thema": "Familie:Bruder",
-"title": "Bruder. Meldet sich, wenn er was braucht – T-Shirt für Bruder"
-},
-{
-"id": 99,
-"spruch": "Bester Bruder. Die Auswahl war klein.",
-"thema": "Familie:Bruder",
-"title": "Bester Bruder. Die Auswahl war klein – T-Shirt für Bruder"
-},
-{
-"id": 100,
-"spruch": "Meine Schwester hat angefangen.",
-"thema": "Familie:Bruder",
-"title": "Meine Schwester hat angefangen – T-Shirt für Bruder"
-},
-{
-"id": 101,
-"spruch": "Älteste Schwester. Ich hatte zuerst recht.",
-"thema": "Familie:Schwester",
-"title": "Älteste Schwester. Ich hatte zuerst recht – T-Shirt für Schwester"
-},
-{
-"id": 102,
-"spruch": "Nesthäkchen. Ich sag's Mama.",
-"thema": "Familie:Schwester",
-"title": "Nesthäkchen. Ich sag's Mama – T-Shirt für Schwester"
-},
-{
-"id": 103,
-"spruch": "Schwester. Leiht sich alles. Bringt nichts zurück.",
-"thema": "Familie:Schwester",
-"title": "Schwester. Leiht sich alles. Bringt nichts zurück – T-Shirt für Schwester"
-},
-{
-"id": 104,
-"spruch": "Lieblingsschwester. Wahl ohne Gegenkandidatin.",
-"thema": "Familie:Schwester",
-"title": "Lieblingsschwester. Wahl ohne Gegenkandidatin – T-Shirt für Schwester"
-},
-{
-"id": 105,
-"spruch": "Mein Bruder hat angefangen.",
-"thema": "Familie:Schwester",
-"title": "Mein Bruder hat angefangen – T-Shirt für Schwester"
-},
-{
-"id": 106,
-"spruch": "Onkel. Wie Papa, nur lustiger.",
-"thema": "Familie:Onkel",
-"title": "Onkel. Wie Papa, nur lustiger – T-Shirt für Onkel"
-},
-{
-"id": 107,
-"spruch": "Der Onkel mit den schlechten Witzen.",
-"thema": "Familie:Onkel",
-"title": "Der Onkel mit den schlechten Witzen – T-Shirt für Onkel"
-},
-{
-"id": 108,
-"spruch": "Was Mama verbietet, erlaubt der Onkel.",
-"thema": "Familie:Onkel",
-"title": "Was Mama verbietet, erlaubt der Onkel – T-Shirt für Onkel"
-},
-{
-"id": 109,
-"spruch": "Lieblingsonkel. Laut eigener Umfrage.",
-"thema": "Familie:Onkel",
-"title": "Lieblingsonkel. Laut eigener Umfrage – T-Shirt für Onkel"
-},
-{
-"id": 110,
-"spruch": "Onkel. Zuständig für Unsinn.",
-"thema": "Familie:Onkel",
-"title": "Onkel. Zuständig für Unsinn – T-Shirt für Onkel"
-},
-{
-"id": 111,
-"spruch": "Tante. Wie Mama, nur entspannter.",
-"thema": "Familie:Tante",
-"title": "Tante. Wie Mama, nur entspannter – T-Shirt für Tante"
-},
-{
-"id": 112,
-"spruch": "Tante weiß alles. Tante sagt nichts.",
-"thema": "Familie:Tante",
-"title": "Tante weiß alles. Tante sagt nichts – T-Shirt für Tante"
-},
-{
-"id": 113,
-"spruch": "Das bleibt unter uns. – Tante",
-"thema": "Familie:Tante",
-"title": "Das bleibt unter uns – Tante – T-Shirt für Tante"
-},
-{
-"id": 114,
-"spruch": "Tante. Zuständig für Süßigkeiten vor dem Abendessen.",
-"thema": "Familie:Tante",
-"title": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – T-Shirt für Tante"
-},
-{
-"id": 115,
-"spruch": "Die Tante, vor der Mama gewarnt hat.",
-"thema": "Familie:Tante",
-"title": "Die Tante, vor der Mama gewarnt hat – T-Shirt für Tante"
-},
-{
-"id": 214,
-"spruch": "18 Jahre – Erwachsen. Laut Ausweis.",
-"thema": "Alter",
-"title": "18 Jahre – Erwachsen. Laut Ausweis – T-Shirt zum 18. Geburtstag"
-},
-{
-"id": 215,
-"spruch": "19 – Erwachsen im zweiten Lehrjahr.",
-"thema": "Alter",
-"title": "19 – Erwachsen im zweiten Lehrjahr – T-Shirt zum 19. Geburtstag"
-},
-{
-"id": 216,
-"spruch": "20 – Zwei Jahrzehnte. Null Plan.",
-"thema": "Alter",
-"title": "20 – Zwei Jahrzehnte. Null Plan – T-Shirt zum 20. Geburtstag"
-},
-{
-"id": 217,
-"spruch": "21 – Weltweit volljährig. Nirgends vernünftig.",
-"thema": "Alter",
-"title": "21 – Weltweit volljährig. Nirgends vernünftig – T-Shirt zum 21. Geburtstag"
-},
-{
-"id": 218,
-"spruch": "22 – Jung genug für alles. Zu müde für das meiste.",
-"thema": "Alter",
-"title": "22 – Jung genug für alles. Zu müde für das meiste – T-Shirt zum 22. Geburtstag"
-},
-{
-"id": 219,
-"spruch": "23 – Ich übe noch Erwachsensein.",
-"thema": "Alter",
-"title": "23 – Ich übe noch Erwachsensein – T-Shirt zum 23. Geburtstag"
-},
-{
-"id": 220,
-"spruch": "24 – Rund um die Uhr unentschlossen.",
-"thema": "Alter",
-"title": "24 – Rund um die Uhr unentschlossen – T-Shirt zum 24. Geburtstag"
-},
-{
-"id": 221,
-"spruch": "25 – Vierteljahrhundert. Fühlt sich länger an.",
-"thema": "Alter",
-"title": "25 – Vierteljahrhundert. Fühlt sich länger an – T-Shirt zum 25. Geburtstag"
-},
-{
-"id": 222,
-"spruch": "26 – Näher an 30 als an 20. Kein Kommentar.",
-"thema": "Alter",
-"title": "26 – Näher an 30 als an 20. Kein Kommentar – T-Shirt zum 26. Geburtstag"
-},
-{
-"id": 223,
-"spruch": "27 – Ich habe einen Lieblingstopf. So weit ist es.",
-"thema": "Alter",
-"title": "27 – Ich habe einen Lieblingstopf. So weit ist es – T-Shirt zum 27. Geburtstag"
-},
-{
-"id": 224,
-"spruch": "28 – Kater dauern jetzt zwei Tage.",
-"thema": "Alter",
-"title": "28 – Kater dauern jetzt zwei Tage – T-Shirt zum 28. Geburtstag"
-},
-{
-"id": 225,
-"spruch": "29 – Zum ersten Mal. Weitere folgen.",
-"thema": "Alter",
-"title": "29 – Zum ersten Mal. Weitere folgen – T-Shirt zum 29. Geburtstag"
-},
-{
-"id": 226,
-"spruch": "30 – Ich gehe gern früh nach Hause.",
-"thema": "Alter",
-"title": "30 – Ich gehe gern früh nach Hause – T-Shirt zum 30. Geburtstag"
-},
-{
-"id": 227,
-"spruch": "31 – 30 war nur die Probe.",
-"thema": "Alter",
-"title": "31 – 30 war nur die Probe – T-Shirt zum 31. Geburtstag"
-},
-{
-"id": 228,
-"spruch": "32 – Ich freue mich über neue Schwämme.",
-"thema": "Alter",
-"title": "32 – Ich freue mich über neue Schwämme – T-Shirt zum 32. Geburtstag"
-},
-{
-"id": 229,
-"spruch": "33 – Schnapszahl. Ohne Schnaps, wegen morgen.",
-"thema": "Alter",
-"title": "33 – Schnapszahl. Ohne Schnaps, wegen morgen – T-Shirt zum 33. Geburtstag"
-},
-{
-"id": 230,
-"spruch": "34 – Ich sage jetzt „früher“.",
-"thema": "Alter",
-"title": "34 – Ich sage jetzt „früher“ – T-Shirt zum 34. Geburtstag"
-},
-{
-"id": 231,
-"spruch": "35 – Halb siebzig. Vollkommen ruhig.",
-"thema": "Alter",
-"title": "35 – Halb siebzig. Vollkommen ruhig – T-Shirt zum 35. Geburtstag"
-},
-{
-"id": 232,
-"spruch": "36 – Laute Musik? Nur noch im Auto.",
-"thema": "Alter",
-"title": "36 – Laute Musik? Nur noch im Auto – T-Shirt zum 36. Geburtstag"
-},
-{
-"id": 233,
-"spruch": "37 – Mein Lieblingsort ist die Couch.",
-"thema": "Alter",
-"title": "37 – Mein Lieblingsort ist die Couch – T-Shirt zum 37. Geburtstag"
-},
-{
-"id": 234,
-"spruch": "38 – Ich habe eine Meinung zu Matratzen.",
-"thema": "Alter",
-"title": "38 – Ich habe eine Meinung zu Matratzen – T-Shirt zum 38. Geburtstag"
-},
-{
-"id": 235,
-"spruch": "39 – Zum letzten Mal mit einer Drei.",
-"thema": "Alter",
-"title": "39 – Zum letzten Mal mit einer Drei – T-Shirt zum 39. Geburtstag"
-},
-{
-"id": 236,
-"spruch": "40 – Ich drehe die Musik leiser, um besser einzuparken.",
-"thema": "Alter",
-"title": "40 – Ich drehe die Musik leiser, um besser einzuparken – T-Shirt zum 40. Geburtstag"
-},
-{
-"id": 237,
-"spruch": "41 – 40 war nur der Anfang.",
-"thema": "Alter",
-"title": "41 – 40 war nur der Anfang – T-Shirt zum 41. Geburtstag"
-},
-{
-"id": 238,
-"spruch": "42 – Die Antwort auf alles. Fragt mich nur nicht.",
-"thema": "Alter",
-"title": "42 – Die Antwort auf alles. Fragt mich nur nicht – T-Shirt zum 42. Geburtstag"
-},
-{
-"id": 239,
-"spruch": "43 – Ich stöhne beim Hinsetzen. Aus Überzeugung.",
-"thema": "Alter",
-"title": "43 – Ich stöhne beim Hinsetzen. Aus Überzeugung – T-Shirt zum 43. Geburtstag"
-},
-{
-"id": 240,
-"spruch": "44 – Schnapszahl. Mit Lesebrille.",
-"thema": "Alter",
-"title": "44 – Schnapszahl. Mit Lesebrille – T-Shirt zum 44. Geburtstag"
-},
-{
-"id": 241,
-"spruch": "45 – Halb neunzig. Ganz entspannt.",
-"thema": "Alter",
-"title": "45 – Halb neunzig. Ganz entspannt – T-Shirt zum 45. Geburtstag"
-},
-{
-"id": 242,
-"spruch": "46 – Ich lese jetzt Beipackzettel.",
-"thema": "Alter",
-"title": "46 – Ich lese jetzt Beipackzettel – T-Shirt zum 46. Geburtstag"
-},
-{
-"id": 243,
-"spruch": "47 – Ich kenne meinen Hausarzt beim Vornamen.",
-"thema": "Alter",
-"title": "47 – Ich kenne meinen Hausarzt beim Vornamen – T-Shirt zum 47. Geburtstag"
-},
-{
-"id": 244,
-"spruch": "48 – Früh ins Bett ist kein Verzicht. Es ist ein Ziel.",
-"thema": "Alter",
-"title": "48 – Früh ins Bett ist kein Verzicht. Es ist ein Ziel – T-Shirt zum 48. Geburtstag"
-},
-{
-"id": 245,
-"spruch": "49 – Zum letzten Mal mit einer Vier.",
-"thema": "Alter",
-"title": "49 – Zum letzten Mal mit einer Vier – T-Shirt zum 49. Geburtstag"
-},
-{
-"id": 246,
-"spruch": "50 – Ein halbes Jahrhundert. Die bessere Hälfte kommt.",
-"thema": "Alter",
-"title": "50 – Ein halbes Jahrhundert. Die bessere Hälfte kommt – T-Shirt zum 50. Geburtstag"
-},
-{
-"id": 247,
-"spruch": "51 – 50 plus Versand.",
-"thema": "Alter",
-"title": "51 – 50 plus Versand – T-Shirt zum 51. Geburtstag"
-},
-{
-"id": 248,
-"spruch": "52 – Eine Karte für jedes Jahr. Volles Blatt.",
-"thema": "Alter",
-"title": "52 – Eine Karte für jedes Jahr. Volles Blatt – T-Shirt zum 52. Geburtstag"
-},
-{
-"id": 249,
-"spruch": "53 – Ich wähle Restaurants nach der Lautstärke.",
-"thema": "Alter",
-"title": "53 – Ich wähle Restaurants nach der Lautstärke – T-Shirt zum 53. Geburtstag"
-},
-{
-"id": 250,
-"spruch": "54 – Meine Brille liegt irgendwo. Wie immer.",
-"thema": "Alter",
-"title": "54 – Meine Brille liegt irgendwo. Wie immer – T-Shirt zum 54. Geburtstag"
-},
-{
-"id": 251,
-"spruch": "55 – Schnapszahl. Zweimal fünf gerade sein lassen.",
-"thema": "Alter",
-"title": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – T-Shirt zum 55. Geburtstag"
-},
-{
-"id": 252,
-"spruch": "56 – Ich gehe spazieren. Freiwillig.",
-"thema": "Alter",
-"title": "56 – Ich gehe spazieren. Freiwillig – T-Shirt zum 56. Geburtstag"
-},
-{
-"id": 253,
-"spruch": "57 – Ich rede mit Fremden über das Wetter.",
-"thema": "Alter",
-"title": "57 – Ich rede mit Fremden über das Wetter – T-Shirt zum 57. Geburtstag"
-},
-{
-"id": 254,
-"spruch": "58 – Ich habe Lieblingswerkzeug.",
-"thema": "Alter",
-"title": "58 – Ich habe Lieblingswerkzeug – T-Shirt zum 58. Geburtstag"
-},
-{
-"id": 255,
-"spruch": "59 – Zum letzten Mal mit einer Fünf.",
-"thema": "Alter",
-"title": "59 – Zum letzten Mal mit einer Fünf – T-Shirt zum 59. Geburtstag"
-},
-{
-"id": 256,
-"spruch": "60 – Ich muss gar nichts mehr müssen.",
-"thema": "Alter",
-"title": "60 – Ich muss gar nichts mehr müssen – T-Shirt zum 60. Geburtstag"
-},
-{
-"id": 257,
-"spruch": "61 – 60 mit Zugabe.",
-"thema": "Alter",
-"title": "61 – 60 mit Zugabe – T-Shirt zum 61. Geburtstag"
-},
-{
-"id": 258,
-"spruch": "62 – Ich zähle schon die Montage.",
-"thema": "Alter",
-"title": "62 – Ich zähle schon die Montage – T-Shirt zum 62. Geburtstag"
-},
-{
-"id": 259,
-"spruch": "63 – Fast Rente. Bitte nicht mehr einarbeiten.",
-"thema": "Alter",
-"title": "63 – Fast Rente. Bitte nicht mehr einarbeiten – T-Shirt zum 63. Geburtstag"
-},
-{
-"id": 260,
-"spruch": "64 – Ein Jahr noch freundlich nicken.",
-"thema": "Alter",
-"title": "64 – Ein Jahr noch freundlich nicken – T-Shirt zum 64. Geburtstag"
-},
-{
-"id": 261,
-"spruch": "65 – Ab jetzt habe ich Zeit. Theoretisch.",
-"thema": "Alter",
-"title": "65 – Ab jetzt habe ich Zeit. Theoretisch – T-Shirt zum 65. Geburtstag"
-},
-{
-"id": 262,
-"spruch": "66 – Schnapszahl. Ich habe jetzt Zeit zum Anstoßen.",
-"thema": "Alter",
-"title": "66 – Schnapszahl. Ich habe jetzt Zeit zum Anstoßen – T-Shirt zum 66. Geburtstag"
-},
-{
-"id": 263,
-"spruch": "67 – Rente. Ich habe geliefert.",
-"thema": "Alter",
-"title": "67 – Rente. Ich habe geliefert – T-Shirt zum 67. Geburtstag"
-},
-{
-"id": 264,
-"spruch": "68 – Mein Kalender ist leer. Mit Absicht.",
-"thema": "Alter",
-"title": "68 – Mein Kalender ist leer. Mit Absicht – T-Shirt zum 68. Geburtstag"
-},
-{
-"id": 265,
-"spruch": "69 – Zum letzten Mal mit einer Sechs.",
-"thema": "Alter",
-"title": "69 – Zum letzten Mal mit einer Sechs – T-Shirt zum 69. Geburtstag"
-},
-{
-"id": 266,
-"spruch": "70 – Ich sage, was ich denke. Schon länger.",
-"thema": "Alter",
-"title": "70 – Ich sage, was ich denke. Schon länger – T-Shirt zum 70. Geburtstag"
-},
-{
-"id": 267,
-"spruch": "71 – Die 70 war nur zum Üben.",
-"thema": "Alter",
-"title": "71 – Die 70 war nur zum Üben – T-Shirt zum 71. Geburtstag"
-},
-{
-"id": 268,
-"spruch": "72 – Mittagsschlaf ist ein Termin.",
-"thema": "Alter",
-"title": "72 – Mittagsschlaf ist ein Termin – T-Shirt zum 72. Geburtstag"
-},
-{
-"id": 269,
-"spruch": "73 – Ich bin nicht stur. Ich habe nur recht.",
-"thema": "Alter",
-"title": "73 – Ich bin nicht stur. Ich habe nur recht – T-Shirt zum 73. Geburtstag"
-},
-{
-"id": 270,
-"spruch": "74 – Ich höre gut. Wenn ich will.",
-"thema": "Alter",
-"title": "74 – Ich höre gut. Wenn ich will – T-Shirt zum 74. Geburtstag"
-},
-{
-"id": 271,
-"spruch": "75 – Dreiviertel Jahrhundert. Voll bei der Sache.",
-"thema": "Alter",
-"title": "75 – Dreiviertel Jahrhundert. Voll bei der Sache – T-Shirt zum 75. Geburtstag"
-},
-{
-"id": 272,
-"spruch": "76 – Das habe ich schon repariert, bevor du geboren wurdest.",
-"thema": "Alter",
-"title": "76 – Das habe ich schon repariert, bevor du geboren wurdest – T-Shirt zum 76. Geburtstag"
-},
-{
-"id": 273,
-"spruch": "77 – Schnapszahl. Doppelt gelassen.",
-"thema": "Alter",
-"title": "77 – Schnapszahl. Doppelt gelassen – T-Shirt zum 77. Geburtstag"
-},
-{
-"id": 274,
-"spruch": "78 – Ich brauche kein Navi. Ich kenne den Weg von früher.",
-"thema": "Alter",
-"title": "78 – Ich brauche kein Navi. Ich kenne den Weg von früher – T-Shirt zum 78. Geburtstag"
-},
-{
-"id": 275,
-"spruch": "79 – Zum letzten Mal mit einer Sieben.",
-"thema": "Alter",
-"title": "79 – Zum letzten Mal mit einer Sieben – T-Shirt zum 79. Geburtstag"
-},
-{
-"id": 276,
-"spruch": "80 – Ich darf jetzt alles sagen.",
-"thema": "Alter",
-"title": "80 – Ich darf jetzt alles sagen – T-Shirt zum 80. Geburtstag"
-},
-{
-"id": 277,
-"spruch": "81 – 80 mit Nachschlag.",
-"thema": "Alter",
-"title": "81 – 80 mit Nachschlag – T-Shirt zum 81. Geburtstag"
-},
-{
-"id": 278,
-"spruch": "82 – Ich bin nicht alt. Ich bin schon lange jung.",
-"thema": "Alter",
-"title": "82 – Ich bin nicht alt. Ich bin schon lange jung – T-Shirt zum 82. Geburtstag"
-},
-{
-"id": 279,
-"spruch": "83 – Mein Rat ist kostenlos. Und ungefragt.",
-"thema": "Alter",
-"title": "83 – Mein Rat ist kostenlos. Und ungefragt – T-Shirt zum 83. Geburtstag"
-},
-{
-"id": 280,
-"spruch": "84 – Ich habe mehr gesehen als das Internet.",
-"thema": "Alter",
-"title": "84 – Ich habe mehr gesehen als das Internet – T-Shirt zum 84. Geburtstag"
-},
-{
-"id": 281,
-"spruch": "85 – Eile war gestern.",
-"thema": "Alter",
-"title": "85 – Eile war gestern – T-Shirt zum 85. Geburtstag"
-},
-{
-"id": 282,
-"spruch": "86 – Ich mache das auf meine Art. Schon immer.",
-"thema": "Alter",
-"title": "86 – Ich mache das auf meine Art. Schon immer – T-Shirt zum 86. Geburtstag"
-},
-{
-"id": 283,
-"spruch": "87 – Die Jüngeren sind jetzt 70.",
-"thema": "Alter",
-"title": "87 – Die Jüngeren sind jetzt 70 – T-Shirt zum 87. Geburtstag"
-},
-{
-"id": 284,
-"spruch": "88 Jahre – Schnapszahl mit Erfahrung.",
-"thema": "Alter",
-"title": "88 Jahre – Schnapszahl mit Erfahrung – T-Shirt zum 88. Geburtstag"
-},
-{
-"id": 285,
-"spruch": "89 – Zum letzten Mal mit einer Acht.",
-"thema": "Alter",
-"title": "89 – Zum letzten Mal mit einer Acht – T-Shirt zum 89. Geburtstag"
-},
-{
-"id": 286,
-"spruch": "90 – Fragen Sie ruhig. Ich weiß es noch.",
-"thema": "Alter",
-"title": "90 – Fragen Sie ruhig. Ich weiß es noch – T-Shirt zum 90. Geburtstag"
-},
-{
-"id": 287,
-"spruch": "91 – Ich mache einfach weiter.",
-"thema": "Alter",
-"title": "91 – Ich mache einfach weiter – T-Shirt zum 91. Geburtstag"
-},
-{
-"id": 288,
-"spruch": "92 – Ich plane nur noch Schönes.",
-"thema": "Alter",
-"title": "92 – Ich plane nur noch Schönes – T-Shirt zum 92. Geburtstag"
-},
-{
-"id": 289,
-"spruch": "93 – Ich habe Zeit. Nur nicht für Hektik.",
-"thema": "Alter",
-"title": "93 – Ich habe Zeit. Nur nicht für Hektik – T-Shirt zum 93. Geburtstag"
-},
-{
-"id": 290,
-"spruch": "94 – Mein Geheimnis? Verrate ich mit 100.",
-"thema": "Alter",
-"title": "94 – Mein Geheimnis? Verrate ich mit 100 – T-Shirt zum 94. Geburtstag"
-},
-{
-"id": 291,
-"spruch": "95 – Bitte lauter gratulieren.",
-"thema": "Alter",
-"title": "95 – Bitte lauter gratulieren – T-Shirt zum 95. Geburtstag"
-},
-{
-"id": 292,
-"spruch": "96 – Ich war schon alt, als ihr jung wart.",
-"thema": "Alter",
-"title": "96 – Ich war schon alt, als ihr jung wart – T-Shirt zum 96. Geburtstag"
-},
-{
-"id": 293,
-"spruch": "97 – Drei Jahre Anlauf.",
-"thema": "Alter",
-"title": "97 – Drei Jahre Anlauf – T-Shirt zum 97. Geburtstag"
-},
-{
-"id": 294,
-"spruch": "98 – Fast. Aber ich hetze nicht.",
-"thema": "Alter",
-"title": "98 – Fast. Aber ich hetze nicht – T-Shirt zum 98. Geburtstag"
-},
-{
-"id": 295,
-"spruch": "99 – Schnapszahl. Die letzte zweistellige.",
-"thema": "Alter",
-"title": "99 – Schnapszahl. Die letzte zweistellige – T-Shirt zum 99. Geburtstag"
-},
-{
-"id": 296,
-"spruch": "100 – Dreistellig. Hat ja gedauert.",
-"thema": "Alter",
-"title": "100 – Dreistellig. Hat ja gedauert – T-Shirt zum 100. Geburtstag"
-},
-{
-"id": 297,
-"spruch": "Seit der F-Jugend dabei. Seit der F-Jugend auf der Bank.",
-"thema": "Sport:Fußball",
-"title": "Seit der F-Jugend dabei. Seit der F-Jugend auf der Bank – Fußball-T-Shirt"
-},
-{
-"id": 298,
-"spruch": "Abseits erkläre ich dir nach dem Spiel.",
-"thema": "Sport:Fußball",
-"title": "Abseits erkläre ich dir nach dem Spiel – Fußball-T-Shirt"
-},
-{
-"id": 299,
-"spruch": "Unterste Liga. Höchster Einsatz.",
-"thema": "Sport:Fußball",
-"title": "Unterste Liga. Höchster Einsatz – Fußball-T-Shirt"
-},
-{
-"id": 300,
-"spruch": "Der Platz war schuld.",
-"thema": "Sport:Fußball",
-"title": "Der Platz war schuld – Fußball-T-Shirt"
-},
-{
-"id": 301,
-"spruch": "Sonntag, 15 Uhr. Kein Termin frei.",
-"thema": "Sport:Fußball",
-"title": "Sonntag, 15 Uhr. Kein Termin frei – Fußball-T-Shirt"
-},
-{
-"id": 302,
-"spruch": "Turnhalle. Mein zweites Wohnzimmer.",
-"thema": "Sport:Turnen",
-"title": "Turnhalle. Mein zweites Wohnzimmer – Turnen-T-Shirt"
-},
-{
-"id": 303,
-"spruch": "Ich mache keinen Spagat. Ich sitze nur sehr breit.",
-"thema": "Sport:Turnen",
-"title": "Ich mache keinen Spagat. Ich sitze nur sehr breit – Turnen-T-Shirt"
-},
-{
-"id": 304,
-"spruch": "Ein Rad schlagen geht immer. Aufstehen danach nicht.",
-"thema": "Sport:Turnen",
-"title": "Ein Rad schlagen geht immer. Aufstehen danach nicht – Turnen-T-Shirt"
-},
-{
-"id": 305,
-"spruch": "Ohne Magnesia kein Gespräch.",
-"thema": "Sport:Turnen",
-"title": "Ohne Magnesia kein Gespräch – Turnen-T-Shirt"
-},
-{
-"id": 306,
-"spruch": "Landung sitzt. Der Rest war Kunst.",
-"thema": "Sport:Turnen",
-"title": "Landung sitzt. Der Rest war Kunst – Turnen-T-Shirt"
-},
-{
-"id": 307,
-"spruch": "Aus. Ganz sicher aus.",
-"thema": "Sport:Tennis",
-"title": "Aus. Ganz sicher aus – Tennis-T-Shirt"
-},
-{
-"id": 308,
-"spruch": "Mein Aufschlag ist eine Überraschung. Auch für mich.",
-"thema": "Sport:Tennis",
-"title": "Mein Aufschlag ist eine Überraschung. Auch für mich – Tennis-T-Shirt"
-},
-{
-"id": 309,
-"spruch": "Tennis ist Kopfsache. Meiner ist woanders.",
-"thema": "Sport:Tennis",
-"title": "Tennis ist Kopfsache. Meiner ist woanders – Tennis-T-Shirt"
-},
-{
-"id": 310,
-"spruch": "Ich spiele nur Doppel. Dann ist jemand schuld.",
-"thema": "Sport:Tennis",
-"title": "Ich spiele nur Doppel. Dann ist jemand schuld – Tennis-T-Shirt"
-},
-{
-"id": 311,
-"spruch": "Netzroller. Absicht natürlich.",
-"thema": "Sport:Tennis",
-"title": "Netzroller. Absicht natürlich – Tennis-T-Shirt"
-},
-{
-"id": 312,
-"spruch": "Oben ist die Aussicht. Unten die Ausrede.",
-"thema": "Sport:Bergsport",
-"title": "Oben ist die Aussicht. Unten die Ausrede – Bergsport-T-Shirt"
-},
-{
-"id": 313,
-"spruch": "Ich klettere nicht. Ich hänge nur sehr gezielt.",
-"thema": "Sport:Bergsport",
-"title": "Ich klettere nicht. Ich hänge nur sehr gezielt – Bergsport-T-Shirt"
-},
-{
-"id": 314,
-"spruch": "Gipfel erreicht. Knie widerspricht.",
-"thema": "Sport:Bergsport",
-"title": "Gipfel erreicht. Knie widerspricht – Bergsport-T-Shirt"
-},
-{
-"id": 315,
-"spruch": "Seil gut, alles gut.",
-"thema": "Sport:Bergsport",
-"title": "Seil gut, alles gut – Bergsport-T-Shirt"
-},
-{
-"id": 316,
-"spruch": "Hüttenzauber ist auch Training.",
-"thema": "Sport:Bergsport",
-"title": "Hüttenzauber ist auch Training – Bergsport-T-Shirt"
-},
-{
-"id": 317,
-"spruch": "Schützenfest ist kein Hobby. Es ist Brauchtum.",
-"thema": "Sport:Schützen",
-"title": "Schützenfest ist kein Hobby. Es ist Brauchtum – Schützen-T-Shirt"
-},
-{
-"id": 318,
-"spruch": "Ruhige Hand. Lautes Fest.",
-"thema": "Sport:Schützen",
-"title": "Ruhige Hand. Lautes Fest – Schützen-T-Shirt"
-},
-{
-"id": 319,
-"spruch": "Zielwasser gehört zur Ausrüstung.",
-"thema": "Sport:Schützen",
-"title": "Zielwasser gehört zur Ausrüstung – Schützen-T-Shirt"
-},
-{
-"id": 320,
-"spruch": "König für ein Jahr. Danach wieder Kassenwart.",
-"thema": "Sport:Schützen",
-"title": "König für ein Jahr. Danach wieder Kassenwart – Schützen-T-Shirt"
-},
-{
-"id": 321,
-"spruch": "Mein Verein marschiert. Ich gehe mit.",
-"thema": "Sport:Schützen",
-"title": "Mein Verein marschiert. Ich gehe mit – Schützen-T-Shirt"
-},
-{
-"id": 322,
-"spruch": "Ich laufe nicht weg. Ich trainiere.",
-"thema": "Sport:Leichtathletik",
-"title": "Ich laufe nicht weg. Ich trainiere – Leichtathletik-T-Shirt"
-},
-{
-"id": 323,
-"spruch": "Kilometer zählen ist auch Mathe.",
-"thema": "Sport:Leichtathletik",
-"title": "Kilometer zählen ist auch Mathe – Leichtathletik-T-Shirt"
-},
-{
-"id": 324,
-"spruch": "Erst Muskelkater, dann Medaille.",
-"thema": "Sport:Leichtathletik",
-"title": "Erst Muskelkater, dann Medaille – Leichtathletik-T-Shirt"
-},
-{
-"id": 325,
-"spruch": "Die Bahn hat 400 Meter. Ich fühle jeden.",
-"thema": "Sport:Leichtathletik",
-"title": "Die Bahn hat 400 Meter. Ich fühle jeden – Leichtathletik-T-Shirt"
-},
-{
-"id": 326,
-"spruch": "Langsam, aber regelmäßig.",
-"thema": "Sport:Leichtathletik",
-"title": "Langsam, aber regelmäßig – Leichtathletik-T-Shirt"
-},
-{
-"id": 327,
-"spruch": "Harz an den Händen. Ruhe im Kopf.",
-"thema": "Sport:Handball",
-"title": "Harz an den Händen. Ruhe im Kopf – Handball-T-Shirt"
-},
-{
-"id": 328,
-"spruch": "Handball. Wie Fußball, nur ohne Schauspielerei.",
-"thema": "Sport:Handball",
-"title": "Handball. Wie Fußball, nur ohne Schauspielerei – Handball-T-Shirt"
-},
-{
-"id": 329,
-"spruch": "Siebenmeter? Gerne.",
-"thema": "Sport:Handball",
-"title": "Siebenmeter? Gerne – Handball-T-Shirt"
-},
-{
-"id": 330,
-"spruch": "Ich foule nicht. Ich bin nur präsent.",
-"thema": "Sport:Handball",
-"title": "Ich foule nicht. Ich bin nur präsent – Handball-T-Shirt"
-},
-{
-"id": 331,
-"spruch": "Kreisläufer. Steht beruflich im Weg.",
-"thema": "Sport:Handball",
-"title": "Kreisläufer. Steht beruflich im Weg – Handball-T-Shirt"
-},
-{
-"id": 332,
-"spruch": "Ich spiele Golf. Hauptsächlich suche ich Bälle.",
-"thema": "Sport:Golf",
-"title": "Ich spiele Golf. Hauptsächlich suche ich Bälle – Golf-T-Shirt"
-},
-{
-"id": 333,
-"spruch": "Handicap: Golf.",
-"thema": "Sport:Golf",
-"title": "Handicap: Golf – Golf-T-Shirt"
-},
-{
-"id": 334,
-"spruch": "Der Ball wollte ins Wasser.",
-"thema": "Sport:Golf",
-"title": "Der Ball wollte ins Wasser – Golf-T-Shirt"
-},
-{
-"id": 335,
-"spruch": "18 Löcher. Mindestens so viele Ausreden.",
-"thema": "Sport:Golf",
-"title": "18 Löcher. Mindestens so viele Ausreden – Golf-T-Shirt"
-},
-{
-"id": 336,
-"spruch": "Ein guter Schlag pro Runde reicht.",
-"thema": "Sport:Golf",
-"title": "Ein guter Schlag pro Runde reicht – Golf-T-Shirt"
-},
-{
-"id": 337,
-"spruch": "Das Pferd entscheidet. Ich schlage nur vor.",
-"thema": "Sport:Reiten",
-"title": "Das Pferd entscheidet. Ich schlage nur vor – Reiten-T-Shirt"
-},
-{
-"id": 338,
-"spruch": "Stallgeruch ist ein Parfum.",
-"thema": "Sport:Reiten",
-"title": "Stallgeruch ist ein Parfum – Reiten-T-Shirt"
-},
-{
-"id": 339,
-"spruch": "Mein Pferd ist teurer als dein Auto.",
-"thema": "Sport:Reiten",
-"title": "Mein Pferd ist teurer als dein Auto – Reiten-T-Shirt"
-},
-{
-"id": 340,
-"spruch": "Absteigen war nicht geplant.",
-"thema": "Sport:Reiten",
-"title": "Absteigen war nicht geplant – Reiten-T-Shirt"
-},
-{
-"id": 341,
-"spruch": "Reiten ist Teamarbeit. Das Pferd ist der Chef.",
-"thema": "Sport:Reiten",
-"title": "Reiten ist Teamarbeit. Das Pferd ist der Chef – Reiten-T-Shirt"
-},
-{
-"id": 342,
-"spruch": "Ich rieche nach Chlor. Ganz normal.",
-"thema": "Sport:Schwimmen",
-"title": "Ich rieche nach Chlor. Ganz normal – Schwimmen-T-Shirt"
-},
-{
-"id": 343,
-"spruch": "Bahn 4 gehört mir.",
-"thema": "Sport:Schwimmen",
-"title": "Bahn 4 gehört mir – Schwimmen-T-Shirt"
-},
-{
-"id": 344,
-"spruch": "Erst 50 Bahnen, dann Pommes.",
-"thema": "Sport:Schwimmen",
-"title": "Erst 50 Bahnen, dann Pommes – Schwimmen-T-Shirt"
-},
-{
-"id": 345,
-"spruch": "Schwimmen ist wie Laufen. Nur nasser.",
-"thema": "Sport:Schwimmen",
-"title": "Schwimmen ist wie Laufen. Nur nasser – Schwimmen-T-Shirt"
-},
-{
-"id": 346,
-"spruch": "Ich tauche nicht ab. Ich trainiere.",
-"thema": "Sport:Schwimmen",
-"title": "Ich tauche nicht ab. Ich trainiere – Schwimmen-T-Shirt"
-},
-{
-"id": 347,
-"spruch": "Kantenball. Reines Können.",
-"thema": "Sport:Tischtennis",
-"title": "Kantenball. Reines Können – Tischtennis-T-Shirt"
-},
-{
-"id": 348,
-"spruch": "Ich spiele mit Schnitt. Und Gefühl.",
-"thema": "Sport:Tischtennis",
-"title": "Ich spiele mit Schnitt. Und Gefühl – Tischtennis-T-Shirt"
-},
-{
-"id": 349,
-"spruch": "Elf Punkte. Viele Gefühle.",
-"thema": "Sport:Tischtennis",
-"title": "Elf Punkte. Viele Gefühle – Tischtennis-T-Shirt"
-},
-{
-"id": 350,
-"spruch": "Tischtennis ist kein Ping-Pong. Bitte.",
-"thema": "Sport:Tischtennis",
-"title": "Tischtennis ist kein Ping-Pong. Bitte – Tischtennis-T-Shirt"
-},
-{
-"id": 351,
-"spruch": "Netz, Kante, Ausrede.",
-"thema": "Sport:Tischtennis",
-"title": "Netz, Kante, Ausrede – Tischtennis-T-Shirt"
-},
-{
-"id": 352,
-"spruch": "Ski. Danach Kaiserschmarrn.",
-"thema": "Sport:Ski",
-"title": "Ski. Danach Kaiserschmarrn – Ski-T-Shirt"
-},
-{
-"id": 353,
-"spruch": "Ich fahre schwarz. Mit Pausen.",
-"thema": "Sport:Ski",
-"title": "Ich fahre schwarz. Mit Pausen – Ski-T-Shirt"
-},
-{
-"id": 354,
-"spruch": "Erste Gondel. Letzter Einkehrschwung.",
-"thema": "Sport:Ski",
-"title": "Erste Gondel. Letzter Einkehrschwung – Ski-T-Shirt"
-},
-{
-"id": 355,
-"spruch": "Schnee von gestern ist auch Schnee.",
-"thema": "Sport:Ski",
-"title": "Schnee von gestern ist auch Schnee – Ski-T-Shirt"
-},
-{
-"id": 356,
-"spruch": "Ich falle nicht. Ich teste den Schnee.",
-"thema": "Sport:Ski",
-"title": "Ich falle nicht. Ich teste den Schnee – Ski-T-Shirt"
-},
-{
-"id": 357,
-"spruch": "Bagger, Pritsche, Ausrede.",
-"thema": "Sport:Volleyball",
-"title": "Bagger, Pritsche, Ausrede – Volleyball-T-Shirt"
-},
-{
-"id": 358,
-"spruch": "Das Netz ist nur eine Empfehlung.",
-"thema": "Sport:Volleyball",
-"title": "Das Netz ist nur eine Empfehlung – Volleyball-T-Shirt"
-},
-{
-"id": 359,
-"spruch": "Mein Aufschlag kommt. Irgendwann.",
-"thema": "Sport:Volleyball",
-"title": "Mein Aufschlag kommt. Irgendwann – Volleyball-T-Shirt"
-},
-{
-"id": 360,
-"spruch": "Mittelblock. Ich bin die Mauer.",
-"thema": "Sport:Volleyball",
-"title": "Mittelblock. Ich bin die Mauer – Volleyball-T-Shirt"
-},
-{
-"id": 361,
-"spruch": "Libero. Andere Farbe, gleiche Probleme.",
-"thema": "Sport:Volleyball",
-"title": "Libero. Andere Farbe, gleiche Probleme – Volleyball-T-Shirt"
-},
-{
-"id": 362,
-"spruch": "Ich werfe nicht daneben. Der Korb bewegt sich.",
-"thema": "Sport:Basketball",
-"title": "Ich werfe nicht daneben. Der Korb bewegt sich – Basketball-T-Shirt"
-},
-{
-"id": 363,
-"spruch": "Drei Punkte oder gar nichts.",
-"thema": "Sport:Basketball",
-"title": "Drei Punkte oder gar nichts – Basketball-T-Shirt"
-},
-{
-"id": 364,
-"spruch": "Ich dribble nicht. Ich diskutiere mit dem Ball.",
-"thema": "Sport:Basketball",
-"title": "Ich dribble nicht. Ich diskutiere mit dem Ball – Basketball-T-Shirt"
-},
-{
-"id": 365,
-"spruch": "Größe hilft. Ich habe Willen.",
-"thema": "Sport:Basketball",
-"title": "Größe hilft. Ich habe Willen – Basketball-T-Shirt"
-},
-{
-"id": 366,
-"spruch": "Freiwurf. Alle schauen. Kein Druck.",
-"thema": "Sport:Basketball",
-"title": "Freiwurf. Alle schauen. Kein Druck – Basketball-T-Shirt"
-},
-{
-"id": 367,
-"spruch": "Ich tanze nicht gut. Aber gerne.",
-"thema": "Sport:Tanzen",
-"title": "Ich tanze nicht gut. Aber gerne – Tanzen-T-Shirt"
-},
-{
-"id": 368,
-"spruch": "Links, rechts, Applaus.",
-"thema": "Sport:Tanzen",
-"title": "Links, rechts, Applaus – Tanzen-T-Shirt"
-},
-{
-"id": 369,
-"spruch": "Wer führt, ist schuld.",
-"thema": "Sport:Tanzen",
-"title": "Wer führt, ist schuld – Tanzen-T-Shirt"
-},
-{
-"id": 370,
-"spruch": "Tanzen ist Sport. Mit Pailletten.",
-"thema": "Sport:Tanzen",
-"title": "Tanzen ist Sport. Mit Pailletten – Tanzen-T-Shirt"
-},
-{
-"id": 371,
-"spruch": "Ich zähle bis acht. Dann wieder bis acht.",
-"thema": "Sport:Tanzen",
-"title": "Ich zähle bis acht. Dann wieder bis acht – Tanzen-T-Shirt"
-},
-{
-"id": 372,
-"spruch": "Kein Wind ist auch eine Ansage.",
-"thema": "Sport:Segeln",
-"title": "Kein Wind ist auch eine Ansage – Segeln-T-Shirt"
-},
-{
-"id": 373,
-"spruch": "Hart am Wind. Weich im Herzen.",
-"thema": "Sport:Segeln",
-"title": "Hart am Wind. Weich im Herzen – Segeln-T-Shirt"
-},
-{
-"id": 374,
-"spruch": "Ich segle nicht. Ich warte auf Wind.",
-"thema": "Sport:Segeln",
-"title": "Ich segle nicht. Ich warte auf Wind – Segeln-T-Shirt"
-},
-{
-"id": 375,
-"spruch": "Leinen los. Kopf aus.",
-"thema": "Sport:Segeln",
-"title": "Leinen los. Kopf aus – Segeln-T-Shirt"
-},
-{
-"id": 376,
-"spruch": "Steuerbord ist rechts. Meistens.",
-"thema": "Sport:Segeln",
-"title": "Steuerbord ist rechts. Meistens – Segeln-T-Shirt"
-},
-{
-"id": 377,
-"spruch": "Federball ist das nicht. Bitte.",
-"thema": "Sport:Badminton",
-"title": "Federball ist das nicht. Bitte – Badminton-T-Shirt"
-},
-{
-"id": 378,
-"spruch": "Ich jage Federn. Sportlich.",
-"thema": "Sport:Badminton",
-"title": "Ich jage Federn. Sportlich – Badminton-T-Shirt"
-},
-{
-"id": 379,
-"spruch": "Smash. Danach Muskelkater.",
-"thema": "Sport:Badminton",
-"title": "Smash. Danach Muskelkater – Badminton-T-Shirt"
-},
-{
-"id": 380,
-"spruch": "Badminton. Schneller als du denkst.",
-"thema": "Sport:Badminton",
-"title": "Badminton. Schneller als du denkst – Badminton-T-Shirt"
-},
-{
-"id": 381,
-"spruch": "Doppel ist Beziehungsarbeit.",
-"thema": "Sport:Badminton",
-"title": "Doppel ist Beziehungsarbeit – Badminton-T-Shirt"
-},
-{
-"id": 382,
-"spruch": "Gelber Gürtel. Große Pläne.",
-"thema": "Sport:Karate",
-"title": "Gelber Gürtel. Große Pläne – Karate-T-Shirt"
-},
-{
-"id": 383,
-"spruch": "Ich mache Karate. Ich bin trotzdem nett.",
-"thema": "Sport:Karate",
-"title": "Ich mache Karate. Ich bin trotzdem nett – Karate-T-Shirt"
-},
-{
-"id": 384,
-"spruch": "Ich schreie nicht. Das ist Karate.",
-"thema": "Sport:Karate",
-"title": "Ich schreie nicht. Das ist Karate – Karate-T-Shirt"
-},
-{
-"id": 385,
-"spruch": "Barfuß ist mein Dresscode.",
-"thema": "Sport:Karate",
-"title": "Barfuß ist mein Dresscode – Karate-T-Shirt"
-},
-{
-"id": 386,
-"spruch": "Erst verbeugen, dann diskutieren.",
-"thema": "Sport:Karate",
-"title": "Erst verbeugen, dann diskutieren – Karate-T-Shirt"
-},
-{
-"id": 387,
-"spruch": "Ich fahre Rad. Der Rest ist Gegenwind.",
-"thema": "Sport:Radsport",
-"title": "Ich fahre Rad. Der Rest ist Gegenwind – Radsport-T-Shirt"
-},
-{
-"id": 388,
-"spruch": "Berge sind nur Umwege nach oben.",
-"thema": "Sport:Radsport",
-"title": "Berge sind nur Umwege nach oben – Radsport-T-Shirt"
-},
-{
-"id": 389,
-"spruch": "Kette rechts. Laune gut.",
-"thema": "Sport:Radsport",
-"title": "Kette rechts. Laune gut – Radsport-T-Shirt"
-},
-{
-"id": 390,
-"spruch": "Ich bin nicht langsam. Ich genieße die Strecke.",
-"thema": "Sport:Radsport",
-"title": "Ich bin nicht langsam. Ich genieße die Strecke – Radsport-T-Shirt"
-},
-{
-"id": 391,
-"spruch": "Wie viele Räder ich brauche? Eins mehr.",
-"thema": "Sport:Radsport",
-"title": "Wie viele Räder ich brauche? Eins mehr – Radsport-T-Shirt"
-},
-{
-"id": 392,
-"spruch": "Ich falle gern. Mit Technik.",
-"thema": "Sport:Judo",
-"title": "Ich falle gern. Mit Technik – Judo-T-Shirt"
-},
-{
-"id": 393,
-"spruch": "Weißer Anzug. Klare Ansage.",
-"thema": "Sport:Judo",
-"title": "Weißer Anzug. Klare Ansage – Judo-T-Shirt"
-},
-{
-"id": 394,
-"spruch": "Fallschule bestanden. Leben geht weiter.",
-"thema": "Sport:Judo",
-"title": "Fallschule bestanden. Leben geht weiter – Judo-T-Shirt"
-},
-{
-"id": 395,
-"spruch": "Ippon ist auch eine Antwort.",
-"thema": "Sport:Judo",
-"title": "Ippon ist auch eine Antwort – Judo-T-Shirt"
-},
-{
-"id": 396,
-"spruch": "Ich ziehe nicht. Ich lenke um.",
-"thema": "Sport:Judo",
-"title": "Ich ziehe nicht. Ich lenke um – Judo-T-Shirt"
-},
-{
-"id": 116,
-"spruch": "Baden-Württemberg. Erst schaffen, dann nochmal schaffen.",
-"thema": "Land:Baden-Württemberg",
-"title": "Baden-Württemberg. Erst schaffen, dann nochmal schaffen – T-Shirt für Baden-Württemberg"
-},
-{
-"id": 117,
-"spruch": "Kehrwoche ist kein Hobby. Es ist Haltung.",
-"thema": "Land:Baden-Württemberg",
-"title": "Kehrwoche ist kein Hobby. Es ist Haltung – T-Shirt für Baden-Württemberg"
-},
-{
-"id": 118,
-"spruch": "Schwäbisch sparsam. Das Shirt war trotzdem drin.",
-"thema": "Land:Baden-Württemberg",
-"title": "Schwäbisch sparsam. Das Shirt war trotzdem drin – T-Shirt für Baden-Württemberg"
-},
-{
-"id": 119,
-"spruch": "Baden und Württemberg. Der Bindestrich hält.",
-"thema": "Land:Baden-Württemberg",
-"title": "Baden und Württemberg. Der Bindestrich hält – T-Shirt für Baden-Württemberg"
-},
-{
-"id": 120,
-"spruch": "Nicht geschimpft ist genug gelobt.",
-"thema": "Land:Baden-Württemberg",
-"title": "Nicht geschimpft ist genug gelobt – T-Shirt für Baden-Württemberg"
-},
-{
-"id": 121,
-"spruch": "Bayern. Der Rest ist Norddeutschland.",
-"thema": "Land:Bayern",
-"title": "Bayern. Der Rest ist Norddeutschland – T-Shirt für Bayern"
-},
-{
-"id": 122,
-"spruch": "Passt scho.",
-"thema": "Land:Bayern",
-"title": "Passt scho – T-Shirt für Bayern"
-},
-{
-"id": 123,
-"spruch": "Ein Bier ist auch eine Mahlzeit.",
-"thema": "Land:Bayern",
-"title": "Ein Bier ist auch eine Mahlzeit – T-Shirt für Bayern"
-},
-{
-"id": 124,
-"spruch": "Bayern. Hochdeutsch auf Anfrage.",
-"thema": "Land:Bayern",
-"title": "Bayern. Hochdeutsch auf Anfrage – T-Shirt für Bayern"
-},
-{
-"id": 125,
-"spruch": "Franken ist nicht Bayern. Fragen Sie einen Franken.",
-"thema": "Land:Bayern",
-"title": "Franken ist nicht Bayern. Fragen Sie einen Franken – T-Shirt für Bayern"
-},
-{
-"id": 126,
-"spruch": "Berlin. Da kann man nicht meckern. Wird trotzdem gemacht.",
-"thema": "Land:Berlin",
-"title": "Berlin. Da kann man nicht meckern. Wird trotzdem gemacht – T-Shirt für Berlin"
-},
-{
-"id": 127,
-"spruch": "Berlin. Freundlich nur auf Nachfrage.",
-"thema": "Land:Berlin",
-"title": "Berlin. Freundlich nur auf Nachfrage – T-Shirt für Berlin"
-},
-{
-"id": 128,
-"spruch": "Berlin. Unfreundlich, aber ehrlich.",
-"thema": "Land:Berlin",
-"title": "Berlin. Unfreundlich, aber ehrlich – T-Shirt für Berlin"
-},
-{
-"id": 129,
-"spruch": "Wir haben sogar den Flughafen fertig bekommen. Irgendwann.",
-"thema": "Land:Berlin",
-"title": "Wir haben sogar den Flughafen fertig bekommen. Irgendwann – T-Shirt für Berlin"
-},
-{
-"id": 130,
-"spruch": "Berlin. Zugezogen seit vorgestern.",
-"thema": "Land:Berlin",
-"title": "Berlin. Zugezogen seit vorgestern – T-Shirt für Berlin"
-},
-{
-"id": 131,
-"spruch": "Brandenburg. Hier ist nichts los. Zum Glück.",
-"thema": "Land:Brandenburg",
-"title": "Brandenburg. Hier ist nichts los. Zum Glück – T-Shirt für Brandenburg"
-},
-{
-"id": 132,
-"spruch": "Brandenburg. Mehr Seen als Nachbarn.",
-"thema": "Land:Brandenburg",
-"title": "Brandenburg. Mehr Seen als Nachbarn – T-Shirt für Brandenburg"
-},
-{
-"id": 133,
-"spruch": "Nein, das ist nicht Berlin.",
-"thema": "Land:Brandenburg",
-"title": "Nein, das ist nicht Berlin – T-Shirt für Brandenburg"
-},
-{
-"id": 134,
-"spruch": "Brandenburg. Funkloch mit Aussicht.",
-"thema": "Land:Brandenburg",
-"title": "Brandenburg. Funkloch mit Aussicht – T-Shirt für Brandenburg"
-},
-{
-"id": 135,
-"spruch": "Brandenburg. Viel Platz für wenig Gerede.",
-"thema": "Land:Brandenburg",
-"title": "Brandenburg. Viel Platz für wenig Gerede – T-Shirt für Brandenburg"
-},
-{
-"id": 136,
-"spruch": "Bremen. Das kleinste Bundesland. Reicht völlig.",
-"thema": "Land:Bremen",
-"title": "Bremen. Das kleinste Bundesland. Reicht völlig – T-Shirt für Bremen"
-},
-{
-"id": 137,
-"spruch": "Bremen. Hanseatisch seit immer. Laut seit nie.",
-"thema": "Land:Bremen",
-"title": "Bremen. Hanseatisch seit immer. Laut seit nie – T-Shirt für Bremen"
-},
-{
-"id": 138,
-"spruch": "Die Stadtmusikanten kamen nie an. Wir schon.",
-"thema": "Land:Bremen",
-"title": "Die Stadtmusikanten kamen nie an. Wir schon – T-Shirt für Bremen"
-},
-{
-"id": 139,
-"spruch": "Bremen. Zwei Städte, ein Bundesland, keine Fragen.",
-"thema": "Land:Bremen",
-"title": "Bremen. Zwei Städte, ein Bundesland, keine Fragen – T-Shirt für Bremen"
-},
-{
-"id": 140,
-"spruch": "Bremen. Kleiner als dein Landkreis.",
-"thema": "Land:Bremen",
-"title": "Bremen. Kleiner als dein Landkreis – T-Shirt für Bremen"
-},
-{
-"id": 141,
-"spruch": "Hamburg. Zwei Wörter am Tag reichen.",
-"thema": "Land:Hamburg",
-"title": "Hamburg. Zwei Wörter am Tag reichen – T-Shirt für Hamburg"
-},
-{
-"id": 142,
-"spruch": "Das ist kein Regen. Das ist Luftfeuchtigkeit.",
-"thema": "Land:Hamburg",
-"title": "Das ist kein Regen. Das ist Luftfeuchtigkeit – T-Shirt für Hamburg"
-},
-{
-"id": 143,
-"spruch": "Hamburg. Regen ist hier ein Grundgefühl.",
-"thema": "Land:Hamburg",
-"title": "Hamburg. Regen ist hier ein Grundgefühl – T-Shirt für Hamburg"
-},
-{
-"id": 144,
-"spruch": "Südlich der Elbe ist Süddeutschland.",
-"thema": "Land:Hamburg",
-"title": "Südlich der Elbe ist Süddeutschland – T-Shirt für Hamburg"
-},
-{
-"id": 145,
-"spruch": "Hanseatisch begeistert. Sieht man nicht.",
-"thema": "Land:Hamburg",
-"title": "Hanseatisch begeistert. Sieht man nicht – T-Shirt für Hamburg"
-},
-{
-"id": 146,
-"spruch": "Hessen. Ei gude.",
-"thema": "Land:Hessen",
-"title": "Hessen. Ei gude – T-Shirt für Hessen"
-},
-{
-"id": 147,
-"spruch": "Hessen. Wir trinken Äppler. Aus Überzeugung.",
-"thema": "Land:Hessen",
-"title": "Hessen. Wir trinken Äppler. Aus Überzeugung – T-Shirt für Hessen"
-},
-{
-"id": 148,
-"spruch": "Hessen. Mehr als Frankfurt. Sagt Frankfurt nie.",
-"thema": "Land:Hessen",
-"title": "Hessen. Mehr als Frankfurt. Sagt Frankfurt nie – T-Shirt für Hessen"
-},
-{
-"id": 149,
-"spruch": "Grüne Soße ist ein Grundnahrungsmittel.",
-"thema": "Land:Hessen",
-"title": "Grüne Soße ist ein Grundnahrungsmittel – T-Shirt für Hessen"
-},
-{
-"id": 150,
-"spruch": "Hessen. Babbeln ist auch Arbeit.",
-"thema": "Land:Hessen",
-"title": "Hessen. Babbeln ist auch Arbeit – T-Shirt für Hessen"
-},
-{
-"id": 151,
-"spruch": "Mecklenburg-Vorpommern. Hier passiert alles später. Gut so.",
-"thema": "Land:Mecklenburg-Vorpommern",
-"title": "Mecklenburg-Vorpommern. Hier passiert alles später. Gut so – T-Shirt für Mecklenburg-Vorpommern"
-},
-{
-"id": 152,
-"spruch": "MV. Mehr Küste als Hektik.",
-"thema": "Land:Mecklenburg-Vorpommern",
-"title": "MV. Mehr Küste als Hektik – T-Shirt für Mecklenburg-Vorpommern"
-},
-{
-"id": 153,
-"spruch": "Jo. – Ausführliche Antwort aus Mecklenburg.",
-"thema": "Land:Mecklenburg-Vorpommern",
-"title": "Jo – Ausführliche Antwort aus Mecklenburg – T-Shirt für Mecklenburg-Vorpommern"
-},
-{
-"id": 154,
-"spruch": "Mecklenburg-Vorpommern. Urlaub für dich. Alltag für uns.",
-"thema": "Land:Mecklenburg-Vorpommern",
-"title": "Mecklenburg-Vorpommern. Urlaub für dich. Alltag für uns – T-Shirt für Mecklenburg-Vorpommern"
-},
-{
-"id": 155,
-"spruch": "Mecklenburg-Vorpommern. Schwer zu schreiben, leicht zu mögen.",
-"thema": "Land:Mecklenburg-Vorpommern",
-"title": "Mecklenburg-Vorpommern. Schwer zu schreiben, leicht zu mögen – T-Shirt für Mecklenburg-Vorpommern"
-},
-{
-"id": 156,
-"spruch": "Niedersachsen. Wir sprechen Hochdeutsch. Wenig, aber richtig.",
-"thema": "Land:Niedersachsen",
-"title": "Niedersachsen. Wir sprechen Hochdeutsch. Wenig, aber richtig – T-Shirt für Niedersachsen"
-},
-{
-"id": 157,
-"spruch": "Niedersachsen. Flach, aber ehrlich.",
-"thema": "Land:Niedersachsen",
-"title": "Niedersachsen. Flach, aber ehrlich – T-Shirt für Niedersachsen"
-},
-{
-"id": 158,
-"spruch": "Niedersachsen. Größer als gedacht. Ruhiger als erhofft.",
-"thema": "Land:Niedersachsen",
-"title": "Niedersachsen. Größer als gedacht. Ruhiger als erhofft – T-Shirt für Niedersachsen"
-},
-{
-"id": 159,
-"spruch": "Niedersachsen. Hier ist sogar das Wetter flach.",
-"thema": "Land:Niedersachsen",
-"title": "Niedersachsen. Hier ist sogar das Wetter flach – T-Shirt für Niedersachsen"
-},
-{
-"id": 160,
-"spruch": "Niedersachsen. Kurz gegrüßt ist auch gegrüßt.",
-"thema": "Land:Niedersachsen",
-"title": "Niedersachsen. Kurz gegrüßt ist auch gegrüßt – T-Shirt für Niedersachsen"
-},
-{
-"id": 161,
-"spruch": "NRW. Rheinland oder Westfalen? Ja.",
-"thema": "Land:Nordrhein-Westfalen",
-"title": "NRW. Rheinland oder Westfalen? Ja – T-Shirt für Nordrhein-Westfalen"
-},
-{
-"id": 162,
-"spruch": "Kohle ist weg. Herz ist geblieben.",
-"thema": "Land:Nordrhein-Westfalen",
-"title": "Kohle ist weg. Herz ist geblieben – T-Shirt für Nordrhein-Westfalen"
-},
-{
-"id": 163,
-"spruch": "Ruhrgebiet. Hier sacht man noch, wat man denkt.",
-"thema": "Land:Nordrhein-Westfalen",
-"title": "Ruhrgebiet. Hier sacht man noch, wat man denkt – T-Shirt für Nordrhein-Westfalen"
-},
-{
-"id": 164,
-"spruch": "NRW. Achtzehn Millionen Meinungen.",
-"thema": "Land:Nordrhein-Westfalen",
-"title": "NRW. Achtzehn Millionen Meinungen – T-Shirt für Nordrhein-Westfalen"
-},
-{
-"id": 165,
-"spruch": "Kölsch oder Alt? Vorsichtig antworten.",
-"thema": "Land:Nordrhein-Westfalen",
-"title": "Kölsch oder Alt? Vorsichtig antworten – T-Shirt für Nordrhein-Westfalen"
-},
-{
-"id": 166,
-"spruch": "Rheinland-Pfalz. Wein ist hier ein Grundrecht.",
-"thema": "Land:Rheinland-Pfalz",
-"title": "Rheinland-Pfalz. Wein ist hier ein Grundrecht – T-Shirt für Rheinland-Pfalz"
-},
-{
-"id": 167,
-"spruch": "Eine Schorle ist ein halber Liter. Mindestens.",
-"thema": "Land:Rheinland-Pfalz",
-"title": "Eine Schorle ist ein halber Liter. Mindestens – T-Shirt für Rheinland-Pfalz"
-},
-{
-"id": 168,
-"spruch": "Rheinland-Pfalz. Mehr Burgen als Ampeln.",
-"thema": "Land:Rheinland-Pfalz",
-"title": "Rheinland-Pfalz. Mehr Burgen als Ampeln – T-Shirt für Rheinland-Pfalz"
-},
-{
-"id": 169,
-"spruch": "Alla hopp. Heißt in der Pfalz alles.",
-"thema": "Land:Rheinland-Pfalz",
-"title": "Alla hopp. Heißt in der Pfalz alles – T-Shirt für Rheinland-Pfalz"
-},
-{
-"id": 170,
-"spruch": "Rheinland-Pfalz. Du warst schon hier. Auf der Durchreise.",
-"thema": "Land:Rheinland-Pfalz",
-"title": "Rheinland-Pfalz. Du warst schon hier. Auf der Durchreise – T-Shirt für Rheinland-Pfalz"
-},
-{
-"id": 171,
-"spruch": "Saarland. Kurze Wege, lange Gespräche.",
-"thema": "Land:Saarland",
-"title": "Saarland. Kurze Wege, lange Gespräche – T-Shirt für Saarland"
-},
-{
-"id": 172,
-"spruch": "Hauptsach gudd gess.",
-"thema": "Land:Saarland",
-"title": "Hauptsach gudd gess – T-Shirt für Saarland"
-},
-{
-"id": 173,
-"spruch": "Saarland. Jeder kennt jeden. Wirklich.",
-"thema": "Land:Saarland",
-"title": "Saarland. Jeder kennt jeden. Wirklich – T-Shirt für Saarland"
-},
-{
-"id": 174,
-"spruch": "Saarland. Klein genug für alle.",
-"thema": "Land:Saarland",
-"title": "Saarland. Klein genug für alle – T-Shirt für Saarland"
-},
-{
-"id": 175,
-"spruch": "Saarland. Mehr als eine Maßeinheit.",
-"thema": "Land:Saarland",
-"title": "Saarland. Mehr als eine Maßeinheit – T-Shirt für Saarland"
-},
-{
-"id": 176,
-"spruch": "Sachsen. Nu.",
-"thema": "Land:Sachsen",
-"title": "Sachsen. Nu – T-Shirt für Sachsen"
-},
-{
-"id": 177,
-"spruch": "Sachsen. Erfinder von fast allem. Fragen Sie uns.",
-"thema": "Land:Sachsen",
-"title": "Sachsen. Erfinder von fast allem. Fragen Sie uns – T-Shirt für Sachsen"
-},
-{
-"id": 178,
-"spruch": "Ohne Gaffee gönn mir nich gämpfen.",
-"thema": "Land:Sachsen",
-"title": "Ohne Gaffee gönn mir nich gämpfen – T-Shirt für Sachsen"
-},
-{
-"id": 179,
-"spruch": "Sachsen. Hochdeutsch war nie der Plan.",
-"thema": "Land:Sachsen",
-"title": "Sachsen. Hochdeutsch war nie der Plan – T-Shirt für Sachsen"
-},
-{
-"id": 180,
-"spruch": "Eierschecke ist ein Argument.",
-"thema": "Land:Sachsen",
-"title": "Eierschecke ist ein Argument – T-Shirt für Sachsen"
-},
-{
-"id": 181,
-"spruch": "Sachsen-Anhalt. Nicht Sachsen. Bitte merken.",
-"thema": "Land:Sachsen-Anhalt",
-"title": "Sachsen-Anhalt. Nicht Sachsen. Bitte merken – T-Shirt für Sachsen-Anhalt"
-},
-{
-"id": 182,
-"spruch": "Sachsen-Anhalt. Der Bindestrich ist Absicht.",
-"thema": "Land:Sachsen-Anhalt",
-"title": "Sachsen-Anhalt. Der Bindestrich ist Absicht – T-Shirt für Sachsen-Anhalt"
-},
-{
-"id": 183,
-"spruch": "Sachsen-Anhalt. Unterschätzt seit 1990.",
-"thema": "Land:Sachsen-Anhalt",
-"title": "Sachsen-Anhalt. Unterschätzt seit 1990 – T-Shirt für Sachsen-Anhalt"
-},
-{
-"id": 184,
-"spruch": "Zwischen Harz und Elbe ist auch Deutschland.",
-"thema": "Land:Sachsen-Anhalt",
-"title": "Zwischen Harz und Elbe ist auch Deutschland – T-Shirt für Sachsen-Anhalt"
-},
-{
-"id": 185,
-"spruch": "Sachsen-Anhalt. Luther war auch schon hier.",
-"thema": "Land:Sachsen-Anhalt",
-"title": "Sachsen-Anhalt. Luther war auch schon hier – T-Shirt für Sachsen-Anhalt"
-},
-{
-"id": 186,
-"spruch": "Schleswig-Holstein. Zwei Meere, kaum Worte.",
-"thema": "Land:Schleswig-Holstein",
-"title": "Schleswig-Holstein. Zwei Meere, kaum Worte – T-Shirt für Schleswig-Holstein"
-},
-{
-"id": 187,
-"spruch": "Zweimal grüßen ist schon Gesabbel.",
-"thema": "Land:Schleswig-Holstein",
-"title": "Zweimal grüßen ist schon Gesabbel – T-Shirt für Schleswig-Holstein"
-},
-{
-"id": 188,
-"spruch": "Wind ist kein Wetter. Wind ist immer.",
-"thema": "Land:Schleswig-Holstein",
-"title": "Wind ist kein Wetter. Wind ist immer – T-Shirt für Schleswig-Holstein"
-},
-{
-"id": 189,
-"spruch": "Hamburg ist für uns Süden.",
-"thema": "Land:Schleswig-Holstein",
-"title": "Hamburg ist für uns Süden – T-Shirt für Schleswig-Holstein"
-},
-{
-"id": 190,
-"spruch": "So flach, dass man den Besuch von morgen schon sieht.",
-"thema": "Land:Schleswig-Holstein",
-"title": "So flach, dass man den Besuch von morgen schon sieht – T-Shirt für Schleswig-Holstein"
-},
-{
-"id": 191,
-"spruch": "Thüringen. Die Bratwurst ist Kulturgut.",
-"thema": "Land:Thüringen",
-"title": "Thüringen. Die Bratwurst ist Kulturgut – T-Shirt für Thüringen"
-},
-{
-"id": 192,
-"spruch": "Senf. Kein Ketchup. Keine Diskussion.",
-"thema": "Land:Thüringen",
-"title": "Senf. Kein Ketchup. Keine Diskussion – T-Shirt für Thüringen"
-},
-{
-"id": 193,
-"spruch": "Thüringen. Grünes Herz, rauer Ton.",
-"thema": "Land:Thüringen",
-"title": "Thüringen. Grünes Herz, rauer Ton – T-Shirt für Thüringen"
-},
-{
-"id": 194,
-"spruch": "Klöße sind Beilage und Hauptsache.",
-"thema": "Land:Thüringen",
-"title": "Klöße sind Beilage und Hauptsache – T-Shirt für Thüringen"
-},
-{
-"id": 195,
-"spruch": "Thüringen. Mittendrin und trotzdem ruhig.",
-"thema": "Land:Thüringen",
-"title": "Thüringen. Mittendrin und trotzdem ruhig – T-Shirt für Thüringen"
-}
+ {
+  "id": 61,
+  "spruch": "Ananas gehört auf Pizza.",
+  "thema": "Ragebait",
+  "title": "Ananas gehört auf Pizza – T-Shirt mit Ragebait-Spruch"
+ },
+ {
+  "id": 62,
+  "spruch": "Erst die Milch, dann das Müsli.",
+  "thema": "Ragebait",
+  "title": "Erst die Milch, dann das Müsli – T-Shirt mit Ragebait-Spruch"
+ },
+ {
+  "id": 63,
+  "spruch": "Rolltreppe: Ich stehe links.",
+  "thema": "Ragebait",
+  "title": "Rolltreppe: Ich stehe links – T-Shirt mit Ragebait-Spruch"
+ },
+ {
+  "id": 64,
+  "spruch": "Es heißt der Butter.",
+  "thema": "Ragebait",
+  "title": "Es heißt der Butter – T-Shirt mit Ragebait-Spruch"
+ },
+ {
+  "id": 65,
+  "spruch": "Dein Lieblingsfilm ist mittelmäßig.",
+  "thema": "Ragebait",
+  "title": "Dein Lieblingsfilm ist mittelmäßig – T-Shirt mit Ragebait-Spruch"
+ },
+ {
+  "id": 66,
+  "spruch": "Montag ist jetzt euer Problem.",
+  "thema": "Rente",
+  "title": "Montag ist jetzt euer Problem – T-Shirt zur Rente"
+ },
+ {
+  "id": 67,
+  "spruch": "Offiziell nicht mehr zuständig.",
+  "thema": "Rente",
+  "title": "Offiziell nicht mehr zuständig – T-Shirt zur Rente"
+ },
+ {
+  "id": 68,
+  "spruch": "Rentner. Termine nur nach Vereinbarung. Also nie.",
+  "thema": "Rente",
+  "title": "Rentner. Termine nur nach Vereinbarung. Also nie – T-Shirt zur Rente"
+ },
+ {
+  "id": 69,
+  "spruch": "45 Jahre gearbeitet. Reicht dann auch.",
+  "thema": "Rente",
+  "title": "45 Jahre gearbeitet. Reicht dann auch – T-Shirt zur Rente"
+ },
+ {
+  "id": 70,
+  "spruch": "Im Ruhestand. Betonung auf Ruhe.",
+  "thema": "Rente",
+  "title": "Im Ruhestand. Betonung auf Ruhe – T-Shirt zur Rente"
+ },
+ {
+  "id": 71,
+  "spruch": "Ich bin dann mal weg. Diesmal wirklich.",
+  "thema": "Rente",
+  "title": "Ich bin dann mal weg. Diesmal wirklich – T-Shirt zur Rente"
+ },
+ {
+  "id": 72,
+  "spruch": "Ich gehe. Die Kaffeemaschine bleibt. Viel Glück.",
+  "thema": "Rente",
+  "title": "Ich gehe. Die Kaffeemaschine bleibt. Viel Glück – T-Shirt zur Rente"
+ },
+ {
+  "id": 73,
+  "spruch": "Letzter Arbeitstag. Bitte keine Fragen mehr.",
+  "thema": "Rente",
+  "title": "Letzter Arbeitstag. Bitte keine Fragen mehr – T-Shirt zur Rente"
+ },
+ {
+  "id": 74,
+  "spruch": "Neuer Job. Gleiche Müdigkeit.",
+  "thema": "Rente",
+  "title": "Neuer Job. Gleiche Müdigkeit – T-Shirt zur Rente"
+ },
+ {
+  "id": 75,
+  "spruch": "Rente: Endlich Zeit, alles weiter aufzuschieben.",
+  "thema": "Rente",
+  "title": "Rente: Endlich Zeit, alles weiter aufzuschieben – T-Shirt zur Rente"
+ },
+ {
+  "id": 76,
+  "spruch": "Mama. Zuständig für alles. Seit immer.",
+  "thema": "Familie:Mama",
+  "title": "Mama. Zuständig für alles. Seit immer – T-Shirt für Mama"
+ },
+ {
+  "id": 77,
+  "spruch": "Frag Mama. Die weiß, wo es liegt.",
+  "thema": "Familie:Mama",
+  "title": "Frag Mama. Die weiß, wo es liegt – T-Shirt für Mama"
+ },
+ {
+  "id": 78,
+  "spruch": "Mama hat nicht immer recht. Nur fast immer.",
+  "thema": "Familie:Mama",
+  "title": "Mama hat nicht immer recht. Nur fast immer – T-Shirt für Mama"
+ },
+ {
+  "id": 79,
+  "spruch": "Ich bin nicht müde. Ich bin Mama. Das ist dasselbe.",
+  "thema": "Familie:Mama",
+  "title": "Ich bin nicht müde. Ich bin Mama. Das ist dasselbe – T-Shirt für Mama"
+ },
+ {
+  "id": 80,
+  "spruch": "Mama: Geschäftsführung ohne Feierabend.",
+  "thema": "Familie:Mama",
+  "title": "Mama: Geschäftsführung ohne Feierabend – T-Shirt für Mama"
+ },
+ {
+  "id": 81,
+  "spruch": "Papa sagt: Frag Mama.",
+  "thema": "Familie:Papa",
+  "title": "Papa sagt: Frag Mama – T-Shirt für Papa"
+ },
+ {
+  "id": 82,
+  "spruch": "Papa repariert das. Irgendwann.",
+  "thema": "Familie:Papa",
+  "title": "Papa repariert das. Irgendwann – T-Shirt für Papa"
+ },
+ {
+  "id": 83,
+  "spruch": "Ich schlafe nicht. Ich ruhe die Augen aus.",
+  "thema": "Familie:Papa",
+  "title": "Ich schlafe nicht. Ich ruhe die Augen aus – T-Shirt für Papa"
+ },
+ {
+  "id": 84,
+  "spruch": "Papa hat einen Plan. Er verrät ihn nur nicht.",
+  "thema": "Familie:Papa",
+  "title": "Papa hat einen Plan. Er verrät ihn nur nicht – T-Shirt für Papa"
+ },
+ {
+  "id": 85,
+  "spruch": "Tür zu. Wir heizen nicht für draußen.",
+  "thema": "Familie:Papa",
+  "title": "Tür zu. Wir heizen nicht für draußen – T-Shirt für Papa"
+ },
+ {
+  "id": 86,
+  "spruch": "Mama sagt nein. Oma sagt ja.",
+  "thema": "Familie:Oma",
+  "title": "Mama sagt nein. Oma sagt ja – T-Shirt für Oma"
+ },
+ {
+  "id": 87,
+  "spruch": "Bei Oma gibt es keine kleinen Portionen.",
+  "thema": "Familie:Oma",
+  "title": "Bei Oma gibt es keine kleinen Portionen – T-Shirt für Oma"
+ },
+ {
+  "id": 88,
+  "spruch": "Oma. Wie Mama, nur ohne Regeln.",
+  "thema": "Familie:Oma",
+  "title": "Oma. Wie Mama, nur ohne Regeln – T-Shirt für Oma"
+ },
+ {
+  "id": 89,
+  "spruch": "Hast du schon gegessen? – Oma",
+  "thema": "Familie:Oma",
+  "title": "Hast du schon gegessen? – Oma – T-Shirt für Oma"
+ },
+ {
+  "id": 90,
+  "spruch": "Oma weiß es. Sie sagt nur nichts.",
+  "thema": "Familie:Oma",
+  "title": "Oma weiß es. Sie sagt nur nichts – T-Shirt für Oma"
+ },
+ {
+  "id": 91,
+  "spruch": "Opa weiß das. Auch ohne Internet.",
+  "thema": "Familie:Opa",
+  "title": "Opa weiß das. Auch ohne Internet – T-Shirt für Opa"
+ },
+ {
+  "id": 92,
+  "spruch": "Früher war das anders. – Opa",
+  "thema": "Familie:Opa",
+  "title": "Früher war das anders – Opa – T-Shirt für Opa"
+ },
+ {
+  "id": 93,
+  "spruch": "Opa erzählt es gern noch einmal.",
+  "thema": "Familie:Opa",
+  "title": "Opa erzählt es gern noch einmal – T-Shirt für Opa"
+ },
+ {
+  "id": 94,
+  "spruch": "Opa repariert das. Mit Draht.",
+  "thema": "Familie:Opa",
+  "title": "Opa repariert das. Mit Draht – T-Shirt für Opa"
+ },
+ {
+  "id": 95,
+  "spruch": "Was Opa erlaubt, bleibt bei Opa.",
+  "thema": "Familie:Opa",
+  "title": "Was Opa erlaubt, bleibt bei Opa – T-Shirt für Opa"
+ },
+ {
+  "id": 96,
+  "spruch": "Ältester. Offiziell verantwortlich. Inoffiziell schuld.",
+  "thema": "Familie:Bruder",
+  "title": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – T-Shirt für Bruder"
+ },
+ {
+  "id": 97,
+  "spruch": "Jüngster. Ich war das nicht.",
+  "thema": "Familie:Bruder",
+  "title": "Jüngster. Ich war das nicht – T-Shirt für Bruder"
+ },
+ {
+  "id": 98,
+  "spruch": "Bruder. Meldet sich, wenn er was braucht.",
+  "thema": "Familie:Bruder",
+  "title": "Bruder. Meldet sich, wenn er was braucht – T-Shirt für Bruder"
+ },
+ {
+  "id": 99,
+  "spruch": "Bester Bruder. Die Auswahl war klein.",
+  "thema": "Familie:Bruder",
+  "title": "Bester Bruder. Die Auswahl war klein – T-Shirt für Bruder"
+ },
+ {
+  "id": 100,
+  "spruch": "Meine Schwester hat angefangen.",
+  "thema": "Familie:Bruder",
+  "title": "Meine Schwester hat angefangen – T-Shirt für Bruder"
+ },
+ {
+  "id": 101,
+  "spruch": "Älteste Schwester. Ich hatte zuerst recht.",
+  "thema": "Familie:Schwester",
+  "title": "Älteste Schwester. Ich hatte zuerst recht – T-Shirt für Schwester"
+ },
+ {
+  "id": 102,
+  "spruch": "Nesthäkchen. Ich sag's Mama.",
+  "thema": "Familie:Schwester",
+  "title": "Nesthäkchen. Ich sag's Mama – T-Shirt für Schwester"
+ },
+ {
+  "id": 103,
+  "spruch": "Schwester. Leiht sich alles. Bringt nichts zurück.",
+  "thema": "Familie:Schwester",
+  "title": "Schwester. Leiht sich alles. Bringt nichts zurück – T-Shirt für Schwester"
+ },
+ {
+  "id": 104,
+  "spruch": "Lieblingsschwester. Wahl ohne Gegenkandidatin.",
+  "thema": "Familie:Schwester",
+  "title": "Lieblingsschwester. Wahl ohne Gegenkandidatin – T-Shirt für Schwester"
+ },
+ {
+  "id": 105,
+  "spruch": "Mein Bruder hat angefangen.",
+  "thema": "Familie:Schwester",
+  "title": "Mein Bruder hat angefangen – T-Shirt für Schwester"
+ },
+ {
+  "id": 106,
+  "spruch": "Onkel. Wie Papa, nur lustiger.",
+  "thema": "Familie:Onkel",
+  "title": "Onkel. Wie Papa, nur lustiger – T-Shirt für Onkel"
+ },
+ {
+  "id": 107,
+  "spruch": "Der Onkel mit den schlechten Witzen.",
+  "thema": "Familie:Onkel",
+  "title": "Der Onkel mit den schlechten Witzen – T-Shirt für Onkel"
+ },
+ {
+  "id": 108,
+  "spruch": "Was Mama verbietet, erlaubt der Onkel.",
+  "thema": "Familie:Onkel",
+  "title": "Was Mama verbietet, erlaubt der Onkel – T-Shirt für Onkel"
+ },
+ {
+  "id": 109,
+  "spruch": "Lieblingsonkel. Laut eigener Umfrage.",
+  "thema": "Familie:Onkel",
+  "title": "Lieblingsonkel. Laut eigener Umfrage – T-Shirt für Onkel"
+ },
+ {
+  "id": 110,
+  "spruch": "Onkel. Zuständig für Unsinn.",
+  "thema": "Familie:Onkel",
+  "title": "Onkel. Zuständig für Unsinn – T-Shirt für Onkel"
+ },
+ {
+  "id": 111,
+  "spruch": "Tante. Wie Mama, nur entspannter.",
+  "thema": "Familie:Tante",
+  "title": "Tante. Wie Mama, nur entspannter – T-Shirt für Tante"
+ },
+ {
+  "id": 112,
+  "spruch": "Tante weiß alles. Tante sagt nichts.",
+  "thema": "Familie:Tante",
+  "title": "Tante weiß alles. Tante sagt nichts – T-Shirt für Tante"
+ },
+ {
+  "id": 113,
+  "spruch": "Das bleibt unter uns. – Tante",
+  "thema": "Familie:Tante",
+  "title": "Das bleibt unter uns – Tante – T-Shirt für Tante"
+ },
+ {
+  "id": 114,
+  "spruch": "Tante. Zuständig für Süßigkeiten vor dem Abendessen.",
+  "thema": "Familie:Tante",
+  "title": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – T-Shirt für Tante"
+ },
+ {
+  "id": 115,
+  "spruch": "Die Tante, vor der Mama gewarnt hat.",
+  "thema": "Familie:Tante",
+  "title": "Die Tante, vor der Mama gewarnt hat – T-Shirt für Tante"
+ },
+ {
+  "id": 214,
+  "spruch": "18 Jahre – Erwachsen. Laut Ausweis.",
+  "thema": "Alter",
+  "title": "18 Jahre – Erwachsen. Laut Ausweis – T-Shirt zum 18. Geburtstag"
+ },
+ {
+  "id": 215,
+  "spruch": "19 – Erwachsen im zweiten Lehrjahr.",
+  "thema": "Alter",
+  "title": "19 – Erwachsen im zweiten Lehrjahr – T-Shirt zum 19. Geburtstag"
+ },
+ {
+  "id": 216,
+  "spruch": "20 – Zwei Jahrzehnte. Null Plan.",
+  "thema": "Alter",
+  "title": "20 – Zwei Jahrzehnte. Null Plan – T-Shirt zum 20. Geburtstag"
+ },
+ {
+  "id": 217,
+  "spruch": "21 – Weltweit volljährig. Nirgends vernünftig.",
+  "thema": "Alter",
+  "title": "21 – Weltweit volljährig. Nirgends vernünftig – T-Shirt zum 21. Geburtstag"
+ },
+ {
+  "id": 218,
+  "spruch": "22 – Jung genug für alles. Zu müde für das meiste.",
+  "thema": "Alter",
+  "title": "22 – Jung genug für alles. Zu müde für das meiste – T-Shirt zum 22. Geburtstag"
+ },
+ {
+  "id": 219,
+  "spruch": "23 – Ich übe noch Erwachsensein.",
+  "thema": "Alter",
+  "title": "23 – Ich übe noch Erwachsensein – T-Shirt zum 23. Geburtstag"
+ },
+ {
+  "id": 220,
+  "spruch": "24 – Rund um die Uhr unentschlossen.",
+  "thema": "Alter",
+  "title": "24 – Rund um die Uhr unentschlossen – T-Shirt zum 24. Geburtstag"
+ },
+ {
+  "id": 221,
+  "spruch": "25 – Vierteljahrhundert. Fühlt sich länger an.",
+  "thema": "Alter",
+  "title": "25 – Vierteljahrhundert. Fühlt sich länger an – T-Shirt zum 25. Geburtstag"
+ },
+ {
+  "id": 222,
+  "spruch": "26 – Näher an 30 als an 20. Kein Kommentar.",
+  "thema": "Alter",
+  "title": "26 – Näher an 30 als an 20. Kein Kommentar – T-Shirt zum 26. Geburtstag"
+ },
+ {
+  "id": 223,
+  "spruch": "27 – Ich habe einen Lieblingstopf. So weit ist es.",
+  "thema": "Alter",
+  "title": "27 – Ich habe einen Lieblingstopf. So weit ist es – T-Shirt zum 27. Geburtstag"
+ },
+ {
+  "id": 224,
+  "spruch": "28 – Kater dauern jetzt zwei Tage.",
+  "thema": "Alter",
+  "title": "28 – Kater dauern jetzt zwei Tage – T-Shirt zum 28. Geburtstag"
+ },
+ {
+  "id": 225,
+  "spruch": "29 – Zum ersten Mal. Weitere folgen.",
+  "thema": "Alter",
+  "title": "29 – Zum ersten Mal. Weitere folgen – T-Shirt zum 29. Geburtstag"
+ },
+ {
+  "id": 226,
+  "spruch": "30 – Ich gehe gern früh nach Hause.",
+  "thema": "Alter",
+  "title": "30 – Ich gehe gern früh nach Hause – T-Shirt zum 30. Geburtstag"
+ },
+ {
+  "id": 227,
+  "spruch": "31 – 30 war nur die Probe.",
+  "thema": "Alter",
+  "title": "31 – 30 war nur die Probe – T-Shirt zum 31. Geburtstag"
+ },
+ {
+  "id": 228,
+  "spruch": "32 – Ich freue mich über neue Schwämme.",
+  "thema": "Alter",
+  "title": "32 – Ich freue mich über neue Schwämme – T-Shirt zum 32. Geburtstag"
+ },
+ {
+  "id": 229,
+  "spruch": "33 – Schnapszahl. Ohne Schnaps, wegen morgen.",
+  "thema": "Alter",
+  "title": "33 – Schnapszahl. Ohne Schnaps, wegen morgen – T-Shirt zum 33. Geburtstag"
+ },
+ {
+  "id": 230,
+  "spruch": "34 – Ich sage jetzt „früher“.",
+  "thema": "Alter",
+  "title": "34 – Ich sage jetzt „früher“ – T-Shirt zum 34. Geburtstag"
+ },
+ {
+  "id": 231,
+  "spruch": "35 – Halb siebzig. Vollkommen ruhig.",
+  "thema": "Alter",
+  "title": "35 – Halb siebzig. Vollkommen ruhig – T-Shirt zum 35. Geburtstag"
+ },
+ {
+  "id": 232,
+  "spruch": "36 – Laute Musik? Nur noch im Auto.",
+  "thema": "Alter",
+  "title": "36 – Laute Musik? Nur noch im Auto – T-Shirt zum 36. Geburtstag"
+ },
+ {
+  "id": 233,
+  "spruch": "37 – Mein Lieblingsort ist die Couch.",
+  "thema": "Alter",
+  "title": "37 – Mein Lieblingsort ist die Couch – T-Shirt zum 37. Geburtstag"
+ },
+ {
+  "id": 234,
+  "spruch": "38 – Ich habe eine Meinung zu Matratzen.",
+  "thema": "Alter",
+  "title": "38 – Ich habe eine Meinung zu Matratzen – T-Shirt zum 38. Geburtstag"
+ },
+ {
+  "id": 235,
+  "spruch": "39 – Zum letzten Mal mit einer Drei.",
+  "thema": "Alter",
+  "title": "39 – Zum letzten Mal mit einer Drei – T-Shirt zum 39. Geburtstag"
+ },
+ {
+  "id": 236,
+  "spruch": "40 – Ich drehe die Musik leiser, um besser einzuparken.",
+  "thema": "Alter",
+  "title": "40 – Ich drehe die Musik leiser, um besser einzuparken – T-Shirt zum 40. Geburtstag"
+ },
+ {
+  "id": 237,
+  "spruch": "41 – 40 war nur der Anfang.",
+  "thema": "Alter",
+  "title": "41 – 40 war nur der Anfang – T-Shirt zum 41. Geburtstag"
+ },
+ {
+  "id": 238,
+  "spruch": "42 – Die Antwort auf alles. Fragt mich nur nicht.",
+  "thema": "Alter",
+  "title": "42 – Die Antwort auf alles. Fragt mich nur nicht – T-Shirt zum 42. Geburtstag"
+ },
+ {
+  "id": 239,
+  "spruch": "43 – Ich stöhne beim Hinsetzen. Aus Überzeugung.",
+  "thema": "Alter",
+  "title": "43 – Ich stöhne beim Hinsetzen. Aus Überzeugung – T-Shirt zum 43. Geburtstag"
+ },
+ {
+  "id": 240,
+  "spruch": "44 – Schnapszahl. Mit Lesebrille.",
+  "thema": "Alter",
+  "title": "44 – Schnapszahl. Mit Lesebrille – T-Shirt zum 44. Geburtstag"
+ },
+ {
+  "id": 241,
+  "spruch": "45 – Halb neunzig. Ganz entspannt.",
+  "thema": "Alter",
+  "title": "45 – Halb neunzig. Ganz entspannt – T-Shirt zum 45. Geburtstag"
+ },
+ {
+  "id": 242,
+  "spruch": "46 – Ich lese jetzt Beipackzettel.",
+  "thema": "Alter",
+  "title": "46 – Ich lese jetzt Beipackzettel – T-Shirt zum 46. Geburtstag"
+ },
+ {
+  "id": 243,
+  "spruch": "47 – Ich kenne meinen Hausarzt beim Vornamen.",
+  "thema": "Alter",
+  "title": "47 – Ich kenne meinen Hausarzt beim Vornamen – T-Shirt zum 47. Geburtstag"
+ },
+ {
+  "id": 244,
+  "spruch": "48 – Früh ins Bett ist kein Verzicht. Es ist ein Ziel.",
+  "thema": "Alter",
+  "title": "48 – Früh ins Bett ist kein Verzicht. Es ist ein Ziel – T-Shirt zum 48. Geburtstag"
+ },
+ {
+  "id": 245,
+  "spruch": "49 – Zum letzten Mal mit einer Vier.",
+  "thema": "Alter",
+  "title": "49 – Zum letzten Mal mit einer Vier – T-Shirt zum 49. Geburtstag"
+ },
+ {
+  "id": 246,
+  "spruch": "50 – Ein halbes Jahrhundert. Die bessere Hälfte kommt.",
+  "thema": "Alter",
+  "title": "50 – Ein halbes Jahrhundert. Die bessere Hälfte kommt – T-Shirt zum 50. Geburtstag"
+ },
+ {
+  "id": 247,
+  "spruch": "51 – 50 plus Versand.",
+  "thema": "Alter",
+  "title": "51 – 50 plus Versand – T-Shirt zum 51. Geburtstag"
+ },
+ {
+  "id": 248,
+  "spruch": "52 – Eine Karte für jedes Jahr. Volles Blatt.",
+  "thema": "Alter",
+  "title": "52 – Eine Karte für jedes Jahr. Volles Blatt – T-Shirt zum 52. Geburtstag"
+ },
+ {
+  "id": 249,
+  "spruch": "53 – Ich wähle Restaurants nach der Lautstärke.",
+  "thema": "Alter",
+  "title": "53 – Ich wähle Restaurants nach der Lautstärke – T-Shirt zum 53. Geburtstag"
+ },
+ {
+  "id": 250,
+  "spruch": "54 – Meine Brille liegt irgendwo. Wie immer.",
+  "thema": "Alter",
+  "title": "54 – Meine Brille liegt irgendwo. Wie immer – T-Shirt zum 54. Geburtstag"
+ },
+ {
+  "id": 251,
+  "spruch": "55 – Schnapszahl. Zweimal fünf gerade sein lassen.",
+  "thema": "Alter",
+  "title": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – T-Shirt zum 55. Geburtstag"
+ },
+ {
+  "id": 252,
+  "spruch": "56 – Ich gehe spazieren. Freiwillig.",
+  "thema": "Alter",
+  "title": "56 – Ich gehe spazieren. Freiwillig – T-Shirt zum 56. Geburtstag"
+ },
+ {
+  "id": 253,
+  "spruch": "57 – Ich rede mit Fremden über das Wetter.",
+  "thema": "Alter",
+  "title": "57 – Ich rede mit Fremden über das Wetter – T-Shirt zum 57. Geburtstag"
+ },
+ {
+  "id": 254,
+  "spruch": "58 – Ich habe Lieblingswerkzeug.",
+  "thema": "Alter",
+  "title": "58 – Ich habe Lieblingswerkzeug – T-Shirt zum 58. Geburtstag"
+ },
+ {
+  "id": 255,
+  "spruch": "59 – Zum letzten Mal mit einer Fünf.",
+  "thema": "Alter",
+  "title": "59 – Zum letzten Mal mit einer Fünf – T-Shirt zum 59. Geburtstag"
+ },
+ {
+  "id": 256,
+  "spruch": "60 – Ich muss gar nichts mehr müssen.",
+  "thema": "Alter",
+  "title": "60 – Ich muss gar nichts mehr müssen – T-Shirt zum 60. Geburtstag"
+ },
+ {
+  "id": 257,
+  "spruch": "61 – 60 mit Zugabe.",
+  "thema": "Alter",
+  "title": "61 – 60 mit Zugabe – T-Shirt zum 61. Geburtstag"
+ },
+ {
+  "id": 258,
+  "spruch": "62 – Ich zähle schon die Montage.",
+  "thema": "Alter",
+  "title": "62 – Ich zähle schon die Montage – T-Shirt zum 62. Geburtstag"
+ },
+ {
+  "id": 259,
+  "spruch": "63 – Fast Rente. Bitte nicht mehr einarbeiten.",
+  "thema": "Alter",
+  "title": "63 – Fast Rente. Bitte nicht mehr einarbeiten – T-Shirt zum 63. Geburtstag"
+ },
+ {
+  "id": 260,
+  "spruch": "64 – Ein Jahr noch freundlich nicken.",
+  "thema": "Alter",
+  "title": "64 – Ein Jahr noch freundlich nicken – T-Shirt zum 64. Geburtstag"
+ },
+ {
+  "id": 261,
+  "spruch": "65 – Ab jetzt habe ich Zeit. Theoretisch.",
+  "thema": "Alter",
+  "title": "65 – Ab jetzt habe ich Zeit. Theoretisch – T-Shirt zum 65. Geburtstag"
+ },
+ {
+  "id": 262,
+  "spruch": "66 – Schnapszahl. Ich habe jetzt Zeit zum Anstoßen.",
+  "thema": "Alter",
+  "title": "66 – Schnapszahl. Ich habe jetzt Zeit zum Anstoßen – T-Shirt zum 66. Geburtstag"
+ },
+ {
+  "id": 263,
+  "spruch": "67 – Rente. Ich habe geliefert.",
+  "thema": "Alter",
+  "title": "67 – Rente. Ich habe geliefert – T-Shirt zum 67. Geburtstag"
+ },
+ {
+  "id": 264,
+  "spruch": "68 – Mein Kalender ist leer. Mit Absicht.",
+  "thema": "Alter",
+  "title": "68 – Mein Kalender ist leer. Mit Absicht – T-Shirt zum 68. Geburtstag"
+ },
+ {
+  "id": 265,
+  "spruch": "69 – Zum letzten Mal mit einer Sechs.",
+  "thema": "Alter",
+  "title": "69 – Zum letzten Mal mit einer Sechs – T-Shirt zum 69. Geburtstag"
+ },
+ {
+  "id": 266,
+  "spruch": "70 – Ich sage, was ich denke. Schon länger.",
+  "thema": "Alter",
+  "title": "70 – Ich sage, was ich denke. Schon länger – T-Shirt zum 70. Geburtstag"
+ },
+ {
+  "id": 267,
+  "spruch": "71 – Die 70 war nur zum Üben.",
+  "thema": "Alter",
+  "title": "71 – Die 70 war nur zum Üben – T-Shirt zum 71. Geburtstag"
+ },
+ {
+  "id": 268,
+  "spruch": "72 – Mittagsschlaf ist ein Termin.",
+  "thema": "Alter",
+  "title": "72 – Mittagsschlaf ist ein Termin – T-Shirt zum 72. Geburtstag"
+ },
+ {
+  "id": 269,
+  "spruch": "73 – Ich bin nicht stur. Ich habe nur recht.",
+  "thema": "Alter",
+  "title": "73 – Ich bin nicht stur. Ich habe nur recht – T-Shirt zum 73. Geburtstag"
+ },
+ {
+  "id": 270,
+  "spruch": "74 – Ich höre gut. Wenn ich will.",
+  "thema": "Alter",
+  "title": "74 – Ich höre gut. Wenn ich will – T-Shirt zum 74. Geburtstag"
+ },
+ {
+  "id": 271,
+  "spruch": "75 – Dreiviertel Jahrhundert. Voll bei der Sache.",
+  "thema": "Alter",
+  "title": "75 – Dreiviertel Jahrhundert. Voll bei der Sache – T-Shirt zum 75. Geburtstag"
+ },
+ {
+  "id": 272,
+  "spruch": "76 – Das habe ich schon repariert, bevor du geboren wurdest.",
+  "thema": "Alter",
+  "title": "76 – Das habe ich schon repariert, bevor du geboren wurdest – T-Shirt zum 76. Geburtstag"
+ },
+ {
+  "id": 273,
+  "spruch": "77 – Schnapszahl. Doppelt gelassen.",
+  "thema": "Alter",
+  "title": "77 – Schnapszahl. Doppelt gelassen – T-Shirt zum 77. Geburtstag"
+ },
+ {
+  "id": 274,
+  "spruch": "78 – Ich brauche kein Navi. Ich kenne den Weg von früher.",
+  "thema": "Alter",
+  "title": "78 – Ich brauche kein Navi. Ich kenne den Weg von früher – T-Shirt zum 78. Geburtstag"
+ },
+ {
+  "id": 275,
+  "spruch": "79 – Zum letzten Mal mit einer Sieben.",
+  "thema": "Alter",
+  "title": "79 – Zum letzten Mal mit einer Sieben – T-Shirt zum 79. Geburtstag"
+ },
+ {
+  "id": 276,
+  "spruch": "80 – Ich darf jetzt alles sagen.",
+  "thema": "Alter",
+  "title": "80 – Ich darf jetzt alles sagen – T-Shirt zum 80. Geburtstag"
+ },
+ {
+  "id": 277,
+  "spruch": "81 – 80 mit Nachschlag.",
+  "thema": "Alter",
+  "title": "81 – 80 mit Nachschlag – T-Shirt zum 81. Geburtstag"
+ },
+ {
+  "id": 278,
+  "spruch": "82 – Ich bin nicht alt. Ich bin schon lange jung.",
+  "thema": "Alter",
+  "title": "82 – Ich bin nicht alt. Ich bin schon lange jung – T-Shirt zum 82. Geburtstag"
+ },
+ {
+  "id": 279,
+  "spruch": "83 – Mein Rat ist kostenlos. Und ungefragt.",
+  "thema": "Alter",
+  "title": "83 – Mein Rat ist kostenlos. Und ungefragt – T-Shirt zum 83. Geburtstag"
+ },
+ {
+  "id": 280,
+  "spruch": "84 – Ich habe mehr gesehen als das Internet.",
+  "thema": "Alter",
+  "title": "84 – Ich habe mehr gesehen als das Internet – T-Shirt zum 84. Geburtstag"
+ },
+ {
+  "id": 281,
+  "spruch": "85 – Eile war gestern.",
+  "thema": "Alter",
+  "title": "85 – Eile war gestern – T-Shirt zum 85. Geburtstag"
+ },
+ {
+  "id": 282,
+  "spruch": "86 – Ich mache das auf meine Art. Schon immer.",
+  "thema": "Alter",
+  "title": "86 – Ich mache das auf meine Art. Schon immer – T-Shirt zum 86. Geburtstag"
+ },
+ {
+  "id": 283,
+  "spruch": "87 – Die Jüngeren sind jetzt 70.",
+  "thema": "Alter",
+  "title": "87 – Die Jüngeren sind jetzt 70 – T-Shirt zum 87. Geburtstag"
+ },
+ {
+  "id": 284,
+  "spruch": "88 Jahre – Schnapszahl mit Erfahrung.",
+  "thema": "Alter",
+  "title": "88 Jahre – Schnapszahl mit Erfahrung – T-Shirt zum 88. Geburtstag"
+ },
+ {
+  "id": 285,
+  "spruch": "89 – Zum letzten Mal mit einer Acht.",
+  "thema": "Alter",
+  "title": "89 – Zum letzten Mal mit einer Acht – T-Shirt zum 89. Geburtstag"
+ },
+ {
+  "id": 286,
+  "spruch": "90 – Fragen Sie ruhig. Ich weiß es noch.",
+  "thema": "Alter",
+  "title": "90 – Fragen Sie ruhig. Ich weiß es noch – T-Shirt zum 90. Geburtstag"
+ },
+ {
+  "id": 287,
+  "spruch": "91 – Ich mache einfach weiter.",
+  "thema": "Alter",
+  "title": "91 – Ich mache einfach weiter – T-Shirt zum 91. Geburtstag"
+ },
+ {
+  "id": 288,
+  "spruch": "92 – Ich plane nur noch Schönes.",
+  "thema": "Alter",
+  "title": "92 – Ich plane nur noch Schönes – T-Shirt zum 92. Geburtstag"
+ },
+ {
+  "id": 289,
+  "spruch": "93 – Ich habe Zeit. Nur nicht für Hektik.",
+  "thema": "Alter",
+  "title": "93 – Ich habe Zeit. Nur nicht für Hektik – T-Shirt zum 93. Geburtstag"
+ },
+ {
+  "id": 290,
+  "spruch": "94 – Mein Geheimnis? Verrate ich mit 100.",
+  "thema": "Alter",
+  "title": "94 – Mein Geheimnis? Verrate ich mit 100 – T-Shirt zum 94. Geburtstag"
+ },
+ {
+  "id": 291,
+  "spruch": "95 – Bitte lauter gratulieren.",
+  "thema": "Alter",
+  "title": "95 – Bitte lauter gratulieren – T-Shirt zum 95. Geburtstag"
+ },
+ {
+  "id": 292,
+  "spruch": "96 – Ich war schon alt, als ihr jung wart.",
+  "thema": "Alter",
+  "title": "96 – Ich war schon alt, als ihr jung wart – T-Shirt zum 96. Geburtstag"
+ },
+ {
+  "id": 293,
+  "spruch": "97 – Drei Jahre Anlauf.",
+  "thema": "Alter",
+  "title": "97 – Drei Jahre Anlauf – T-Shirt zum 97. Geburtstag"
+ },
+ {
+  "id": 294,
+  "spruch": "98 – Fast. Aber ich hetze nicht.",
+  "thema": "Alter",
+  "title": "98 – Fast. Aber ich hetze nicht – T-Shirt zum 98. Geburtstag"
+ },
+ {
+  "id": 295,
+  "spruch": "99 – Schnapszahl. Die letzte zweistellige.",
+  "thema": "Alter",
+  "title": "99 – Schnapszahl. Die letzte zweistellige – T-Shirt zum 99. Geburtstag"
+ },
+ {
+  "id": 296,
+  "spruch": "100 – Dreistellig. Hat ja gedauert.",
+  "thema": "Alter",
+  "title": "100 – Dreistellig. Hat ja gedauert – T-Shirt zum 100. Geburtstag"
+ },
+ {
+  "id": 297,
+  "spruch": "Seit der F-Jugend dabei. Seit der F-Jugend auf der Bank.",
+  "thema": "Sport:Fußball",
+  "title": "Seit der F-Jugend dabei. Seit der F-Jugend auf der Bank – Fußball-T-Shirt"
+ },
+ {
+  "id": 298,
+  "spruch": "Abseits erkläre ich dir nach dem Spiel.",
+  "thema": "Sport:Fußball",
+  "title": "Abseits erkläre ich dir nach dem Spiel – Fußball-T-Shirt"
+ },
+ {
+  "id": 299,
+  "spruch": "Unterste Liga. Höchster Einsatz.",
+  "thema": "Sport:Fußball",
+  "title": "Unterste Liga. Höchster Einsatz – Fußball-T-Shirt"
+ },
+ {
+  "id": 300,
+  "spruch": "Der Platz war schuld.",
+  "thema": "Sport:Fußball",
+  "title": "Der Platz war schuld – Fußball-T-Shirt"
+ },
+ {
+  "id": 301,
+  "spruch": "Sonntag, 15 Uhr. Kein Termin frei.",
+  "thema": "Sport:Fußball",
+  "title": "Sonntag, 15 Uhr. Kein Termin frei – Fußball-T-Shirt"
+ },
+ {
+  "id": 302,
+  "spruch": "Turnhalle. Mein zweites Wohnzimmer.",
+  "thema": "Sport:Turnen",
+  "title": "Turnhalle. Mein zweites Wohnzimmer – Turnen-T-Shirt"
+ },
+ {
+  "id": 303,
+  "spruch": "Ich mache keinen Spagat. Ich sitze nur sehr breit.",
+  "thema": "Sport:Turnen",
+  "title": "Ich mache keinen Spagat. Ich sitze nur sehr breit – Turnen-T-Shirt"
+ },
+ {
+  "id": 304,
+  "spruch": "Ein Rad schlagen geht immer. Aufstehen danach nicht.",
+  "thema": "Sport:Turnen",
+  "title": "Ein Rad schlagen geht immer. Aufstehen danach nicht – Turnen-T-Shirt"
+ },
+ {
+  "id": 305,
+  "spruch": "Ohne Magnesia kein Gespräch.",
+  "thema": "Sport:Turnen",
+  "title": "Ohne Magnesia kein Gespräch – Turnen-T-Shirt"
+ },
+ {
+  "id": 306,
+  "spruch": "Landung sitzt. Der Rest war Kunst.",
+  "thema": "Sport:Turnen",
+  "title": "Landung sitzt. Der Rest war Kunst – Turnen-T-Shirt"
+ },
+ {
+  "id": 307,
+  "spruch": "Aus. Ganz sicher aus.",
+  "thema": "Sport:Tennis",
+  "title": "Aus. Ganz sicher aus – Tennis-T-Shirt"
+ },
+ {
+  "id": 308,
+  "spruch": "Mein Aufschlag ist eine Überraschung. Auch für mich.",
+  "thema": "Sport:Tennis",
+  "title": "Mein Aufschlag ist eine Überraschung. Auch für mich – Tennis-T-Shirt"
+ },
+ {
+  "id": 309,
+  "spruch": "Tennis ist Kopfsache. Meiner ist woanders.",
+  "thema": "Sport:Tennis",
+  "title": "Tennis ist Kopfsache. Meiner ist woanders – Tennis-T-Shirt"
+ },
+ {
+  "id": 310,
+  "spruch": "Ich spiele nur Doppel. Dann ist jemand schuld.",
+  "thema": "Sport:Tennis",
+  "title": "Ich spiele nur Doppel. Dann ist jemand schuld – Tennis-T-Shirt"
+ },
+ {
+  "id": 311,
+  "spruch": "Netzroller. Absicht natürlich.",
+  "thema": "Sport:Tennis",
+  "title": "Netzroller. Absicht natürlich – Tennis-T-Shirt"
+ },
+ {
+  "id": 312,
+  "spruch": "Oben ist die Aussicht. Unten die Ausrede.",
+  "thema": "Sport:Bergsport",
+  "title": "Oben ist die Aussicht. Unten die Ausrede – Bergsport-T-Shirt"
+ },
+ {
+  "id": 313,
+  "spruch": "Ich klettere nicht. Ich hänge nur sehr gezielt.",
+  "thema": "Sport:Bergsport",
+  "title": "Ich klettere nicht. Ich hänge nur sehr gezielt – Bergsport-T-Shirt"
+ },
+ {
+  "id": 314,
+  "spruch": "Gipfel erreicht. Knie widerspricht.",
+  "thema": "Sport:Bergsport",
+  "title": "Gipfel erreicht. Knie widerspricht – Bergsport-T-Shirt"
+ },
+ {
+  "id": 315,
+  "spruch": "Seil gut, alles gut.",
+  "thema": "Sport:Bergsport",
+  "title": "Seil gut, alles gut – Bergsport-T-Shirt"
+ },
+ {
+  "id": 316,
+  "spruch": "Hüttenzauber ist auch Training.",
+  "thema": "Sport:Bergsport",
+  "title": "Hüttenzauber ist auch Training – Bergsport-T-Shirt"
+ },
+ {
+  "id": 317,
+  "spruch": "Schützenfest ist kein Hobby. Es ist Brauchtum.",
+  "thema": "Sport:Schützen",
+  "title": "Schützenfest ist kein Hobby. Es ist Brauchtum – Schützen-T-Shirt"
+ },
+ {
+  "id": 318,
+  "spruch": "Ruhige Hand. Lautes Fest.",
+  "thema": "Sport:Schützen",
+  "title": "Ruhige Hand. Lautes Fest – Schützen-T-Shirt"
+ },
+ {
+  "id": 319,
+  "spruch": "Zielwasser gehört zur Ausrüstung.",
+  "thema": "Sport:Schützen",
+  "title": "Zielwasser gehört zur Ausrüstung – Schützen-T-Shirt"
+ },
+ {
+  "id": 320,
+  "spruch": "König für ein Jahr. Danach wieder Kassenwart.",
+  "thema": "Sport:Schützen",
+  "title": "König für ein Jahr. Danach wieder Kassenwart – Schützen-T-Shirt"
+ },
+ {
+  "id": 321,
+  "spruch": "Mein Verein marschiert. Ich gehe mit.",
+  "thema": "Sport:Schützen",
+  "title": "Mein Verein marschiert. Ich gehe mit – Schützen-T-Shirt"
+ },
+ {
+  "id": 322,
+  "spruch": "Ich laufe nicht weg. Ich trainiere.",
+  "thema": "Sport:Leichtathletik",
+  "title": "Ich laufe nicht weg. Ich trainiere – Leichtathletik-T-Shirt"
+ },
+ {
+  "id": 323,
+  "spruch": "Kilometer zählen ist auch Mathe.",
+  "thema": "Sport:Leichtathletik",
+  "title": "Kilometer zählen ist auch Mathe – Leichtathletik-T-Shirt"
+ },
+ {
+  "id": 324,
+  "spruch": "Erst Muskelkater, dann Medaille.",
+  "thema": "Sport:Leichtathletik",
+  "title": "Erst Muskelkater, dann Medaille – Leichtathletik-T-Shirt"
+ },
+ {
+  "id": 325,
+  "spruch": "Die Bahn hat 400 Meter. Ich fühle jeden.",
+  "thema": "Sport:Leichtathletik",
+  "title": "Die Bahn hat 400 Meter. Ich fühle jeden – Leichtathletik-T-Shirt"
+ },
+ {
+  "id": 326,
+  "spruch": "Langsam, aber regelmäßig.",
+  "thema": "Sport:Leichtathletik",
+  "title": "Langsam, aber regelmäßig – Leichtathletik-T-Shirt"
+ },
+ {
+  "id": 327,
+  "spruch": "Harz an den Händen. Ruhe im Kopf.",
+  "thema": "Sport:Handball",
+  "title": "Harz an den Händen. Ruhe im Kopf – Handball-T-Shirt"
+ },
+ {
+  "id": 328,
+  "spruch": "Handball. Wie Fußball, nur ohne Schauspielerei.",
+  "thema": "Sport:Handball",
+  "title": "Handball. Wie Fußball, nur ohne Schauspielerei – Handball-T-Shirt"
+ },
+ {
+  "id": 329,
+  "spruch": "Siebenmeter? Gerne.",
+  "thema": "Sport:Handball",
+  "title": "Siebenmeter? Gerne – Handball-T-Shirt"
+ },
+ {
+  "id": 330,
+  "spruch": "Ich foule nicht. Ich bin nur präsent.",
+  "thema": "Sport:Handball",
+  "title": "Ich foule nicht. Ich bin nur präsent – Handball-T-Shirt"
+ },
+ {
+  "id": 331,
+  "spruch": "Kreisläufer. Steht beruflich im Weg.",
+  "thema": "Sport:Handball",
+  "title": "Kreisläufer. Steht beruflich im Weg – Handball-T-Shirt"
+ },
+ {
+  "id": 332,
+  "spruch": "Ich spiele Golf. Hauptsächlich suche ich Bälle.",
+  "thema": "Sport:Golf",
+  "title": "Ich spiele Golf. Hauptsächlich suche ich Bälle – Golf-T-Shirt"
+ },
+ {
+  "id": 333,
+  "spruch": "Handicap: Golf.",
+  "thema": "Sport:Golf",
+  "title": "Handicap: Golf – Golf-T-Shirt"
+ },
+ {
+  "id": 334,
+  "spruch": "Der Ball wollte ins Wasser.",
+  "thema": "Sport:Golf",
+  "title": "Der Ball wollte ins Wasser – Golf-T-Shirt"
+ },
+ {
+  "id": 335,
+  "spruch": "18 Löcher. Mindestens so viele Ausreden.",
+  "thema": "Sport:Golf",
+  "title": "18 Löcher. Mindestens so viele Ausreden – Golf-T-Shirt"
+ },
+ {
+  "id": 336,
+  "spruch": "Ein guter Schlag pro Runde reicht.",
+  "thema": "Sport:Golf",
+  "title": "Ein guter Schlag pro Runde reicht – Golf-T-Shirt"
+ },
+ {
+  "id": 337,
+  "spruch": "Das Pferd entscheidet. Ich schlage nur vor.",
+  "thema": "Sport:Reiten",
+  "title": "Das Pferd entscheidet. Ich schlage nur vor – Reiten-T-Shirt"
+ },
+ {
+  "id": 338,
+  "spruch": "Stallgeruch ist ein Parfum.",
+  "thema": "Sport:Reiten",
+  "title": "Stallgeruch ist ein Parfum – Reiten-T-Shirt"
+ },
+ {
+  "id": 339,
+  "spruch": "Mein Pferd ist teurer als dein Auto.",
+  "thema": "Sport:Reiten",
+  "title": "Mein Pferd ist teurer als dein Auto – Reiten-T-Shirt"
+ },
+ {
+  "id": 340,
+  "spruch": "Absteigen war nicht geplant.",
+  "thema": "Sport:Reiten",
+  "title": "Absteigen war nicht geplant – Reiten-T-Shirt"
+ },
+ {
+  "id": 341,
+  "spruch": "Reiten ist Teamarbeit. Das Pferd ist der Chef.",
+  "thema": "Sport:Reiten",
+  "title": "Reiten ist Teamarbeit. Das Pferd ist der Chef – Reiten-T-Shirt"
+ },
+ {
+  "id": 342,
+  "spruch": "Ich rieche nach Chlor. Ganz normal.",
+  "thema": "Sport:Schwimmen",
+  "title": "Ich rieche nach Chlor. Ganz normal – Schwimmen-T-Shirt"
+ },
+ {
+  "id": 343,
+  "spruch": "Bahn 4 gehört mir.",
+  "thema": "Sport:Schwimmen",
+  "title": "Bahn 4 gehört mir – Schwimmen-T-Shirt"
+ },
+ {
+  "id": 344,
+  "spruch": "Erst 50 Bahnen, dann Pommes.",
+  "thema": "Sport:Schwimmen",
+  "title": "Erst 50 Bahnen, dann Pommes – Schwimmen-T-Shirt"
+ },
+ {
+  "id": 345,
+  "spruch": "Schwimmen ist wie Laufen. Nur nasser.",
+  "thema": "Sport:Schwimmen",
+  "title": "Schwimmen ist wie Laufen. Nur nasser – Schwimmen-T-Shirt"
+ },
+ {
+  "id": 346,
+  "spruch": "Ich tauche nicht ab. Ich trainiere.",
+  "thema": "Sport:Schwimmen",
+  "title": "Ich tauche nicht ab. Ich trainiere – Schwimmen-T-Shirt"
+ },
+ {
+  "id": 347,
+  "spruch": "Kantenball. Reines Können.",
+  "thema": "Sport:Tischtennis",
+  "title": "Kantenball. Reines Können – Tischtennis-T-Shirt"
+ },
+ {
+  "id": 348,
+  "spruch": "Ich spiele mit Schnitt. Und Gefühl.",
+  "thema": "Sport:Tischtennis",
+  "title": "Ich spiele mit Schnitt. Und Gefühl – Tischtennis-T-Shirt"
+ },
+ {
+  "id": 349,
+  "spruch": "Elf Punkte. Viele Gefühle.",
+  "thema": "Sport:Tischtennis",
+  "title": "Elf Punkte. Viele Gefühle – Tischtennis-T-Shirt"
+ },
+ {
+  "id": 350,
+  "spruch": "Tischtennis ist kein Ping-Pong. Bitte.",
+  "thema": "Sport:Tischtennis",
+  "title": "Tischtennis ist kein Ping-Pong. Bitte – Tischtennis-T-Shirt"
+ },
+ {
+  "id": 351,
+  "spruch": "Netz, Kante, Ausrede.",
+  "thema": "Sport:Tischtennis",
+  "title": "Netz, Kante, Ausrede – Tischtennis-T-Shirt"
+ },
+ {
+  "id": 352,
+  "spruch": "Ski. Danach Kaiserschmarrn.",
+  "thema": "Sport:Ski",
+  "title": "Ski. Danach Kaiserschmarrn – Ski-T-Shirt"
+ },
+ {
+  "id": 353,
+  "spruch": "Ich fahre schwarz. Mit Pausen.",
+  "thema": "Sport:Ski",
+  "title": "Ich fahre schwarz. Mit Pausen – Ski-T-Shirt"
+ },
+ {
+  "id": 354,
+  "spruch": "Erste Gondel. Letzter Einkehrschwung.",
+  "thema": "Sport:Ski",
+  "title": "Erste Gondel. Letzter Einkehrschwung – Ski-T-Shirt"
+ },
+ {
+  "id": 355,
+  "spruch": "Schnee von gestern ist auch Schnee.",
+  "thema": "Sport:Ski",
+  "title": "Schnee von gestern ist auch Schnee – Ski-T-Shirt"
+ },
+ {
+  "id": 356,
+  "spruch": "Ich falle nicht. Ich teste den Schnee.",
+  "thema": "Sport:Ski",
+  "title": "Ich falle nicht. Ich teste den Schnee – Ski-T-Shirt"
+ },
+ {
+  "id": 357,
+  "spruch": "Bagger, Pritsche, Ausrede.",
+  "thema": "Sport:Volleyball",
+  "title": "Bagger, Pritsche, Ausrede – Volleyball-T-Shirt"
+ },
+ {
+  "id": 358,
+  "spruch": "Das Netz ist nur eine Empfehlung.",
+  "thema": "Sport:Volleyball",
+  "title": "Das Netz ist nur eine Empfehlung – Volleyball-T-Shirt"
+ },
+ {
+  "id": 359,
+  "spruch": "Mein Aufschlag kommt. Irgendwann.",
+  "thema": "Sport:Volleyball",
+  "title": "Mein Aufschlag kommt. Irgendwann – Volleyball-T-Shirt"
+ },
+ {
+  "id": 360,
+  "spruch": "Mittelblock. Ich bin die Mauer.",
+  "thema": "Sport:Volleyball",
+  "title": "Mittelblock. Ich bin die Mauer – Volleyball-T-Shirt"
+ },
+ {
+  "id": 361,
+  "spruch": "Libero. Andere Farbe, gleiche Probleme.",
+  "thema": "Sport:Volleyball",
+  "title": "Libero. Andere Farbe, gleiche Probleme – Volleyball-T-Shirt"
+ },
+ {
+  "id": 362,
+  "spruch": "Ich werfe nicht daneben. Der Korb bewegt sich.",
+  "thema": "Sport:Basketball",
+  "title": "Ich werfe nicht daneben. Der Korb bewegt sich – Basketball-T-Shirt"
+ },
+ {
+  "id": 363,
+  "spruch": "Drei Punkte oder gar nichts.",
+  "thema": "Sport:Basketball",
+  "title": "Drei Punkte oder gar nichts – Basketball-T-Shirt"
+ },
+ {
+  "id": 364,
+  "spruch": "Ich dribble nicht. Ich diskutiere mit dem Ball.",
+  "thema": "Sport:Basketball",
+  "title": "Ich dribble nicht. Ich diskutiere mit dem Ball – Basketball-T-Shirt"
+ },
+ {
+  "id": 365,
+  "spruch": "Größe hilft. Ich habe Willen.",
+  "thema": "Sport:Basketball",
+  "title": "Größe hilft. Ich habe Willen – Basketball-T-Shirt"
+ },
+ {
+  "id": 366,
+  "spruch": "Freiwurf. Alle schauen. Kein Druck.",
+  "thema": "Sport:Basketball",
+  "title": "Freiwurf. Alle schauen. Kein Druck – Basketball-T-Shirt"
+ },
+ {
+  "id": 367,
+  "spruch": "Ich tanze nicht gut. Aber gerne.",
+  "thema": "Sport:Tanzen",
+  "title": "Ich tanze nicht gut. Aber gerne – Tanzen-T-Shirt"
+ },
+ {
+  "id": 368,
+  "spruch": "Links, rechts, Applaus.",
+  "thema": "Sport:Tanzen",
+  "title": "Links, rechts, Applaus – Tanzen-T-Shirt"
+ },
+ {
+  "id": 369,
+  "spruch": "Wer führt, ist schuld.",
+  "thema": "Sport:Tanzen",
+  "title": "Wer führt, ist schuld – Tanzen-T-Shirt"
+ },
+ {
+  "id": 370,
+  "spruch": "Tanzen ist Sport. Mit Pailletten.",
+  "thema": "Sport:Tanzen",
+  "title": "Tanzen ist Sport. Mit Pailletten – Tanzen-T-Shirt"
+ },
+ {
+  "id": 371,
+  "spruch": "Ich zähle bis acht. Dann wieder bis acht.",
+  "thema": "Sport:Tanzen",
+  "title": "Ich zähle bis acht. Dann wieder bis acht – Tanzen-T-Shirt"
+ },
+ {
+  "id": 372,
+  "spruch": "Kein Wind ist auch eine Ansage.",
+  "thema": "Sport:Segeln",
+  "title": "Kein Wind ist auch eine Ansage – Segeln-T-Shirt"
+ },
+ {
+  "id": 373,
+  "spruch": "Hart am Wind. Weich im Herzen.",
+  "thema": "Sport:Segeln",
+  "title": "Hart am Wind. Weich im Herzen – Segeln-T-Shirt"
+ },
+ {
+  "id": 374,
+  "spruch": "Ich segle nicht. Ich warte auf Wind.",
+  "thema": "Sport:Segeln",
+  "title": "Ich segle nicht. Ich warte auf Wind – Segeln-T-Shirt"
+ },
+ {
+  "id": 375,
+  "spruch": "Leinen los. Kopf aus.",
+  "thema": "Sport:Segeln",
+  "title": "Leinen los. Kopf aus – Segeln-T-Shirt"
+ },
+ {
+  "id": 376,
+  "spruch": "Steuerbord ist rechts. Meistens.",
+  "thema": "Sport:Segeln",
+  "title": "Steuerbord ist rechts. Meistens – Segeln-T-Shirt"
+ },
+ {
+  "id": 377,
+  "spruch": "Federball ist das nicht. Bitte.",
+  "thema": "Sport:Badminton",
+  "title": "Federball ist das nicht. Bitte – Badminton-T-Shirt"
+ },
+ {
+  "id": 378,
+  "spruch": "Ich jage Federn. Sportlich.",
+  "thema": "Sport:Badminton",
+  "title": "Ich jage Federn. Sportlich – Badminton-T-Shirt"
+ },
+ {
+  "id": 379,
+  "spruch": "Smash. Danach Muskelkater.",
+  "thema": "Sport:Badminton",
+  "title": "Smash. Danach Muskelkater – Badminton-T-Shirt"
+ },
+ {
+  "id": 380,
+  "spruch": "Badminton. Schneller als du denkst.",
+  "thema": "Sport:Badminton",
+  "title": "Badminton. Schneller als du denkst – Badminton-T-Shirt"
+ },
+ {
+  "id": 381,
+  "spruch": "Doppel ist Beziehungsarbeit.",
+  "thema": "Sport:Badminton",
+  "title": "Doppel ist Beziehungsarbeit – Badminton-T-Shirt"
+ },
+ {
+  "id": 382,
+  "spruch": "Gelber Gürtel. Große Pläne.",
+  "thema": "Sport:Karate",
+  "title": "Gelber Gürtel. Große Pläne – Karate-T-Shirt"
+ },
+ {
+  "id": 383,
+  "spruch": "Ich mache Karate. Ich bin trotzdem nett.",
+  "thema": "Sport:Karate",
+  "title": "Ich mache Karate. Ich bin trotzdem nett – Karate-T-Shirt"
+ },
+ {
+  "id": 384,
+  "spruch": "Ich schreie nicht. Das ist Karate.",
+  "thema": "Sport:Karate",
+  "title": "Ich schreie nicht. Das ist Karate – Karate-T-Shirt"
+ },
+ {
+  "id": 385,
+  "spruch": "Barfuß ist mein Dresscode.",
+  "thema": "Sport:Karate",
+  "title": "Barfuß ist mein Dresscode – Karate-T-Shirt"
+ },
+ {
+  "id": 386,
+  "spruch": "Erst verbeugen, dann diskutieren.",
+  "thema": "Sport:Karate",
+  "title": "Erst verbeugen, dann diskutieren – Karate-T-Shirt"
+ },
+ {
+  "id": 387,
+  "spruch": "Ich fahre Rad. Der Rest ist Gegenwind.",
+  "thema": "Sport:Radsport",
+  "title": "Ich fahre Rad. Der Rest ist Gegenwind – Radsport-T-Shirt"
+ },
+ {
+  "id": 388,
+  "spruch": "Berge sind nur Umwege nach oben.",
+  "thema": "Sport:Radsport",
+  "title": "Berge sind nur Umwege nach oben – Radsport-T-Shirt"
+ },
+ {
+  "id": 389,
+  "spruch": "Kette rechts. Laune gut.",
+  "thema": "Sport:Radsport",
+  "title": "Kette rechts. Laune gut – Radsport-T-Shirt"
+ },
+ {
+  "id": 390,
+  "spruch": "Ich bin nicht langsam. Ich genieße die Strecke.",
+  "thema": "Sport:Radsport",
+  "title": "Ich bin nicht langsam. Ich genieße die Strecke – Radsport-T-Shirt"
+ },
+ {
+  "id": 391,
+  "spruch": "Wie viele Räder ich brauche? Eins mehr.",
+  "thema": "Sport:Radsport",
+  "title": "Wie viele Räder ich brauche? Eins mehr – Radsport-T-Shirt"
+ },
+ {
+  "id": 392,
+  "spruch": "Ich falle gern. Mit Technik.",
+  "thema": "Sport:Judo",
+  "title": "Ich falle gern. Mit Technik – Judo-T-Shirt"
+ },
+ {
+  "id": 393,
+  "spruch": "Weißer Anzug. Klare Ansage.",
+  "thema": "Sport:Judo",
+  "title": "Weißer Anzug. Klare Ansage – Judo-T-Shirt"
+ },
+ {
+  "id": 394,
+  "spruch": "Fallschule bestanden. Leben geht weiter.",
+  "thema": "Sport:Judo",
+  "title": "Fallschule bestanden. Leben geht weiter – Judo-T-Shirt"
+ },
+ {
+  "id": 395,
+  "spruch": "Ippon ist auch eine Antwort.",
+  "thema": "Sport:Judo",
+  "title": "Ippon ist auch eine Antwort – Judo-T-Shirt"
+ },
+ {
+  "id": 396,
+  "spruch": "Ich ziehe nicht. Ich lenke um.",
+  "thema": "Sport:Judo",
+  "title": "Ich ziehe nicht. Ich lenke um – Judo-T-Shirt"
+ },
+ {
+  "id": 116,
+  "spruch": "Baden-Württemberg. Erst schaffen, dann nochmal schaffen.",
+  "thema": "Land:Baden-Württemberg",
+  "title": "Baden-Württemberg. Erst schaffen, dann nochmal schaffen – T-Shirt für Baden-Württemberg"
+ },
+ {
+  "id": 117,
+  "spruch": "Kehrwoche ist kein Hobby. Es ist Haltung.",
+  "thema": "Land:Baden-Württemberg",
+  "title": "Kehrwoche ist kein Hobby. Es ist Haltung – T-Shirt für Baden-Württemberg"
+ },
+ {
+  "id": 118,
+  "spruch": "Schwäbisch sparsam. Das Shirt war trotzdem drin.",
+  "thema": "Land:Baden-Württemberg",
+  "title": "Schwäbisch sparsam. Das Shirt war trotzdem drin – T-Shirt für Baden-Württemberg"
+ },
+ {
+  "id": 119,
+  "spruch": "Baden und Württemberg. Der Bindestrich hält.",
+  "thema": "Land:Baden-Württemberg",
+  "title": "Baden und Württemberg. Der Bindestrich hält – T-Shirt für Baden-Württemberg"
+ },
+ {
+  "id": 120,
+  "spruch": "Nicht geschimpft ist genug gelobt.",
+  "thema": "Land:Baden-Württemberg",
+  "title": "Nicht geschimpft ist genug gelobt – T-Shirt für Baden-Württemberg"
+ },
+ {
+  "id": 121,
+  "spruch": "Bayern. Der Rest ist Norddeutschland.",
+  "thema": "Land:Bayern",
+  "title": "Bayern. Der Rest ist Norddeutschland – T-Shirt für Bayern"
+ },
+ {
+  "id": 122,
+  "spruch": "Passt scho.",
+  "thema": "Land:Bayern",
+  "title": "Passt scho – T-Shirt für Bayern"
+ },
+ {
+  "id": 123,
+  "spruch": "Ein Bier ist auch eine Mahlzeit.",
+  "thema": "Land:Bayern",
+  "title": "Ein Bier ist auch eine Mahlzeit – T-Shirt für Bayern"
+ },
+ {
+  "id": 124,
+  "spruch": "Bayern. Hochdeutsch auf Anfrage.",
+  "thema": "Land:Bayern",
+  "title": "Bayern. Hochdeutsch auf Anfrage – T-Shirt für Bayern"
+ },
+ {
+  "id": 125,
+  "spruch": "Franken ist nicht Bayern. Fragen Sie einen Franken.",
+  "thema": "Land:Bayern",
+  "title": "Franken ist nicht Bayern. Fragen Sie einen Franken – T-Shirt für Bayern"
+ },
+ {
+  "id": 126,
+  "spruch": "Berlin. Da kann man nicht meckern. Wird trotzdem gemacht.",
+  "thema": "Land:Berlin",
+  "title": "Berlin. Da kann man nicht meckern. Wird trotzdem gemacht – T-Shirt für Berlin"
+ },
+ {
+  "id": 127,
+  "spruch": "Berlin. Freundlich nur auf Nachfrage.",
+  "thema": "Land:Berlin",
+  "title": "Berlin. Freundlich nur auf Nachfrage – T-Shirt für Berlin"
+ },
+ {
+  "id": 128,
+  "spruch": "Berlin. Unfreundlich, aber ehrlich.",
+  "thema": "Land:Berlin",
+  "title": "Berlin. Unfreundlich, aber ehrlich – T-Shirt für Berlin"
+ },
+ {
+  "id": 129,
+  "spruch": "Wir haben sogar den Flughafen fertig bekommen. Irgendwann.",
+  "thema": "Land:Berlin",
+  "title": "Wir haben sogar den Flughafen fertig bekommen. Irgendwann – T-Shirt für Berlin"
+ },
+ {
+  "id": 130,
+  "spruch": "Berlin. Zugezogen seit vorgestern.",
+  "thema": "Land:Berlin",
+  "title": "Berlin. Zugezogen seit vorgestern – T-Shirt für Berlin"
+ },
+ {
+  "id": 131,
+  "spruch": "Brandenburg. Hier ist nichts los. Zum Glück.",
+  "thema": "Land:Brandenburg",
+  "title": "Brandenburg. Hier ist nichts los. Zum Glück – T-Shirt für Brandenburg"
+ },
+ {
+  "id": 132,
+  "spruch": "Brandenburg. Mehr Seen als Nachbarn.",
+  "thema": "Land:Brandenburg",
+  "title": "Brandenburg. Mehr Seen als Nachbarn – T-Shirt für Brandenburg"
+ },
+ {
+  "id": 133,
+  "spruch": "Nein, das ist nicht Berlin.",
+  "thema": "Land:Brandenburg",
+  "title": "Nein, das ist nicht Berlin – T-Shirt für Brandenburg"
+ },
+ {
+  "id": 134,
+  "spruch": "Brandenburg. Funkloch mit Aussicht.",
+  "thema": "Land:Brandenburg",
+  "title": "Brandenburg. Funkloch mit Aussicht – T-Shirt für Brandenburg"
+ },
+ {
+  "id": 135,
+  "spruch": "Brandenburg. Viel Platz für wenig Gerede.",
+  "thema": "Land:Brandenburg",
+  "title": "Brandenburg. Viel Platz für wenig Gerede – T-Shirt für Brandenburg"
+ },
+ {
+  "id": 136,
+  "spruch": "Bremen. Das kleinste Bundesland. Reicht völlig.",
+  "thema": "Land:Bremen",
+  "title": "Bremen. Das kleinste Bundesland. Reicht völlig – T-Shirt für Bremen"
+ },
+ {
+  "id": 137,
+  "spruch": "Bremen. Hanseatisch seit immer. Laut seit nie.",
+  "thema": "Land:Bremen",
+  "title": "Bremen. Hanseatisch seit immer. Laut seit nie – T-Shirt für Bremen"
+ },
+ {
+  "id": 138,
+  "spruch": "Die Stadtmusikanten kamen nie an. Wir schon.",
+  "thema": "Land:Bremen",
+  "title": "Die Stadtmusikanten kamen nie an. Wir schon – T-Shirt für Bremen"
+ },
+ {
+  "id": 139,
+  "spruch": "Bremen. Zwei Städte, ein Bundesland, keine Fragen.",
+  "thema": "Land:Bremen",
+  "title": "Bremen. Zwei Städte, ein Bundesland, keine Fragen – T-Shirt für Bremen"
+ },
+ {
+  "id": 140,
+  "spruch": "Bremen. Kleiner als dein Landkreis.",
+  "thema": "Land:Bremen",
+  "title": "Bremen. Kleiner als dein Landkreis – T-Shirt für Bremen"
+ },
+ {
+  "id": 141,
+  "spruch": "Hamburg. Zwei Wörter am Tag reichen.",
+  "thema": "Land:Hamburg",
+  "title": "Hamburg. Zwei Wörter am Tag reichen – T-Shirt für Hamburg"
+ },
+ {
+  "id": 142,
+  "spruch": "Das ist kein Regen. Das ist Luftfeuchtigkeit.",
+  "thema": "Land:Hamburg",
+  "title": "Das ist kein Regen. Das ist Luftfeuchtigkeit – T-Shirt für Hamburg"
+ },
+ {
+  "id": 143,
+  "spruch": "Hamburg. Regen ist hier ein Grundgefühl.",
+  "thema": "Land:Hamburg",
+  "title": "Hamburg. Regen ist hier ein Grundgefühl – T-Shirt für Hamburg"
+ },
+ {
+  "id": 144,
+  "spruch": "Südlich der Elbe ist Süddeutschland.",
+  "thema": "Land:Hamburg",
+  "title": "Südlich der Elbe ist Süddeutschland – T-Shirt für Hamburg"
+ },
+ {
+  "id": 145,
+  "spruch": "Hanseatisch begeistert. Sieht man nicht.",
+  "thema": "Land:Hamburg",
+  "title": "Hanseatisch begeistert. Sieht man nicht – T-Shirt für Hamburg"
+ },
+ {
+  "id": 146,
+  "spruch": "Hessen. Ei gude.",
+  "thema": "Land:Hessen",
+  "title": "Hessen. Ei gude – T-Shirt für Hessen"
+ },
+ {
+  "id": 147,
+  "spruch": "Hessen. Wir trinken Äppler. Aus Überzeugung.",
+  "thema": "Land:Hessen",
+  "title": "Hessen. Wir trinken Äppler. Aus Überzeugung – T-Shirt für Hessen"
+ },
+ {
+  "id": 148,
+  "spruch": "Hessen. Mehr als Frankfurt. Sagt Frankfurt nie.",
+  "thema": "Land:Hessen",
+  "title": "Hessen. Mehr als Frankfurt. Sagt Frankfurt nie – T-Shirt für Hessen"
+ },
+ {
+  "id": 149,
+  "spruch": "Grüne Soße ist ein Grundnahrungsmittel.",
+  "thema": "Land:Hessen",
+  "title": "Grüne Soße ist ein Grundnahrungsmittel – T-Shirt für Hessen"
+ },
+ {
+  "id": 150,
+  "spruch": "Hessen. Babbeln ist auch Arbeit.",
+  "thema": "Land:Hessen",
+  "title": "Hessen. Babbeln ist auch Arbeit – T-Shirt für Hessen"
+ },
+ {
+  "id": 151,
+  "spruch": "Mecklenburg-Vorpommern. Hier passiert alles später. Gut so.",
+  "thema": "Land:Mecklenburg-Vorpommern",
+  "title": "Mecklenburg-Vorpommern. Hier passiert alles später. Gut so – T-Shirt für Mecklenburg-Vorpommern"
+ },
+ {
+  "id": 152,
+  "spruch": "MV. Mehr Küste als Hektik.",
+  "thema": "Land:Mecklenburg-Vorpommern",
+  "title": "MV. Mehr Küste als Hektik – T-Shirt für Mecklenburg-Vorpommern"
+ },
+ {
+  "id": 153,
+  "spruch": "Jo. – Ausführliche Antwort aus Mecklenburg.",
+  "thema": "Land:Mecklenburg-Vorpommern",
+  "title": "Jo – Ausführliche Antwort aus Mecklenburg – T-Shirt für Mecklenburg-Vorpommern"
+ },
+ {
+  "id": 154,
+  "spruch": "Mecklenburg-Vorpommern. Urlaub für dich. Alltag für uns.",
+  "thema": "Land:Mecklenburg-Vorpommern",
+  "title": "Mecklenburg-Vorpommern. Urlaub für dich. Alltag für uns – T-Shirt für Mecklenburg-Vorpommern"
+ },
+ {
+  "id": 155,
+  "spruch": "Mecklenburg-Vorpommern. Schwer zu schreiben, leicht zu mögen.",
+  "thema": "Land:Mecklenburg-Vorpommern",
+  "title": "Mecklenburg-Vorpommern. Schwer zu schreiben, leicht zu mögen – T-Shirt für Mecklenburg-Vorpommern"
+ },
+ {
+  "id": 156,
+  "spruch": "Niedersachsen. Wir sprechen Hochdeutsch. Wenig, aber richtig.",
+  "thema": "Land:Niedersachsen",
+  "title": "Niedersachsen. Wir sprechen Hochdeutsch. Wenig, aber richtig – T-Shirt für Niedersachsen"
+ },
+ {
+  "id": 157,
+  "spruch": "Niedersachsen. Flach, aber ehrlich.",
+  "thema": "Land:Niedersachsen",
+  "title": "Niedersachsen. Flach, aber ehrlich – T-Shirt für Niedersachsen"
+ },
+ {
+  "id": 158,
+  "spruch": "Niedersachsen. Größer als gedacht. Ruhiger als erhofft.",
+  "thema": "Land:Niedersachsen",
+  "title": "Niedersachsen. Größer als gedacht. Ruhiger als erhofft – T-Shirt für Niedersachsen"
+ },
+ {
+  "id": 159,
+  "spruch": "Niedersachsen. Hier ist sogar das Wetter flach.",
+  "thema": "Land:Niedersachsen",
+  "title": "Niedersachsen. Hier ist sogar das Wetter flach – T-Shirt für Niedersachsen"
+ },
+ {
+  "id": 160,
+  "spruch": "Niedersachsen. Kurz gegrüßt ist auch gegrüßt.",
+  "thema": "Land:Niedersachsen",
+  "title": "Niedersachsen. Kurz gegrüßt ist auch gegrüßt – T-Shirt für Niedersachsen"
+ },
+ {
+  "id": 161,
+  "spruch": "NRW. Rheinland oder Westfalen? Ja.",
+  "thema": "Land:Nordrhein-Westfalen",
+  "title": "NRW. Rheinland oder Westfalen? Ja – T-Shirt für Nordrhein-Westfalen"
+ },
+ {
+  "id": 162,
+  "spruch": "Kohle ist weg. Herz ist geblieben.",
+  "thema": "Land:Nordrhein-Westfalen",
+  "title": "Kohle ist weg. Herz ist geblieben – T-Shirt für Nordrhein-Westfalen"
+ },
+ {
+  "id": 163,
+  "spruch": "Ruhrgebiet. Hier sacht man noch, wat man denkt.",
+  "thema": "Land:Nordrhein-Westfalen",
+  "title": "Ruhrgebiet. Hier sacht man noch, wat man denkt – T-Shirt für Nordrhein-Westfalen"
+ },
+ {
+  "id": 164,
+  "spruch": "NRW. Achtzehn Millionen Meinungen.",
+  "thema": "Land:Nordrhein-Westfalen",
+  "title": "NRW. Achtzehn Millionen Meinungen – T-Shirt für Nordrhein-Westfalen"
+ },
+ {
+  "id": 165,
+  "spruch": "Kölsch oder Alt? Vorsichtig antworten.",
+  "thema": "Land:Nordrhein-Westfalen",
+  "title": "Kölsch oder Alt? Vorsichtig antworten – T-Shirt für Nordrhein-Westfalen"
+ },
+ {
+  "id": 166,
+  "spruch": "Rheinland-Pfalz. Wein ist hier ein Grundrecht.",
+  "thema": "Land:Rheinland-Pfalz",
+  "title": "Rheinland-Pfalz. Wein ist hier ein Grundrecht – T-Shirt für Rheinland-Pfalz"
+ },
+ {
+  "id": 167,
+  "spruch": "Eine Schorle ist ein halber Liter. Mindestens.",
+  "thema": "Land:Rheinland-Pfalz",
+  "title": "Eine Schorle ist ein halber Liter. Mindestens – T-Shirt für Rheinland-Pfalz"
+ },
+ {
+  "id": 168,
+  "spruch": "Rheinland-Pfalz. Mehr Burgen als Ampeln.",
+  "thema": "Land:Rheinland-Pfalz",
+  "title": "Rheinland-Pfalz. Mehr Burgen als Ampeln – T-Shirt für Rheinland-Pfalz"
+ },
+ {
+  "id": 169,
+  "spruch": "Alla hopp. Heißt in der Pfalz alles.",
+  "thema": "Land:Rheinland-Pfalz",
+  "title": "Alla hopp. Heißt in der Pfalz alles – T-Shirt für Rheinland-Pfalz"
+ },
+ {
+  "id": 170,
+  "spruch": "Rheinland-Pfalz. Du warst schon hier. Auf der Durchreise.",
+  "thema": "Land:Rheinland-Pfalz",
+  "title": "Rheinland-Pfalz. Du warst schon hier. Auf der Durchreise – T-Shirt für Rheinland-Pfalz"
+ },
+ {
+  "id": 171,
+  "spruch": "Saarland. Kurze Wege, lange Gespräche.",
+  "thema": "Land:Saarland",
+  "title": "Saarland. Kurze Wege, lange Gespräche – T-Shirt für Saarland"
+ },
+ {
+  "id": 172,
+  "spruch": "Hauptsach gudd gess.",
+  "thema": "Land:Saarland",
+  "title": "Hauptsach gudd gess – T-Shirt für Saarland"
+ },
+ {
+  "id": 173,
+  "spruch": "Saarland. Jeder kennt jeden. Wirklich.",
+  "thema": "Land:Saarland",
+  "title": "Saarland. Jeder kennt jeden. Wirklich – T-Shirt für Saarland"
+ },
+ {
+  "id": 174,
+  "spruch": "Saarland. Klein genug für alle.",
+  "thema": "Land:Saarland",
+  "title": "Saarland. Klein genug für alle – T-Shirt für Saarland"
+ },
+ {
+  "id": 175,
+  "spruch": "Saarland. Mehr als eine Maßeinheit.",
+  "thema": "Land:Saarland",
+  "title": "Saarland. Mehr als eine Maßeinheit – T-Shirt für Saarland"
+ },
+ {
+  "id": 176,
+  "spruch": "Sachsen. Nu.",
+  "thema": "Land:Sachsen",
+  "title": "Sachsen. Nu – T-Shirt für Sachsen"
+ },
+ {
+  "id": 177,
+  "spruch": "Sachsen. Erfinder von fast allem. Fragen Sie uns.",
+  "thema": "Land:Sachsen",
+  "title": "Sachsen. Erfinder von fast allem. Fragen Sie uns – T-Shirt für Sachsen"
+ },
+ {
+  "id": 178,
+  "spruch": "Ohne Gaffee gönn mir nich gämpfen.",
+  "thema": "Land:Sachsen",
+  "title": "Ohne Gaffee gönn mir nich gämpfen – T-Shirt für Sachsen"
+ },
+ {
+  "id": 179,
+  "spruch": "Sachsen. Hochdeutsch war nie der Plan.",
+  "thema": "Land:Sachsen",
+  "title": "Sachsen. Hochdeutsch war nie der Plan – T-Shirt für Sachsen"
+ },
+ {
+  "id": 180,
+  "spruch": "Eierschecke ist ein Argument.",
+  "thema": "Land:Sachsen",
+  "title": "Eierschecke ist ein Argument – T-Shirt für Sachsen"
+ },
+ {
+  "id": 181,
+  "spruch": "Sachsen-Anhalt. Nicht Sachsen. Bitte merken.",
+  "thema": "Land:Sachsen-Anhalt",
+  "title": "Sachsen-Anhalt. Nicht Sachsen. Bitte merken – T-Shirt für Sachsen-Anhalt"
+ },
+ {
+  "id": 182,
+  "spruch": "Sachsen-Anhalt. Der Bindestrich ist Absicht.",
+  "thema": "Land:Sachsen-Anhalt",
+  "title": "Sachsen-Anhalt. Der Bindestrich ist Absicht – T-Shirt für Sachsen-Anhalt"
+ },
+ {
+  "id": 183,
+  "spruch": "Sachsen-Anhalt. Unterschätzt seit 1990.",
+  "thema": "Land:Sachsen-Anhalt",
+  "title": "Sachsen-Anhalt. Unterschätzt seit 1990 – T-Shirt für Sachsen-Anhalt"
+ },
+ {
+  "id": 184,
+  "spruch": "Zwischen Harz und Elbe ist auch Deutschland.",
+  "thema": "Land:Sachsen-Anhalt",
+  "title": "Zwischen Harz und Elbe ist auch Deutschland – T-Shirt für Sachsen-Anhalt"
+ },
+ {
+  "id": 185,
+  "spruch": "Sachsen-Anhalt. Luther war auch schon hier.",
+  "thema": "Land:Sachsen-Anhalt",
+  "title": "Sachsen-Anhalt. Luther war auch schon hier – T-Shirt für Sachsen-Anhalt"
+ },
+ {
+  "id": 186,
+  "spruch": "Schleswig-Holstein. Zwei Meere, kaum Worte.",
+  "thema": "Land:Schleswig-Holstein",
+  "title": "Schleswig-Holstein. Zwei Meere, kaum Worte – T-Shirt für Schleswig-Holstein"
+ },
+ {
+  "id": 187,
+  "spruch": "Zweimal grüßen ist schon Gesabbel.",
+  "thema": "Land:Schleswig-Holstein",
+  "title": "Zweimal grüßen ist schon Gesabbel – T-Shirt für Schleswig-Holstein"
+ },
+ {
+  "id": 188,
+  "spruch": "Wind ist kein Wetter. Wind ist immer.",
+  "thema": "Land:Schleswig-Holstein",
+  "title": "Wind ist kein Wetter. Wind ist immer – T-Shirt für Schleswig-Holstein"
+ },
+ {
+  "id": 189,
+  "spruch": "Hamburg ist für uns Süden.",
+  "thema": "Land:Schleswig-Holstein",
+  "title": "Hamburg ist für uns Süden – T-Shirt für Schleswig-Holstein"
+ },
+ {
+  "id": 190,
+  "spruch": "So flach, dass man den Besuch von morgen schon sieht.",
+  "thema": "Land:Schleswig-Holstein",
+  "title": "So flach, dass man den Besuch von morgen schon sieht – T-Shirt für Schleswig-Holstein"
+ },
+ {
+  "id": 191,
+  "spruch": "Thüringen. Die Bratwurst ist Kulturgut.",
+  "thema": "Land:Thüringen",
+  "title": "Thüringen. Die Bratwurst ist Kulturgut – T-Shirt für Thüringen"
+ },
+ {
+  "id": 192,
+  "spruch": "Senf. Kein Ketchup. Keine Diskussion.",
+  "thema": "Land:Thüringen",
+  "title": "Senf. Kein Ketchup. Keine Diskussion – T-Shirt für Thüringen"
+ },
+ {
+  "id": 193,
+  "spruch": "Thüringen. Grünes Herz, rauer Ton.",
+  "thema": "Land:Thüringen",
+  "title": "Thüringen. Grünes Herz, rauer Ton – T-Shirt für Thüringen"
+ },
+ {
+  "id": 194,
+  "spruch": "Klöße sind Beilage und Hauptsache.",
+  "thema": "Land:Thüringen",
+  "title": "Klöße sind Beilage und Hauptsache – T-Shirt für Thüringen"
+ },
+ {
+  "id": 195,
+  "spruch": "Thüringen. Mittendrin und trotzdem ruhig.",
+  "thema": "Land:Thüringen",
+  "title": "Thüringen. Mittendrin und trotzdem ruhig – T-Shirt für Thüringen"
+ },
+ {
+  "id": 401,
+  "spruch": "Star-Nosed Mole – Condylura cristata.",
+  "thema": "Tier-Motive",
+  "title": "Sternmull – Vintage-Naturkunde-T-Shirt"
+ },
+ {
+  "id": 402,
+  "spruch": "Sternmull. Sonst nichts.",
+  "thema": "Tier-Motive",
+  "title": "Sternmull pur – Tier-T-Shirt im Kupferstich-Stil"
+ },
+ {
+  "id": 403,
+  "spruch": "Brüllender Löwe.",
+  "thema": "Tier-Motive",
+  "title": "Brüllender Löwe – Tier-T-Shirt"
+ },
+ {
+  "id": 404,
+  "spruch": "Adlerblick.",
+  "thema": "Tier-Motive",
+  "title": "Adler mit Farbspritzern – Tier-T-Shirt"
+ },
+ {
+  "id": 405,
+  "spruch": "Edles Pferd.",
+  "thema": "Tier-Motive",
+  "title": "Pferd mit goldenem Zaumzeug – Tier-T-Shirt"
+ },
+ {
+  "id": 406,
+  "spruch": "Kamel in der Wüste.",
+  "thema": "Tier-Motive",
+  "title": "Kamel mit Pyramiden – Tier-T-Shirt"
+ },
+ {
+  "id": 407,
+  "spruch": "Nashorn.",
+  "thema": "Tier-Motive",
+  "title": "Nashorn mit Farbspritzern – Tier-T-Shirt"
+ },
+ {
+  "id": 408,
+  "spruch": "Schwarzer Panther.",
+  "thema": "Tier-Motive",
+  "title": "Schwarzer Panther – Tier-T-Shirt"
+ },
+ {
+  "id": 298,
+  "spruch": "Abseits erkläre ich dir nach dem Spiel.",
+  "thema": "Sport:Fußball",
+  "title": "Abseits erkläre ich dir nach dem Spiel – Fußball-T-Shirt"
+ }
 ]
