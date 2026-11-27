@@ -1,0 +1,242 @@
+[
+ {
+  "id": 67,
+  "spruch": "Offiziell nicht mehr zuständig",
+  "shirt": "Offiziell nicht mehr zuständig – T-Shirt zur Rente",
+  "tasse": "Offiziell nicht mehr zuständig – Tasse zur Rente",
+  "stofftasche": "Offiziell nicht mehr zuständig – Stofftasche zur Rente",
+  "hoodie": "Offiziell nicht mehr zuständig – Hoodie zur Rente"
+ },
+ {
+  "id": 68,
+  "spruch": "Rentner. Termine nur nach Vereinbarung. Also nie",
+  "shirt": "Rentner. Termine nur nach Vereinbarung. Also nie – T-Shirt zur Rente",
+  "tasse": "Rentner. Termine nur nach Vereinbarung. Also nie – Tasse zur Rente",
+  "stofftasche": "Rentner. Termine nur nach Vereinbarung. Also nie – Stofftasche zur Rente",
+  "hoodie": "Rentner. Termine nur nach Vereinbarung. Also nie – Hoodie zur Rente"
+ },
+ {
+  "id": 69,
+  "spruch": "45 Jahre gearbeitet. Reicht dann auch",
+  "shirt": "45 Jahre gearbeitet. Reicht dann auch – T-Shirt zur Rente",
+  "tasse": "45 Jahre gearbeitet. Reicht dann auch – Tasse zur Rente",
+  "stofftasche": "45 Jahre gearbeitet. Reicht dann auch – Stofftasche zur Rente",
+  "hoodie": "45 Jahre gearbeitet. Reicht dann auch – Hoodie zur Rente"
+ },
+ {
+  "id": 71,
+  "spruch": "Ich bin dann mal weg. Diesmal wirklich",
+  "shirt": "Ich bin dann mal weg. Diesmal wirklich – T-Shirt zur Rente",
+  "tasse": "Ich bin dann mal weg. Diesmal wirklich – Tasse zur Rente",
+  "stofftasche": "Ich bin dann mal weg. Diesmal wirklich – Stofftasche zur Rente",
+  "hoodie": "Ich bin dann mal weg. Diesmal wirklich – Hoodie zur Rente"
+ },
+ {
+  "id": 73,
+  "spruch": "Letzter Arbeitstag. Bitte keine Fragen mehr",
+  "shirt": "Letzter Arbeitstag. Bitte keine Fragen mehr – T-Shirt zur Rente",
+  "tasse": "Letzter Arbeitstag. Bitte keine Fragen mehr – Tasse zur Rente",
+  "stofftasche": "Letzter Arbeitstag. Bitte keine Fragen mehr – Stofftasche zur Rente",
+  "hoodie": "Letzter Arbeitstag. Bitte keine Fragen mehr – Hoodie zur Rente"
+ },
+ {
+  "id": 77,
+  "spruch": "Frag Mama. Die weiß, wo es liegt",
+  "shirt": "Frag Mama. Die weiß, wo es liegt – T-Shirt für Mama",
+  "tasse": "Frag Mama. Die weiß, wo es liegt – Tasse für Mama",
+  "stofftasche": "Frag Mama. Die weiß, wo es liegt – Stofftasche für Mama",
+  "hoodie": "Frag Mama. Die weiß, wo es liegt – Hoodie für Mama"
+ },
+ {
+  "id": 78,
+  "spruch": "Mama hat nicht immer recht. Nur fast immer",
+  "shirt": "Mama hat nicht immer recht. Nur fast immer – T-Shirt für Mama",
+  "tasse": "Mama hat nicht immer recht. Nur fast immer – Tasse für Mama",
+  "stofftasche": "Mama hat nicht immer recht. Nur fast immer – Stofftasche für Mama",
+  "hoodie": "Mama hat nicht immer recht. Nur fast immer – Hoodie für Mama"
+ },
+ {
+  "id": 80,
+  "spruch": "Mama: Geschäftsführung ohne Feierabend",
+  "shirt": "Mama: Geschäftsführung ohne Feierabend – T-Shirt für Mama",
+  "tasse": "Mama: Geschäftsführung ohne Feierabend – Tasse für Mama",
+  "stofftasche": "Mama: Geschäftsführung ohne Feierabend – Stofftasche für Mama",
+  "hoodie": "Mama: Geschäftsführung ohne Feierabend – Hoodie für Mama"
+ },
+ {
+  "id": 82,
+  "spruch": "Papa repariert das. Irgendwann",
+  "shirt": "Papa repariert das. Irgendwann – T-Shirt für Papa",
+  "tasse": "Papa repariert das. Irgendwann – Tasse für Papa",
+  "stofftasche": "Papa repariert das. Irgendwann – Stofftasche für Papa",
+  "hoodie": "Papa repariert das. Irgendwann – Hoodie für Papa"
+ },
+ {
+  "id": 84,
+  "spruch": "Papa hat einen Plan. Er verrät ihn nur nicht",
+  "shirt": "Papa hat einen Plan. Er verrät ihn nur nicht – T-Shirt für Papa",
+  "tasse": "Papa hat einen Plan. Er verrät ihn nur nicht – Tasse für Papa",
+  "stofftasche": "Papa hat einen Plan. Er verrät ihn nur nicht – Stofftasche für Papa",
+  "hoodie": "Papa hat einen Plan. Er verrät ihn nur nicht – Hoodie für Papa"
+ },
+ {
+  "id": 87,
+  "spruch": "Bei Oma gibt es keine kleinen Portionen",
+  "shirt": "Bei Oma gibt es keine kleinen Portionen – T-Shirt für Oma",
+  "tasse": "Bei Oma gibt es keine kleinen Portionen – Tasse für Oma",
+  "stofftasche": "Bei Oma gibt es keine kleinen Portionen – Stofftasche für Oma",
+  "hoodie": "Bei Oma gibt es keine kleinen Portionen – Hoodie für Oma"
+ },
+ {
+  "id": 88,
+  "spruch": "Oma. Wie Mama, nur ohne Regeln",
+  "shirt": "Oma. Wie Mama, nur ohne Regeln – T-Shirt für Oma",
+  "tasse": "Oma. Wie Mama, nur ohne Regeln – Tasse für Oma",
+  "stofftasche": "Oma. Wie Mama, nur ohne Regeln – Stofftasche für Oma",
+  "hoodie": "Oma. Wie Mama, nur ohne Regeln – Hoodie für Oma"
+ },
+ {
+  "id": 90,
+  "spruch": "Oma weiß es. Sie sagt nur nichts",
+  "shirt": "Oma weiß es. Sie sagt nur nichts – T-Shirt für Oma",
+  "tasse": "Oma weiß es. Sie sagt nur nichts – Tasse für Oma",
+  "stofftasche": "Oma weiß es. Sie sagt nur nichts – Stofftasche für Oma",
+  "hoodie": "Oma weiß es. Sie sagt nur nichts – Hoodie für Oma"
+ },
+ {
+  "id": 92,
+  "spruch": "Früher war das anders – Opa",
+  "shirt": "Früher war das anders – Opa – T-Shirt für Opa",
+  "tasse": "Früher war das anders – Opa – Tasse für Opa",
+  "stofftasche": "Früher war das anders – Opa – Stofftasche für Opa",
+  "hoodie": "Früher war das anders – Opa – Hoodie für Opa"
+ },
+ {
+  "id": 93,
+  "spruch": "Opa erzählt es gern noch einmal",
+  "shirt": "Opa erzählt es gern noch einmal – T-Shirt für Opa",
+  "tasse": "Opa erzählt es gern noch einmal – Tasse für Opa",
+  "stofftasche": "Opa erzählt es gern noch einmal – Stofftasche für Opa",
+  "hoodie": "Opa erzählt es gern noch einmal – Hoodie für Opa"
+ },
+ {
+  "id": 95,
+  "spruch": "Was Opa erlaubt, bleibt bei Opa",
+  "shirt": "Was Opa erlaubt, bleibt bei Opa – T-Shirt für Opa",
+  "tasse": "Was Opa erlaubt, bleibt bei Opa – Tasse für Opa",
+  "stofftasche": "Was Opa erlaubt, bleibt bei Opa – Stofftasche für Opa",
+  "hoodie": "Was Opa erlaubt, bleibt bei Opa – Hoodie für Opa"
+ },
+ {
+  "id": 96,
+  "spruch": "Ältester. Offiziell verantwortlich. Inoffiziell schuld",
+  "shirt": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – T-Shirt für Bruder",
+  "tasse": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – Tasse für Bruder",
+  "stofftasche": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – Stofftasche für Bruder",
+  "hoodie": "Ältester. Offiziell verantwortlich. Inoffiziell schuld – Hoodie für Bruder"
+ },
+ {
+  "id": 98,
+  "spruch": "Bruder. Meldet sich, wenn er was braucht",
+  "shirt": "Bruder. Meldet sich, wenn er was braucht – T-Shirt für Bruder",
+  "tasse": "Bruder. Meldet sich, wenn er was braucht – Tasse für Bruder",
+  "stofftasche": "Bruder. Meldet sich, wenn er was braucht – Stofftasche für Bruder",
+  "hoodie": "Bruder. Meldet sich, wenn er was braucht – Hoodie für Bruder"
+ },
+ {
+  "id": 102,
+  "spruch": "Nesthäkchen. Ich sag's Mama",
+  "shirt": "Nesthäkchen. Ich sag's Mama – T-Shirt für Schwester",
+  "tasse": "Nesthäkchen. Ich sag's Mama – Tasse für Schwester",
+  "stofftasche": "Nesthäkchen. Ich sag's Mama – Stofftasche für Schwester",
+  "hoodie": "Nesthäkchen. Ich sag's Mama – Hoodie für Schwester"
+ },
+ {
+  "id": 103,
+  "spruch": "Schwester. Leiht sich alles. Bringt nichts zurück",
+  "shirt": "Schwester. Leiht sich alles. Bringt nichts zurück – T-Shirt für Schwester",
+  "tasse": "Schwester. Leiht sich alles. Bringt nichts zurück – Tasse für Schwester",
+  "stofftasche": "Schwester. Leiht sich alles. Bringt nichts zurück – Stofftasche für Schwester",
+  "hoodie": "Schwester. Leiht sich alles. Bringt nichts zurück – Hoodie für Schwester"
+ },
+ {
+  "id": 106,
+  "spruch": "Onkel. Wie Papa, nur lustiger",
+  "shirt": "Onkel. Wie Papa, nur lustiger – T-Shirt für Onkel",
+  "tasse": "Onkel. Wie Papa, nur lustiger – Tasse für Onkel",
+  "stofftasche": "Onkel. Wie Papa, nur lustiger – Stofftasche für Onkel",
+  "hoodie": "Onkel. Wie Papa, nur lustiger – Hoodie für Onkel"
+ },
+ {
+  "id": 107,
+  "spruch": "Der Onkel mit den schlechten Witzen",
+  "shirt": "Der Onkel mit den schlechten Witzen – T-Shirt für Onkel",
+  "tasse": "Der Onkel mit den schlechten Witzen – Tasse für Onkel",
+  "stofftasche": "Der Onkel mit den schlechten Witzen – Stofftasche für Onkel",
+  "hoodie": "Der Onkel mit den schlechten Witzen – Hoodie für Onkel"
+ },
+ {
+  "id": 108,
+  "spruch": "Was Mama verbietet, erlaubt der Onkel",
+  "shirt": "Was Mama verbietet, erlaubt der Onkel – T-Shirt für Onkel",
+  "tasse": "Was Mama verbietet, erlaubt der Onkel – Tasse für Onkel",
+  "stofftasche": "Was Mama verbietet, erlaubt der Onkel – Stofftasche für Onkel",
+  "hoodie": "Was Mama verbietet, erlaubt der Onkel – Hoodie für Onkel"
+ },
+ {
+  "id": 112,
+  "spruch": "Tante weiß alles. Tante sagt nichts",
+  "shirt": "Tante weiß alles. Tante sagt nichts – T-Shirt für Tante",
+  "tasse": "Tante weiß alles. Tante sagt nichts – Tasse für Tante",
+  "stofftasche": "Tante weiß alles. Tante sagt nichts – Stofftasche für Tante",
+  "hoodie": "Tante weiß alles. Tante sagt nichts – Hoodie für Tante"
+ },
+ {
+  "id": 114,
+  "spruch": "Tante. Zuständig für Süßigkeiten vor dem Abendessen",
+  "shirt": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – T-Shirt für Tante",
+  "tasse": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – Tasse für Tante",
+  "stofftasche": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – Stofftasche für Tante",
+  "hoodie": "Tante. Zuständig für Süßigkeiten vor dem Abendessen – Hoodie für Tante"
+ },
+ {
+  "id": 63,
+  "spruch": "Rolltreppe: Ich stehe links",
+  "shirt": "Rolltreppe: Ich stehe links – T-Shirt mit Ragebait-Spruch",
+  "tasse": "Rolltreppe: Ich stehe links – Tasse mit Ragebait-Spruch",
+  "stofftasche": "Rolltreppe: Ich stehe links – Stofftasche mit Ragebait-Spruch",
+  "hoodie": "Rolltreppe: Ich stehe links – Hoodie mit Ragebait-Spruch"
+ },
+ {
+  "id": 65,
+  "spruch": "Dein Lieblingsfilm ist mittelmäßig",
+  "shirt": "Dein Lieblingsfilm ist mittelmäßig – T-Shirt mit Ragebait-Spruch",
+  "tasse": "Dein Lieblingsfilm ist mittelmäßig – Tasse mit Ragebait-Spruch",
+  "stofftasche": "Dein Lieblingsfilm ist mittelmäßig – Stofftasche mit Ragebait-Spruch",
+  "hoodie": "Dein Lieblingsfilm ist mittelmäßig – Hoodie mit Ragebait-Spruch"
+ },
+ {
+  "id": 231,
+  "spruch": "35 – Halb siebzig. Vollkommen ruhig",
+  "shirt": "35 – Halb siebzig. Vollkommen ruhig – T-Shirt zum 35. Geburtstag",
+  "tasse": "35 – Halb siebzig. Vollkommen ruhig – Tasse zum 35. Geburtstag",
+  "stofftasche": "35 – Halb siebzig. Vollkommen ruhig – Stofftasche zum 35. Geburtstag",
+  "hoodie": "35 – Halb siebzig. Vollkommen ruhig – Hoodie zum 35. Geburtstag"
+ },
+ {
+  "id": 241,
+  "spruch": "45 – Halb neunzig. Ganz entspannt",
+  "shirt": "45 – Halb neunzig. Ganz entspannt – T-Shirt zum 45. Geburtstag",
+  "tasse": "45 – Halb neunzig. Ganz entspannt – Tasse zum 45. Geburtstag",
+  "stofftasche": "45 – Halb neunzig. Ganz entspannt – Stofftasche zum 45. Geburtstag",
+  "hoodie": "45 – Halb neunzig. Ganz entspannt – Hoodie zum 45. Geburtstag"
+ },
+ {
+  "id": 251,
+  "spruch": "55 – Schnapszahl. Zweimal fünf gerade sein lassen",
+  "shirt": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – T-Shirt zum 55. Geburtstag",
+  "tasse": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – Tasse zum 55. Geburtstag",
+  "stofftasche": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – Stofftasche zum 55. Geburtstag",
+  "hoodie": "55 – Schnapszahl. Zweimal fünf gerade sein lassen – Hoodie zum 55. Geburtstag"
+ }
+]
